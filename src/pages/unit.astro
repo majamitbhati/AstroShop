@@ -1,0 +1,15 @@
+---
+import {Image} from "astro:assets"
+
+import Layout from "../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+import Shoplist from "../components/Shoplist.astro";
+
+const shops = await getCollection("shops");
+
+---
+
+<Layout title="Shops and Foodcourt for sale ">
+    <Shoplist shops={shops} />
+
+</Layout>

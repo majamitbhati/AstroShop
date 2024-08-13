@@ -1,0 +1,48 @@
+---
+import { getCollection, CollectionEntry} from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import { Image} from 'astro:assets';
+
+export const getStaticPaths = async () => {
+    const shops = await getCollection("shops");
+
+
+const paths = shops.map(shop=> { 
+return {
+    params: {
+        slug: shop.slug
+            },
+    props: {
+        shop
+            }
+      }
+})
+ return paths;
+} 
+
+type Props = {
+    shop: CollectionEntry<"shops">
+}
+
+const {shop} = Astro.props;
+const {Content} = await shop.render();
+---
+
+<Layout title="Shops for Sale in Trehan Iris Broadway Greno West">
+ <h1>{shop.data.title}</h1>
+<Image 
+src={shop.data.image}
+alt={shop.data.title}
+width={1024}
+height={1024/2}
+format="webp"
+class="rounded-2xl shadow-xl mb-2 object-cover"
+/>
+<Content />
+
+</Layout>
+
+
+
+
+

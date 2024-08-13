@@ -1,0 +1,65 @@
+---
+import {Image} from "astro:assets"
+
+const userEmail = Astro.cookies.get("userEmail")
+---
+
+<header
+    class="flex justify-between items-center px-2 py-12 max-sm:px-5 max-sm:py-10 max-w-7xl justify-self-center w-full"
+>
+    <a href="/" class="flex gap-x-2 items-center">
+        <Image
+            src="/img/heartbeat.png"
+            alt="rhythm nation logo"
+            width={640}
+            height={164}
+            format="webp"
+            class="w-16"
+        />
+
+        
+
+        <p class="uppercase text-2xl text-zinc-900">Trehan Iris</p>
+    </a>
+
+    <ul class="flex">
+        <li>
+            <a href="/" class ="text-2xl px-3 text-gray-700 hover:underline">Home </a>
+        </li>
+
+        <li>
+            <a href="/" class ="text-2xl px-3 text-gray-700 hover:underline">FoodCourt </a>
+        </li>
+       
+        <li>
+            <a href="/unit" class ="text-2xl px-3 text-gray-700 hover:underline">Shops </a>
+        </li>
+
+        <li>
+            <a href="/" class ="text-2xl px-3 text-gray-700 hover:underline">Anchor-Shops </a>
+        </li>
+
+        <li>
+            <a href="/" class ="text-2xl px-3 text-gray-700 hover:underline">Offices </a>
+        </li>
+
+    </ul>
+
+    {
+        userEmail?.value ? (
+            <a
+                href="/logout"
+                class="bg-teal-900 text-white py-3 px-6 rounded-xl text-xl"
+            >
+                Logout
+            </a>
+        ) : (
+            <a
+                href="/login"
+                class="bg-teal-900 text-white py-3 px-6 rounded-xl text-xl"
+            >
+                Login
+            </a>
+        )
+    }
+</header>
