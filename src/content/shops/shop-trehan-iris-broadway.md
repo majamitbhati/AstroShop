@@ -1,24 +1,25 @@
 ---
 category: shop
-date: dt 26/02/2024
+date: 08/06/2024
 featured: false
-image: ../images/photoshoot.jpg
-title: Trehan Iris Broadway Greno West shop below 30 lacs
-floor: Second Floor
-size: 180
-price: 36,00,000
-atrium: false
+image: ../images/band.jpg
+title: Trehan Iris Broadway Greno West atrium facing shop
+floor: 1st Floor
+size: 435
+price: 56,00,000
+atrium: true
 corner: false
 status: Resale
 byowner: true
-discount: 90000
+discount: 150000
 brokerage: true
 plc: 5%
 name: Amit Singh
 contactno: Ph 8375924100
-giftvisit : Rs 2000
-giftbuy : gold coin
+giftvisit : Rs. 2000
+giftbuy : Gold Coin
 ---
+
 
 Collaboration is a key component of many creative endeavors, and music production is no exception. In fact, collaboration can be essential to the success of a music project, as it allows for the pooling of diverse talents and perspectives to create something truly unique and compelling.
 

@@ -3,58 +3,33 @@ import { Image } from "astro:assets";
 import { getEntryBySlug, type CollectionEntry } from "astro:content";
 
 type Props = {
-    shop: CollectionEntry<'shops'>;
+    shop: CollectionEntry<"shops">;
 };
 
-const { shop } = Astro.props; 
-
+const { shop } = Astro.props;
 ---
 
-<article> 
-
- <div class="border-gray-700 border-spacing-x-10"></div>   
-    <a 
-   href={`/unit/${shop.slug}`}
-   class="text-4xl text-zinc-900 font-semibold inline-block px-20 py-10"
-   >
-   <h2>{shop.data.title}</h2>
-   </a> 
-
-   <div class ="grid grid-cols-4 gap-2 px-10">
-
-        <div>
-         <a 
-         href={`/unit/${shop.slug}`}>
-            <Image
-             src={shop.data.image}
-             width={800}
-             height={ 600 / 1.5}
-             alt={shop.data.title}
-             class="aspect-thumbnail object-cover"
-             format="webp"
-          />
-         </a>
+<article class="w-[350px] inline-block m-4 rounded-xl">
+    <a href={`/unit/${shop.slug}`}>
+        <div class="">
+            <div>
+                <Image
+                        src={shop.data.image}
+                        width={400}
+                        height={600 / 1.5}
+                        alt={shop.data.title}
+                        class="aspect-thumbnail object-cover"
+                        format="webp"
+                    />
+                
+            </div>
+            <div class="bg-slate-100 px-3 py-5">
+                <h2>{shop.data.title}</h2>
+                <h2>Size: {shop.data.size} sq ft</h2>
+                <h2>Floor: {shop.data.floor}</h2>
+                <h2>Atrium Facing: {shop.data.atrium ? "yes" : "no"}</h2>
+                <h2>Price plan: {shop.data.price}</h2>
+            </div>
         </div>
-
-        <div class="bg-slate-100">
-            <h2>Size: {shop.data.size} sq ft</h2>
-            <h2>Floor: {shop.data.floor}</h2>
-            <h2>Atrium Facing: {shop.data.atrium ? "yes":"no"}</h2>
-        </div>
-
-        <div class="bg-slate-100">
-
-        </div>
-
-        <div class="bg-slate-100">
-
-        </div>
-
-   </div>
-
-</a>
-<p class="text-zinc-500 text-2xl line-clamp-2 px-20 py-10">
-    {shop.body}
-</p>
-</div>
+    </a>
 </article>

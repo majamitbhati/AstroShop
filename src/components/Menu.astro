@@ -1,0 +1,45 @@
+---
+import {Image} from "astro:assets"
+
+const userEmail = Astro.cookies.get("userEmail")
+---
+
+<header
+    class="flex justify-start items-center px-10 py-2 sticky top-0 max-sm:px-5 max-sm:py-10 justify-self-center w-full bg-black"
+>
+
+    <ul class="flex">
+        <li>
+            <a href="#overview" class ="px-3 text-white hover:underline">Overview</a>
+        </li>
+
+        <li>
+            <a href="#investment-options" class ="px-3 text-white hover:underline">Investment Options</a>
+        </li>
+       
+        <li>
+            <a href="#units" class ="px-3 text-white hover:underline">Available Units</a>
+        </li>
+
+        <li>
+            <a href="#highlights" class ="px-3 text-white hover:underline">Highlights</a>
+        </li>
+
+        <li>
+            <a href="#amenities" class ="px-3 text-white hover:underline">Amenities</a>
+        </li>
+
+        <li>
+            <a href="#brochure" class ="px-3 text-white hover:underline">Brochure</a>
+        </li>
+
+        <li>
+            <a href="#location" class ="px-3 text-white hover:underline">Location Map</a>
+        </li>
+
+        <li>
+            <a href="#about" class ="px-3 text-white hover:underline">About Trahan</a>
+        </li>
+    </ul>
+
+</header>

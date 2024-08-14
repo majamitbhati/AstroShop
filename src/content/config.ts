@@ -12,7 +12,7 @@ const shopsCollection = defineCollection({
             title: z.string(),
             floor: z.string(),
             size: z.number(),
-            price: z.number(),
+            price: z.string(),
             atrium: z.boolean(),
             corner: z.boolean(),
             status: z.string(),

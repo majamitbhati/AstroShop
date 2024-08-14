@@ -4,22 +4,12 @@ import type { CollectionEntry } from "astro:content";
 import Shop from "./Shop.astro";
 
 type Props = {
-    shops: CollectionEntry<'shops'>[];
+    shops: CollectionEntry<"shops">[];
 };
 
 const { shops } = Astro.props;
-
 ---
 
-<div
-class="grid gap-x-16 gap-y-14 max-md:grid-clos-1 mb-24"
->
-{shops.map((shop) => <Shop shop={shop} />)}
-
+<div class="flex justify-center">
+    {shops.map((shop) => <Shop shop={shop} />)}
 </div>
-
-
-<!-- 
-
-
--->

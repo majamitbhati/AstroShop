@@ -1,37 +1,23 @@
 ---
-import {Image} from "astro:assets"
+import { Image } from "astro:assets";
 
-import Layout from '../layouts/Layout.astro';
-import Card from '../components/Card.astro';
+import Layout from "../layouts/Layout.astro";
+import Shoplist from "../components/Shoplist.astro";
+import { getCollection } from "astro:content";
+import Menu from "../components/Menu.astro"
+import Slider from "../components/Slider.astro"
+import About from "../components/About.astro"
+import MiniSlider from "../components/MiniSlider.astro"
+
+const shops = await getCollection("shops");
 ---
 
-<Layout title="Welcome to Astro.">
-	<a href="/" class="flex gap-x-4 items-center opacity-50 bg-[url('/img/bluesky.jpg')] bg-cover bg-center">
-		<div class="flex items-center">
-			<div class="flex-none px-2 w-24 h-16 bg-slate-200">
-			  
-			</div>
-			<div class="flex-none px-2 w-32 h-16 bg-slate-50">
-			  02
-			</div>
-			<div class="flex-1 px-2 w-24 h-16 bg-slate-200">
-			  03
-			</div>
-		  </div>
-
-		<!-- 
-		<Image
-            src="/img/bluesky.jpg"
-            alt="rhythm nation logo"
-            width={2640}
-            height={564}
-            format="webp"
-            
-        />
-	-->
-	
-		</a>
-	<h1>Property for Sale</h1>
+<Layout title="Trehan Iris Broadway Greno West">
+	<Slider />
+	<!-- <div class="flex justify-center">
+		<Shoplist shops={shops} />
+	</div>	 -->
+	<Menu />
+	<About />
+	<MiniSlider />
 </Layout>
-
-

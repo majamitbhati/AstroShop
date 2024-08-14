@@ -1,12 +1,12 @@
 ---
 category: shop
-date: dt 08/06/2024
+date: 08/06/2024
 featured: false
 image: ../images/photoshoot.jpg
 title: Trehan Iris Broadway Greno West atrium facing shop on sale
 floor: Second Floor
 size: 215
-price: 4600000
+price: 46,00,000
 atrium: true
 corner: false
 status: Resale
