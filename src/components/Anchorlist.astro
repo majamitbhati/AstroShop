@@ -1,0 +1,16 @@
+---
+import type { GetStaticPaths } from "astro";
+import { Image } from "astro:assets";
+import type { CollectionEntry } from "astro:content";
+import Anchor from "./Anchor.astro";
+
+type Props = {
+    anchors: CollectionEntry<"anchors">[];
+};
+
+const { anchors } = Astro.props;
+---
+
+<div class="flex justify-center">
+    {anchors.map((anchor) => <Anchor anchor={anchor} />)}
+</div>

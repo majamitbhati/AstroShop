@@ -1,36 +1,37 @@
 ---
 import { Image } from "astro:assets";
 import { getEntryBySlug, type CollectionEntry } from "astro:content";
+import myImage from "../content/images/photoshoot.jpg";
 
 type Props = {
-    shop: CollectionEntry<"shops">;
+    food: CollectionEntry<"foods">;
 };
 
-const { shop } = Astro.props;
+const { food } = Astro.props;
 ---
 
 
 <div class="w-[300px] inline-block m-4 rounded-xl">
-    <a href={`/unit/${shop.slug}`}>
+    <a href={`/unit/${food.slug}`}>
         <div class="">
             <div>
                 <Image
-                        src={shop.data.image}
+                        src={myImage}
                         width={400}
                         height={600 / 1.5}
-                        alt={shop.data.title}
+                        alt={food.data.title}
                         class="aspect-thumbnail object-cover"
                         format="webp"
                     />
                 
             </div>
             <div class="bg-slate-100 px-3 py-5">
-                <h2>{shop.data.title}</h2>
-                <h2>Size: {shop.data.size} sq ft</h2>
-                <h2>Floor: {shop.data.floor}</h2>
-                <h2>Atrium Facing: {shop.data.atrium ? "yes" : "no"}</h2>
-                <h2>Price plan: {shop.data.price}</h2>
-                <h2>Category: {shop.data.category}</h2>
+                <h2>{food.data.title}</h2>
+                <h2>Size: {food.data.size} sq ft</h2>
+                <h2>Floor: {food.data.floor}</h2>
+                <h2>Atrium Facing: {food.data.atrium ? "yes" : "no"}</h2>
+                <h2>Price plan: {food.data.price}</h2>
+                <h2>Category: {food.data.category}</h2>
             </div>
         </div>
     </a>

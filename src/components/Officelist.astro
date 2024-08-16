@@ -1,0 +1,16 @@
+---
+import type { GetStaticPaths } from "astro";
+import { Image } from "astro:assets";
+import type { CollectionEntry } from "astro:content";
+import Office from "./Office.astro";
+
+type Props = {
+    offices: CollectionEntry<"offices">[];
+};
+
+const { offices } = Astro.props;
+---
+
+<div class="flex justify-center">
+    {offices.map((office) => <Office office={office} />)}
+</div>

@@ -127,7 +127,97 @@ declare module 'astro:content' {
 	>;
 
 	type ContentEntryMap = {
-		"shops": {
+		"anchors": {
+"shop-SF177.md": {
+	id: "shop-SF177.md";
+  slug: "shop-sf177";
+  body: string;
+  collection: "anchors";
+  data: any
+} & { render(): Render[".md"] };
+"shop-for-sale-trehan-iris-noida-SF60.md": {
+	id: "shop-for-sale-trehan-iris-noida-SF60.md";
+  slug: "shop-for-sale-trehan-iris-noida-sf60";
+  body: string;
+  collection: "anchors";
+  data: any
+} & { render(): Render[".md"] };
+"shop-trehan-iris-broadway.md": {
+	id: "shop-trehan-iris-broadway.md";
+  slug: "shop-trehan-iris-broadway";
+  body: string;
+  collection: "anchors";
+  data: any
+} & { render(): Render[".md"] };
+"trehan-iris-anchorshop.md": {
+	id: "trehan-iris-anchorshop.md";
+  slug: "trehan-iris-anchorshop";
+  body: string;
+  collection: "anchors";
+  data: any
+} & { render(): Render[".md"] };
+};
+"foods": {
+"shop-SF177.md": {
+	id: "shop-SF177.md";
+  slug: "shop-sf177";
+  body: string;
+  collection: "foods";
+  data: any
+} & { render(): Render[".md"] };
+"shop-for-sale-trehan-iris-noida-SF60.md": {
+	id: "shop-for-sale-trehan-iris-noida-SF60.md";
+  slug: "shop-for-sale-trehan-iris-noida-sf60";
+  body: string;
+  collection: "foods";
+  data: any
+} & { render(): Render[".md"] };
+"shop-trehan-iris-broadway.md": {
+	id: "shop-trehan-iris-broadway.md";
+  slug: "shop-trehan-iris-broadway";
+  body: string;
+  collection: "foods";
+  data: any
+} & { render(): Render[".md"] };
+"trehan-iris-anchorshop.md": {
+	id: "trehan-iris-anchorshop.md";
+  slug: "trehan-iris-anchorshop";
+  body: string;
+  collection: "foods";
+  data: any
+} & { render(): Render[".md"] };
+};
+"offices": {
+"shop-SF177.md": {
+	id: "shop-SF177.md";
+  slug: "shop-sf177";
+  body: string;
+  collection: "offices";
+  data: any
+} & { render(): Render[".md"] };
+"shop-for-sale-trehan-iris-noida-SF60.md": {
+	id: "shop-for-sale-trehan-iris-noida-SF60.md";
+  slug: "shop-for-sale-trehan-iris-noida-sf60";
+  body: string;
+  collection: "offices";
+  data: any
+} & { render(): Render[".md"] };
+"shop-trehan-iris-broadway.md": {
+	id: "shop-trehan-iris-broadway.md";
+  slug: "shop-trehan-iris-broadway";
+  body: string;
+  collection: "offices";
+  data: any
+} & { render(): Render[".md"] };
+"trehan-iris-anchorshop.md": {
+	id: "trehan-iris-anchorshop.md";
+  slug: "trehan-iris-anchorshop";
+  body: string;
+  collection: "offices";
+  data: any
+} & { render(): Render[".md"] };
+};
+"shops": {
 "shop-SF177.md": {
 	id: "shop-SF177.md";
   slug: "shop-sf177";
@@ -135,9 +225,9 @@ declare module 'astro:content' {
   collection: "shops";
   data: InferEntrySchema<"shops">
 } & { render(): Render[".md"] };
-"shop-SF60.md": {
-	id: "shop-SF60.md";
-  slug: "shop-sf60";
+"shop-for-sale-trehan-iris-noida-SF60.md": {
+	id: "shop-for-sale-trehan-iris-noida-SF60.md";
+  slug: "shop-for-sale-trehan-iris-noida-sf60";
   body: string;
   collection: "shops";
   data: InferEntrySchema<"shops">
@@ -145,6 +235,13 @@ declare module 'astro:content' {
 "shop-trehan-iris-broadway.md": {
 	id: "shop-trehan-iris-broadway.md";
   slug: "shop-trehan-iris-broadway";
+  body: string;
+  collection: "shops";
+  data: InferEntrySchema<"shops">
+} & { render(): Render[".md"] };
+"trehan-iris-anchorshop.md": {
+	id: "trehan-iris-anchorshop.md";
+  slug: "trehan-iris-anchorshop";
   body: string;
   collection: "shops";
   data: InferEntrySchema<"shops">

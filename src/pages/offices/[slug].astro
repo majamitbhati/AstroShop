@@ -1,0 +1,51 @@
+---
+import { getCollection, CollectionEntry} from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import { Image} from 'astro:assets';
+
+export const getStaticPaths = async () => {
+    const offices = await getCollection("offices");
+
+
+const paths = offices.map(office=> { 
+return {
+    params: {
+        slug: office.slug
+            },
+    props: {
+        office
+            }
+      }
+})
+ return paths;
+} 
+
+type Props = {
+    office: CollectionEntry<"offices">
+}
+
+const {office} = Astro.props;
+const {Content} = await office.render();
+---
+
+<Layout title="officecourts for Sale in Trehan Iris Broadway Greno West">
+ <h1>{office.data.title}</h1>
+<Image 
+src={office.data.image}
+alt={office.data.title}
+width={1024}
+height={1024/2}
+format="webp"
+class="rounded-2xl shadow-xl mb-2 object-cover"
+/>
+<h4>Category: {office.data.category}</h4>
+<h4>Date: {office.data.date}</h4>
+<h4>Price: {office.data.price}</h4>
+<Content />
+
+</Layout>
+
+
+
+
+

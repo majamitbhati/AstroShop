@@ -30,3 +30,98 @@ const shopsCollection = defineCollection({
 export const collections = {
     shops: shopsCollection,
 }
+
+
+
+const foodCollection = defineCollection({
+    schema: ({image}) =>
+        z.object({
+            category: z.string(),
+            date: z.string(),
+               // .transform(str => format(new Date(str), "MMMM d, yyyy")),
+            featured: z.boolean().default(false),
+            image: image(),
+            title: z.string(),
+            floor: z.string(),
+            size: z.number(),
+            price: z.string(),
+            atrium: z.boolean(),
+            corner: z.boolean(),
+            status: z.string(),
+            byowner: z.boolean(),
+            discount: z.number(),
+            brokerage: z.boolean(),
+            plc: z.string(),
+            name: z.string(),
+            contactno: z.string(),
+            giftvisit: z.string(),
+            giftbuy: z.string()
+        }),
+});
+
+export const foodCollections = {
+    foods: foodCollection,
+}
+
+
+const anchorCollection = defineCollection({
+    schema: ({image}) =>
+        z.object({
+            category: z.string(),
+            date: z.string(),
+               // .transform(str => format(new Date(str), "MMMM d, yyyy")),
+            featured: z.boolean().default(false),
+            image: image(),
+            title: z.string(),
+            floor: z.string(),
+            size: z.number(),
+            price: z.string(),
+            atrium: z.boolean(),
+            corner: z.boolean(),
+            status: z.string(),
+            byowner: z.boolean(),
+            discount: z.number(),
+            brokerage: z.boolean(),
+            plc: z.string(),
+            name: z.string(),
+            contactno: z.string(),
+            giftvisit: z.string(),
+            giftbuy: z.string()
+        }),
+});
+
+export const anchorCollections = {
+    anchors: anchorCollection,
+}
+
+
+
+const officeCollection = defineCollection({
+    schema: ({image}) =>
+        z.object({
+            category: z.string(),
+            date: z.string(),
+               // .transform(str => format(new Date(str), "MMMM d, yyyy")),
+            featured: z.boolean().default(false),
+            image: image(),
+            title: z.string(),
+            floor: z.string(),
+            size: z.number(),
+            price: z.string(),
+            atrium: z.boolean(),
+            corner: z.boolean(),
+            status: z.string(),
+            byowner: z.boolean(),
+            discount: z.number(),
+            brokerage: z.boolean(),
+            plc: z.string(),
+            name: z.string(),
+            contactno: z.string(),
+            giftvisit: z.string(),
+            giftbuy: z.string()
+        }),
+});
+
+export const officeCollections = {
+    offices: officeCollection,
+}

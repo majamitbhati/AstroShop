@@ -1,0 +1,15 @@
+---
+import {Image} from "astro:assets"
+
+import Layout from "../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+import Anchorlist from "../components/Anchorlist.astro";
+
+const anchors = await getCollection("anchors");
+
+---
+
+<Layout title="Shops and Foodcourt for sale ">
+    <Anchorlist anchors={anchors} />
+
+</Layout>

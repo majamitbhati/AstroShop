@@ -1,0 +1,14 @@
+---
+import {Image} from "astro:assets"
+
+import Layout from "../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+import Officelist from "../components/Officelist.astro";
+
+const offices = await getCollection("offices");
+
+---
+
+<Layout title="offices for sale ">
+    <Officelist offices={offices} />
+</Layout>

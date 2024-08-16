@@ -1,0 +1,51 @@
+---
+import { getCollection, CollectionEntry} from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import { Image} from 'astro:assets';
+
+export const getStaticPaths = async () => {
+    const foods = await getCollection("foods");
+
+
+const paths = foods.map(food=> { 
+return {
+    params: {
+        slug: food.slug
+            },
+    props: {
+        food
+            }
+      }
+})
+ return paths;
+} 
+
+type Props = {
+    food: CollectionEntry<"foods">
+}
+
+const {food} = Astro.props;
+const {Content} = await food.render();
+---
+
+<Layout title="Foodcourts for Sale in Trehan Iris Broadway Greno West">
+ <h1>{food.data.title}</h1>
+<Image 
+src={food.data.image}
+alt={food.data.title}
+width={1024}
+height={1024/2}
+format="webp"
+class="rounded-2xl shadow-xl mb-2 object-cover"
+/>
+<h4>Category: {food.data.category}</h4>
+<h4>Date: {food.data.date}</h4>
+<h4>Price: {food.data.price}</h4>
+<Content />
+
+</Layout>
+
+
+
+
+
