@@ -1,39 +1,41 @@
 ---
 import { Image } from "astro:assets";
 import { getEntryBySlug, type CollectionEntry } from "astro:content";
-// import myImage from "../content/images/photoshoot.jpg";
+import ResaleType from "./ResaleType.astro";
+import Price from "./Price.astro";
+import EnquireNow from "./EnquireNow.astro";
+import Facilities from "./Facilities.astro";
 
 type Props = {
     office: CollectionEntry<"offices">;
 };
-
 const { office } = Astro.props;
 ---
 
-
-<div class="w-[300px] inline-block m-4 rounded-xl">
+<div class="w-[318px] inline-block m-4 rounded-lg border-2 border-slate-200 pb-8">
     <a href={`/unit/${office.slug}`}>
         <div class="">
             <div>
+                <ResaleType />
+            </div>
+            <div>
                 <Image
-                        src={office.data.image}
-                        width={400}
-                        height={600 / 1.5}
-                        alt={office.data.title}
-                        class="aspect-thumbnail object-cover"
-                        format="webp"
-                    />
-                
+                    src={office.data.image}
+                    width={400}
+                    height={600 / 1.5}
+                    alt={office.data.title}
+                    class="aspect-thumbnail object-cover"
+                    format="webp"
+                />
+                <Price price={office.data.price} />
             </div>
-            <div class="bg-slate-100 px-3 py-5">
-                <h2>{office.data.title}</h2>
-                <h2>Size: {office.data.size} sq ft</h2>
-                <h2>Floor: {office.data.floor}</h2>
-                <h2>Atrium Facing: {office.data.atrium ? "yes" : "no"}</h2>
-                <h2>Price plan: {office.data.price}</h2>
-                <h2>Category: {office.data.category}</h2>
-            </div>
+            <Facilities 
+            size={office.data.size} 
+            floor={office.data.floor} 
+            discount={office.data.discount} 
+            atrium={office.data.atrium} />
+            <p class="mx-3 my-3"><strong>Details: -</strong>{office.data.title}</p>
+            <EnquireNow />
         </div>
     </a>
 </div>
-

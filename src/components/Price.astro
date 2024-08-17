@@ -1,12 +1,13 @@
 ---
+const {price} = Astro.props;
 
 ---
 
-<div class="border-2 border-[#f5f5f5] flex">
-    <div class="bg-[#E4B300] p-3">
-        Price:
+<div class="bg-white border-2 border-[#E4B300] flex absolute mt-[-50px]">
+    <div class="bg-[#E4B300] p-3 font-bold">
+        BSP Price:
     </div>
-    <div class="amount p-3">
-        {"45,00,000"}
+    <div class="amount p-3 font-bold">
+        {price}
     </div>
 </div>

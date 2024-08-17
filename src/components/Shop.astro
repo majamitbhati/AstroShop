@@ -3,16 +3,21 @@ import { Image } from "astro:assets";
 import { getEntryBySlug, type CollectionEntry } from "astro:content";
 import ResaleType from "./ResaleType.astro";
 import Price from "./Price.astro";
+import EnquireNow from "./EnquireNow.astro";
+import Facilities from "./Facilities.astro";
 
 type Props = {
     shop: CollectionEntry<"shops">;
 };
-
 const { shop } = Astro.props;
+
+const parsepsf = (shop.data.price)
+const parsesize = (shop.data.size)
+
+const BSPPrice = parsepsf * parsesize;
 ---
 
-
-<div class="w-[300px] inline-block m-4 rounded-xl">
+<div class="w-[318px] inline-block m-4 rounded-lg border-2 border-slate-200 pb-8">
     <a href={`/unit/${shop.slug}`}>
         <div class="">
             <div>
@@ -20,26 +25,22 @@ const { shop } = Astro.props;
             </div>
             <div>
                 <Image
-                        src={shop.data.image}
-                        width={400}
-                        height={600 / 1.5}
-                        alt={shop.data.title}
-                        class="aspect-thumbnail object-cover"
-                        format="webp"
-                    />
-                    <Price />
-                
+                    src={shop.data.image}
+                    width={400}
+                    height={600 / 1.5}
+                    alt={shop.data.title}
+                    class="aspect-thumbnail object-cover"
+                    format="webp"
+                />
+                <Price price={BSPPrice} />
             </div>
-            <div class="bg-slate-100 px-3 py-5">
-                <h2>{shop.data.title}</h2>
-                <h2>Size: {shop.data.size} sq ft</h2>
-                <h2>Floor: {shop.data.floor}</h2>
-                <h2>Atrium Facing: {shop.data.atrium ? "yes" : "no"}</h2>
-                <h2>Price plan: {shop.data.price}</h2>
-                <h2>Category: {shop.data.category}</h2>
-                <h2>introduction: {shop.data.date}</h2>
-            </div>
+            <Facilities 
+            size={shop.data.size} 
+            floor={shop.data.floor} 
+            discount={shop.data.discount} 
+            atrium={shop.data.atrium} />
+            <p class="mx-3 my-3"><strong>Details: -</strong>{shop.data.title}</p>
+            <EnquireNow />
         </div>
     </a>
 </div>
-

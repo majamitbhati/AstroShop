@@ -1,0 +1,14 @@
+---
+import MainHeading from "./MainHeading.astro";
+import AmenitiesCard from "./AmenitiesCard.astro";
+---
+
+<div class="px-16 py-10">
+    <MainHeading heading="Features and Amenities" />
+
+    <div class="flex flex-wrap justify-center">
+        <div class="w-64 gap-3 m-4">
+            <AmenitiesCard image={"./../public/img/icon/parking-area.webp"} cardtext={"Parking"} />
+        </div>
+    </div>
+</div>

@@ -4,12 +4,15 @@ import {Image} from "astro:assets"
 import Layout from "../layouts/Layout.astro";
 import { getCollection } from "astro:content";
 import Anchorlist from "../components/Anchorlist.astro";
+import Breadcrumb from "../components/Breadcrumb.astro";
 
 const anchors = await getCollection("anchors");
 
 ---
 
 <Layout title="Shops and Foodcourt for sale ">
+    <Breadcrumb title={"Trahan Iris Anchor Shops Unit for Resale"} />
+
     <Anchorlist anchors={anchors} />
 
 </Layout>

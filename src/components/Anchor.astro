@@ -1,39 +1,41 @@
 ---
 import { Image } from "astro:assets";
 import { getEntryBySlug, type CollectionEntry } from "astro:content";
-// import myImage from "../content/images/photoshoot.jpg";
+import ResaleType from "./ResaleType.astro";
+import Price from "./Price.astro";
+import EnquireNow from "./EnquireNow.astro";
+import Facilities from "./Facilities.astro";
 
 type Props = {
     anchor: CollectionEntry<"anchors">;
 };
-
 const { anchor } = Astro.props;
 ---
 
-
-<div class="w-[300px] inline-block m-4 rounded-xl">
+<div class="w-[318px] inline-block m-4 rounded-lg border-2 border-slate-200 pb-8">
     <a href={`/unit/${anchor.slug}`}>
         <div class="">
             <div>
+                <ResaleType />
+            </div>
+            <div>
                 <Image
-                        src={anchor.data.image}
-                        width={400}
-                        height={600 / 1.5}
-                        alt={anchor.data.title}
-                        class="aspect-thumbnail object-cover"
-                        format="webp"
-                    />
-                
+                    src={anchor.data.image}
+                    width={400}
+                    height={600 / 1.5}
+                    alt={anchor.data.title}
+                    class="aspect-thumbnail object-cover"
+                    format="webp"
+                />
+                <Price price={anchor.data.price} />
             </div>
-            <div class="bg-slate-100 px-3 py-5">
-                <h2>{anchor.data.title}</h2>
-                <h2>Size: {anchor.data.size} sq ft</h2>
-                <h2>Floor: {anchor.data.floor}</h2>
-                <h2>Atrium Facing: {anchor.data.atrium ? "yes" : "no"}</h2>
-                <h2>Price plan: {anchor.data.price}</h2>
-                <h2>Category: {anchor.data.category}</h2>
-            </div>
+            <Facilities 
+            size={anchor.data.size} 
+            floor={anchor.data.floor} 
+            discount={anchor.data.discount} 
+            atrium={anchor.data.atrium} />
+            <p class="mx-3 my-3"><strong>Details: -</strong>{anchor.data.title}</p>
+            <EnquireNow />
         </div>
     </a>
 </div>
-

@@ -4,12 +4,14 @@ import {Image} from "astro:assets"
 import Layout from "../layouts/Layout.astro";
 import { getCollection } from "astro:content";
 import Foodlist from "../components/Foodlist.astro";
+import Breadcrumb from "../components/Breadcrumb.astro";
 
 const foods = await getCollection("foods");
 
 ---
 
 <Layout title="Shops and Foodcourt for sale ">
+    <Breadcrumb title={"Trahan Iris Foodcourts Unit for Resale"} />
     <Foodlist foods={foods} />
 
 </Layout>

@@ -1,0 +1,11 @@
+---
+const {image} = Astro.props
+const {cardtext} = Astro.props
+---
+
+<div class="px-6 py-8 h-[15px] content-center">
+    <div class="p-8 bg-slate-200 rounded-xl">
+        <img src={image} alt="" width="100px">
+    </div>
+    <p class="text-sm text-center">{cardtext}</p>
+</div>

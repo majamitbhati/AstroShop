@@ -12,6 +12,8 @@ import Overview from "../components/Overview.astro";
 import Form from "../components/Form.astro";
 import InvestmentOptions from "../components/InvestmentOptions.astro";
 import MainHeading from "../components/MainHeading.astro";
+import ProjectHighlight from "../components/ProjectHighlight.astro";
+import Amenities from "../components/Amenities.astro";
 
 
 const shops = await getCollection("shops");
@@ -29,10 +31,12 @@ const shops = await getCollection("shops");
 		<Form />
 	</div>
 	<InvestmentOptions />
-	<div class="shop mx-16 py-16">
+	<div class="shop mx-16 py-24">
 		<MainHeading heading="Resale Shops in Trehan Iris Broadway Greno West"/>
 		<div class="flex justify-center">
 			<Shoplist shops={shops} />
 		</div>
+		<ProjectHighlight />
+		<Amenities />
 	</div>
 </Layout>

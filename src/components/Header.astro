@@ -7,7 +7,7 @@ const userEmail = Astro.cookies.get("userEmail")
         <div class="flex justify-end">
             <div class="phone">
                 <a href="tel:+917835005003"
-                    style="text-decoration: none; color: black; font-weight: 500;" class="flex"><svg
+                    style="text-decoration: none; color: black; font-weight: 500;" class="flex items-center"><svg
                         xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" width="18px"
                         height="18px"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
                         <path fill="#fff"
@@ -16,7 +16,7 @@ const userEmail = Astro.cookies.get("userEmail")
             </div>&nbsp;&nbsp;
             <div class="mail">
                 <a href="mailto:www.property.sale@gmail.com"
-                    style="text-decoration: none; color: black; font-weight: 500;" class="flex"><svg
+                    style="text-decoration: none; color: black; font-weight: 500;" class="flex items-center"><svg
                         xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="18px"
                         height="18px"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
                         <path fill="#fff"
@@ -24,7 +24,7 @@ const userEmail = Astro.cookies.get("userEmail")
                     </svg>&nbsp;&nbsp;
                     <span class="text-white">www.property.sale@gmail.com</span></a>
             </div>&nbsp;&nbsp;
-            <div class="whatsapp flex">
+            <div class="whatsapp flex items-center">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="18px"
                     height="18px"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
                     <path fill="#fff"
@@ -53,23 +53,31 @@ const userEmail = Astro.cookies.get("userEmail")
 
     <ul class="flex">
         <li>
-            <a href="/" class ="px-3 text-white hover:underline">Home </a>
+            <a href="/" class ="px-3 text-white hover:text-gray-300 font-bold text-xl">Home </a>
         </li>
 
         <li>
-            <a href="/foodcourt" class ="px-3 text-white hover:underline">FoodCourt </a>
-        </li>
-       
-        <li>
-            <a href="/unit" class ="px-3 text-white hover:underline">Shops </a>
+            <a href="/unit" class ="px-3 text-white hover:text-gray-300 font-bold text-xl">Shops</a>
         </li>
 
         <li>
-            <a href="/anchorshop" class ="px-3 text-white hover:underline">Anchor-Shops </a>
+            <a href="/foodcourt" class ="px-3 text-white hover:text-gray-300 font-bold text-xl">Food Court</a>
         </li>
 
         <li>
-            <a href="/offices" class ="px-3 text-white hover:underline">Offices </a>
+            <a href="/anchorshop" class ="px-3 text-white hover:text-gray-300 font-bold text-xl">Anchor Shops</a>
+        </li>
+
+        <li>
+            <a href="/offices" class ="px-3 text-white hover:text-gray-300 font-bold text-xl">Offices</a>
+        </li>
+
+        <li>
+            <a href="/about" class ="px-3 text-white hover:text-gray-300 font-bold text-xl">About Us</a>
+        </li>
+
+        <li>
+            <a href="/contact" class ="px-3 text-white hover:text-gray-300 font-bold text-xl">Contact Us</a>
         </li>
 
     </ul>
