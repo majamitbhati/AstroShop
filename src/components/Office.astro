@@ -1,7 +1,7 @@
 ---
 import { Image } from "astro:assets";
 import { getEntryBySlug, type CollectionEntry } from "astro:content";
-import myImage from "../content/images/photoshoot.jpg";
+// import myImage from "../content/images/photoshoot.jpg";
 
 type Props = {
     office: CollectionEntry<"offices">;
@@ -16,7 +16,7 @@ const { office } = Astro.props;
         <div class="">
             <div>
                 <Image
-                        src={myImage}
+                        src={office.data.image}
                         width={400}
                         height={600 / 1.5}
                         alt={office.data.title}

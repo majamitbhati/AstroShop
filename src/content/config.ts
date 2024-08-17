@@ -27,11 +27,6 @@ const shopsCollection = defineCollection({
         }),
 });
 
-export const collections = {
-    shops: shopsCollection,
-}
-
-
 
 const foodCollection = defineCollection({
     schema: ({image}) =>
@@ -59,9 +54,7 @@ const foodCollection = defineCollection({
         }),
 });
 
-export const foodCollections = {
-    foods: foodCollection,
-}
+
 
 
 const anchorCollection = defineCollection({
@@ -90,9 +83,6 @@ const anchorCollection = defineCollection({
         }),
 });
 
-export const anchorCollections = {
-    anchors: anchorCollection,
-}
 
 
 
@@ -122,6 +112,12 @@ const officeCollection = defineCollection({
         }),
 });
 
-export const officeCollections = {
-    offices: officeCollection,
+
+
+
+export const collections = {
+    shops: shopsCollection,
+    foods: foodCollection,
+    anchors: anchorCollection,
+    offices: officeCollection
 }

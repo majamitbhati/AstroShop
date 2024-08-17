@@ -133,28 +133,28 @@ declare module 'astro:content' {
   slug: "shop-sf177";
   body: string;
   collection: "anchors";
-  data: any
+  data: InferEntrySchema<"anchors">
 } & { render(): Render[".md"] };
 "shop-for-sale-trehan-iris-noida-SF60.md": {
 	id: "shop-for-sale-trehan-iris-noida-SF60.md";
   slug: "shop-for-sale-trehan-iris-noida-sf60";
   body: string;
   collection: "anchors";
-  data: any
+  data: InferEntrySchema<"anchors">
 } & { render(): Render[".md"] };
 "shop-trehan-iris-broadway.md": {
 	id: "shop-trehan-iris-broadway.md";
   slug: "shop-trehan-iris-broadway";
   body: string;
   collection: "anchors";
-  data: any
+  data: InferEntrySchema<"anchors">
 } & { render(): Render[".md"] };
 "trehan-iris-anchorshop.md": {
 	id: "trehan-iris-anchorshop.md";
   slug: "trehan-iris-anchorshop";
   body: string;
   collection: "anchors";
-  data: any
+  data: InferEntrySchema<"anchors">
 } & { render(): Render[".md"] };
 };
 "foods": {
@@ -163,28 +163,28 @@ declare module 'astro:content' {
   slug: "shop-sf177";
   body: string;
   collection: "foods";
-  data: any
+  data: InferEntrySchema<"foods">
 } & { render(): Render[".md"] };
 "shop-for-sale-trehan-iris-noida-SF60.md": {
 	id: "shop-for-sale-trehan-iris-noida-SF60.md";
   slug: "shop-for-sale-trehan-iris-noida-sf60";
   body: string;
   collection: "foods";
-  data: any
+  data: InferEntrySchema<"foods">
 } & { render(): Render[".md"] };
 "shop-trehan-iris-broadway.md": {
 	id: "shop-trehan-iris-broadway.md";
   slug: "shop-trehan-iris-broadway";
   body: string;
   collection: "foods";
-  data: any
+  data: InferEntrySchema<"foods">
 } & { render(): Render[".md"] };
 "trehan-iris-anchorshop.md": {
 	id: "trehan-iris-anchorshop.md";
   slug: "trehan-iris-anchorshop";
   body: string;
   collection: "foods";
-  data: any
+  data: InferEntrySchema<"foods">
 } & { render(): Render[".md"] };
 };
 "offices": {
@@ -193,28 +193,28 @@ declare module 'astro:content' {
   slug: "shop-sf177";
   body: string;
   collection: "offices";
-  data: any
+  data: InferEntrySchema<"offices">
 } & { render(): Render[".md"] };
 "shop-for-sale-trehan-iris-noida-SF60.md": {
 	id: "shop-for-sale-trehan-iris-noida-SF60.md";
   slug: "shop-for-sale-trehan-iris-noida-sf60";
   body: string;
   collection: "offices";
-  data: any
+  data: InferEntrySchema<"offices">
 } & { render(): Render[".md"] };
 "shop-trehan-iris-broadway.md": {
 	id: "shop-trehan-iris-broadway.md";
   slug: "shop-trehan-iris-broadway";
   body: string;
   collection: "offices";
-  data: any
+  data: InferEntrySchema<"offices">
 } & { render(): Render[".md"] };
 "trehan-iris-anchorshop.md": {
 	id: "trehan-iris-anchorshop.md";
   slug: "trehan-iris-anchorshop";
   body: string;
   collection: "offices";
-  data: any
+  data: InferEntrySchema<"offices">
 } & { render(): Render[".md"] };
 };
 "shops": {

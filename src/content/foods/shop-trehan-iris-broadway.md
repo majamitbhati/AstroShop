@@ -2,7 +2,7 @@
 category: food
 date: 08/06/2024
 featured: false
-image: ../images/photoshoot.jpg
+image: ../images/band.jpg
 title: Trehan Iris Broadway Greno West atrium facing shop
 floor: 1st Floor
 size: 435
