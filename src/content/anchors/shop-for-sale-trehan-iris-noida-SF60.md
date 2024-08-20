@@ -6,7 +6,6 @@ image: ../images/photoshoot.jpg
 title: Trehan Iris Broadway Greno West shop below 30 lacs
 floor: Second Floor
 size: 180
-price: 36,00,000
 atrium: false
 corner: false
 status: Resale

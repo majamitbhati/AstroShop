@@ -6,7 +6,6 @@ image: ../images/band.jpg
 title: Trehan Iris Broadway Greno West atrium facing shop
 floor: 1st Floor
 size: 435
-price: 56,00,000
 atrium: true
 corner: false
 status: Resale

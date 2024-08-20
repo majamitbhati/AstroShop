@@ -14,6 +14,9 @@ import InvestmentOptions from "../components/InvestmentOptions.astro";
 import MainHeading from "../components/MainHeading.astro";
 import ProjectHighlight from "../components/ProjectHighlight.astro";
 import Amenities from "../components/Amenities.astro";
+import Brochure from "../components/Brochure.astro";
+import Location from "../components/Location.astro";
+import Keypoints from "../components/Keypoints.astro";
 
 
 const shops = await getCollection("shops");
@@ -23,7 +26,7 @@ const shops = await getCollection("shops");
 	<Slider />
 	<Menu />
 	<div class="flex">
-		<About />
+		<Keypoints>
 		<MiniSlider />
 	</div>
 	<div class="flex">
@@ -39,4 +42,7 @@ const shops = await getCollection("shops");
 		<ProjectHighlight />
 		<Amenities />
 	</div>
+	<Brochure />
+	<Location />
+	<About />
 </Layout>

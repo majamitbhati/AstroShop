@@ -10,6 +10,11 @@ type Props = {
     food: CollectionEntry<"foods">;
 };
 const { food } = Astro.props;
+
+const parsepsf = (food.data.price)
+const parsesize = (food.data.size)
+
+const BSPPrice = parsepsf * parsesize;
 ---
 
 <div class="w-[318px] inline-block m-4 rounded-lg border-2 border-slate-200 pb-8">
@@ -27,7 +32,7 @@ const { food } = Astro.props;
                     class="aspect-thumbnail object-cover"
                     format="webp"
                 />
-                <Price price={food.data.price} />
+                <Price price={BSPPrice} />
             </div>
             <Facilities 
             size={food.data.size} 

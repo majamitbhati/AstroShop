@@ -10,6 +10,11 @@ type Props = {
     anchor: CollectionEntry<"anchors">;
 };
 const { anchor } = Astro.props;
+
+const parsepsf = (anchor.data.price)
+const parsesize = (anchor.data.size)
+
+const BSPPrice = parsepsf * parsesize;
 ---
 
 <div class="w-[318px] inline-block m-4 rounded-lg border-2 border-slate-200 pb-8">
@@ -27,7 +32,7 @@ const { anchor } = Astro.props;
                     class="aspect-thumbnail object-cover"
                     format="webp"
                 />
-                <Price price={anchor.data.price} />
+                <Price price={BSPPrice} />
             </div>
             <Facilities 
             size={anchor.data.size} 
