@@ -1,5 +1,15 @@
 declare module 'astro:content' {
 	interface Render {
+		'.mdx': Promise<{
+			Content: import('astro').MarkdownInstance<{}>['Content'];
+			headings: import('astro').MarkdownHeading[];
+			remarkPluginFrontmatter: Record<string, any>;
+		}>;
+	}
+}
+
+declare module 'astro:content' {
+	interface Render {
 		'.md': Promise<{
 			Content: import('astro').MarkdownInstance<{}>['Content'];
 			headings: import('astro').MarkdownHeading[];
@@ -128,27 +138,6 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"anchors": {
-"shop-SF177.md": {
-	id: "shop-SF177.md";
-  slug: "shop-sf177";
-  body: string;
-  collection: "anchors";
-  data: InferEntrySchema<"anchors">
-} & { render(): Render[".md"] };
-"shop-for-sale-trehan-iris-noida-SF60.md": {
-	id: "shop-for-sale-trehan-iris-noida-SF60.md";
-  slug: "shop-for-sale-trehan-iris-noida-sf60";
-  body: string;
-  collection: "anchors";
-  data: InferEntrySchema<"anchors">
-} & { render(): Render[".md"] };
-"shop-trehan-iris-broadway.md": {
-	id: "shop-trehan-iris-broadway.md";
-  slug: "shop-trehan-iris-broadway";
-  body: string;
-  collection: "anchors";
-  data: InferEntrySchema<"anchors">
-} & { render(): Render[".md"] };
 "trehan-iris-anchorshop.md": {
 	id: "trehan-iris-anchorshop.md";
   slug: "trehan-iris-anchorshop";
@@ -158,90 +147,54 @@ declare module 'astro:content' {
 } & { render(): Render[".md"] };
 };
 "foods": {
-"shop-SF177.md": {
-	id: "shop-SF177.md";
-  slug: "shop-sf177";
-  body: string;
-  collection: "foods";
-  data: InferEntrySchema<"foods">
-} & { render(): Render[".md"] };
-"shop-for-sale-trehan-iris-noida-SF60.md": {
-	id: "shop-for-sale-trehan-iris-noida-SF60.md";
-  slug: "shop-for-sale-trehan-iris-noida-sf60";
-  body: string;
-  collection: "foods";
-  data: InferEntrySchema<"foods">
-} & { render(): Render[".md"] };
-"shop-trehan-iris-broadway.md": {
-	id: "shop-trehan-iris-broadway.md";
-  slug: "shop-trehan-iris-broadway";
-  body: string;
-  collection: "foods";
-  data: InferEntrySchema<"foods">
-} & { render(): Render[".md"] };
-"trehan-iris-anchorshop.md": {
-	id: "trehan-iris-anchorshop.md";
-  slug: "trehan-iris-anchorshop";
+"trehan-iris-foodcourts.md": {
+	id: "trehan-iris-foodcourts.md";
+  slug: "trehan-iris-foodcourts";
   body: string;
   collection: "foods";
   data: InferEntrySchema<"foods">
 } & { render(): Render[".md"] };
 };
-"offices": {
-"shop-SF177.md": {
-	id: "shop-SF177.md";
-  slug: "shop-sf177";
+"offices": Record<string, {
+  id: string;
+  slug: string;
   body: string;
   collection: "offices";
-  data: InferEntrySchema<"offices">
-} & { render(): Render[".md"] };
-"shop-for-sale-trehan-iris-noida-SF60.md": {
-	id: "shop-for-sale-trehan-iris-noida-SF60.md";
-  slug: "shop-for-sale-trehan-iris-noida-sf60";
-  body: string;
-  collection: "offices";
-  data: InferEntrySchema<"offices">
-} & { render(): Render[".md"] };
-"shop-trehan-iris-broadway.md": {
-	id: "shop-trehan-iris-broadway.md";
-  slug: "shop-trehan-iris-broadway";
-  body: string;
-  collection: "offices";
-  data: InferEntrySchema<"offices">
-} & { render(): Render[".md"] };
-"trehan-iris-anchorshop.md": {
-	id: "trehan-iris-anchorshop.md";
-  slug: "trehan-iris-anchorshop";
-  body: string;
-  collection: "offices";
-  data: InferEntrySchema<"offices">
-} & { render(): Render[".md"] };
-};
+  data: InferEntrySchema<"offices">;
+  render(): Render[".md"];
+}>;
 "shops": {
-"shop-SF177.md": {
-	id: "shop-SF177.md";
-  slug: "shop-sf177";
+"shop-for-sale-trehan-iris-noida-280.md": {
+	id: "shop-for-sale-trehan-iris-noida-280.md";
+  slug: "shop-for-sale-trehan-iris-noida-280";
   body: string;
   collection: "shops";
   data: InferEntrySchema<"shops">
 } & { render(): Render[".md"] };
-"shop-for-sale-trehan-iris-noida-SF60.md": {
-	id: "shop-for-sale-trehan-iris-noida-SF60.md";
-  slug: "shop-for-sale-trehan-iris-noida-sf60";
+"shop-for-sale-trehan-iris-noida.md": {
+	id: "shop-for-sale-trehan-iris-noida.md";
+  slug: "shop-for-sale-trehan-iris-noida";
   body: string;
   collection: "shops";
   data: InferEntrySchema<"shops">
 } & { render(): Render[".md"] };
-"shop-trehan-iris-broadway.md": {
-	id: "shop-trehan-iris-broadway.md";
-  slug: "shop-trehan-iris-broadway";
+"shop-in-trehan-iris-noida-best-price-SF63.md": {
+	id: "shop-in-trehan-iris-noida-best-price-SF63.md";
+  slug: "shop-in-trehan-iris-noida-best-price-sf63";
   body: string;
   collection: "shops";
   data: InferEntrySchema<"shops">
 } & { render(): Render[".md"] };
-"trehan-iris-anchorshop.md": {
-	id: "trehan-iris-anchorshop.md";
-  slug: "trehan-iris-anchorshop";
+"shop-in-trehan-iris-noida-west-under-40-lacs-SF61.md": {
+	id: "shop-in-trehan-iris-noida-west-under-40-lacs-SF61.md";
+  slug: "shop-in-trehan-iris-noida-west-under-40-lacs-sf61";
+  body: string;
+  collection: "shops";
+  data: InferEntrySchema<"shops">
+} & { render(): Render[".md"] };
+"shops-trehan-iris-greno-west-on-discount-SF62.md": {
+	id: "shops-trehan-iris-greno-west-on-discount-SF62.md";
+  slug: "shops-trehan-iris-greno-west-on-discount-sf62";
   body: string;
   collection: "shops";
   data: InferEntrySchema<"shops">
@@ -251,11 +204,95 @@ declare module 'astro:content' {
 	};
 
 	type DataEntryMap = {
-		"images": Record<string, {
+		"foodPrice": {
+"FCSL-lockable": {
+	id: "FCSL-lockable";
+  collection: "foodPrice";
+  data: InferEntrySchema<"foodPrice">
+};
+"FFSA-anchor": {
+	id: "FFSA-anchor";
+  collection: "foodPrice";
+  data: InferEntrySchema<"foodPrice">
+};
+"FFSL-lockable": {
+	id: "FFSL-lockable";
+  collection: "foodPrice";
+  data: InferEntrySchema<"foodPrice">
+};
+"GFSA-anchor": {
+	id: "GFSA-anchor";
+  collection: "foodPrice";
+  data: InferEntrySchema<"foodPrice">
+};
+"GFSL-lockable": {
+	id: "GFSL-lockable";
+  collection: "foodPrice";
+  data: InferEntrySchema<"foodPrice">
+};
+"LGSA-anchor": {
+	id: "LGSA-anchor";
+  collection: "foodPrice";
+  data: InferEntrySchema<"foodPrice">
+};
+"LGSL-lockable": {
+	id: "LGSL-lockable";
+  collection: "foodPrice";
+  data: InferEntrySchema<"foodPrice">
+};
+"SFSL-lockable": {
+	id: "SFSL-lockable";
+  collection: "foodPrice";
+  data: InferEntrySchema<"foodPrice">
+};
+};
+"images": Record<string, {
   id: string;
   collection: "images";
   data: any;
 }>;
+"shopPrice": {
+"FCSL-lockable": {
+	id: "FCSL-lockable";
+  collection: "shopPrice";
+  data: InferEntrySchema<"shopPrice">
+};
+"FFSA-anchor": {
+	id: "FFSA-anchor";
+  collection: "shopPrice";
+  data: InferEntrySchema<"shopPrice">
+};
+"FFSL-lockable": {
+	id: "FFSL-lockable";
+  collection: "shopPrice";
+  data: InferEntrySchema<"shopPrice">
+};
+"GFSA-anchor": {
+	id: "GFSA-anchor";
+  collection: "shopPrice";
+  data: InferEntrySchema<"shopPrice">
+};
+"GFSL-lockable": {
+	id: "GFSL-lockable";
+  collection: "shopPrice";
+  data: InferEntrySchema<"shopPrice">
+};
+"LGSA-anchor": {
+	id: "LGSA-anchor";
+  collection: "shopPrice";
+  data: InferEntrySchema<"shopPrice">
+};
+"LGSL-lockable": {
+	id: "LGSL-lockable";
+  collection: "shopPrice";
+  data: InferEntrySchema<"shopPrice">
+};
+"SFSL-lockable": {
+	id: "SFSL-lockable";
+  collection: "shopPrice";
+  data: InferEntrySchema<"shopPrice">
+};
+};
 
 	};
 

@@ -2,11 +2,11 @@
 category: shop
 date: 08/06/2024
 featured: false
-image: ../images/band.jpg
-title: Trehan Iris Broadway Greno West atrium facing shop
-floor: 1st Floor
-size: 435
-
+image: ../images/trehan-iris-resale-shops.webp
+title: Shop in Trehan Iris Noida west under 40 lacs
+floor: 2nd Floor
+size: 200
+price: SFSL-lockable
 atrium: true
 corner: false
 status: Resale
@@ -16,10 +16,9 @@ brokerage: true
 plc: 5%
 name: Amit Singh
 contactno: Ph 8375924100
-giftvisit : Rs. 2000
-giftbuy : Gold Coin
+giftvisit : Rs 2000
+giftbuy : gold coin
 ---
-
 
 Collaboration is a key component of many creative endeavors, and music production is no exception. In fact, collaboration can be essential to the success of a music project, as it allows for the pooling of diverse talents and perspectives to create something truly unique and compelling.
 

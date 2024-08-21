@@ -5,19 +5,24 @@ import ResaleType from "./ResaleType.astro";
 import Price from "./Price.astro";
 import EnquireNow from "./EnquireNow.astro";
 import Facilities from "./Facilities.astro";
+import { getEntry } from "astro:content";
 
 type Props = {
     shop: CollectionEntry<"shops">;
 };
 const { shop } = Astro.props;
+const {price} = shop.data;
 
-const parsepsf = (shop.data.price)
+const {data: shopData} = await getEntry("shopPrice", price.id);
+
+
+const parsepsf = (shopData.priceNow)
 const parsesize = (shop.data.size)
 
-const BSPPrice = parsepsf * parsesize;
+const BSPPrice = (parsepsf * parsesize) / 100000;
 ---
 
-<div class="w-[318px] inline-block m-4 rounded-lg border-2 border-slate-200 pb-8">
+<div class="lg:w-[300px] lg:inline-block m-4 rounded-lg border-2 border-slate-200 pb-8">
     <a href={`/unit/${shop.slug}`}>
         <div class="">
             <div>
@@ -32,14 +37,15 @@ const BSPPrice = parsepsf * parsesize;
                     class="aspect-thumbnail object-cover"
                     format="webp"
                 />
-                <Price price={BSPPrice} />
+                <Price price= {BSPPrice} />
             </div>
             <Facilities 
             size={shop.data.size} 
+            price={shopData.priceNow}
             floor={shop.data.floor} 
             discount={shop.data.discount} 
             atrium={shop.data.atrium} />
-            <p class="mx-3 my-3"><strong>Details: -</strong>{shop.data.title}</p>
+            <p class="mx-3 my-3"><strong>Details:- </strong>{shop.data.title}</p>
             <EnquireNow />
         </div>
     </a>

@@ -19,6 +19,6 @@ type Props = {
 const { shops } = Astro.props;
 ---
 
-<div class="flex justify-center">
+<div class="flex flex-wrap justify-center">
     {shops.map((shop) => <Shop shop={shop} />)}
 </div>

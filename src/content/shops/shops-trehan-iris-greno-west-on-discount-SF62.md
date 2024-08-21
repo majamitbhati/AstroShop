@@ -2,11 +2,11 @@
 category: shop
 date: 08/06/2024
 featured: false
-image: ../images/band.jpg
-title: Trehan Iris Broadway Greno West atrium facing shop
+image: ../images/trehan-iris-resale-shops.webp
+title: Shops Trehan Iris Greno west on Discount
 floor: 1st Floor
-size: 435
-
+size: 224
+price: FFSL-lockable
 atrium: true
 corner: false
 status: Resale

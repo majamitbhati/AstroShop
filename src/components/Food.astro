@@ -5,16 +5,22 @@ import ResaleType from "./ResaleType.astro";
 import Price from "./Price.astro";
 import EnquireNow from "./EnquireNow.astro";
 import Facilities from "./Facilities.astro";
+import { getEntry } from "astro:content";
 
 type Props = {
     food: CollectionEntry<"foods">;
 };
 const { food } = Astro.props;
+const {price} = food.data;
 
-const parsepsf = (food.data.price)
+const {data: foodData} = await getEntry("foodPrice", price.id);
+
+
+const parsepsf = (foodData.priceNow)
 const parsesize = (food.data.size)
 
-const BSPPrice = parsepsf * parsesize;
+const BSPPrice = (parsepsf * parsesize) / 100000;
+
 ---
 
 <div class="w-[318px] inline-block m-4 rounded-lg border-2 border-slate-200 pb-8">

@@ -1,22 +1,24 @@
 ---
-category: Offices
-date: 08/06/2024
+category: shop
+date: 26/02/2024
 featured: false
-image: ../images/photoshoot.jpg
-title: Trehan Iris Broadway Greno West atrium facing shop on sale
-floor: Second Floor
-size: 215
+image: ../images/trehan-iris-resale-shops.webp
+title: Shop for sale Trehan Iris Noida below 30 lacs
+floor: 1st Floor
+size: 180
+price: FFSL-lockable
 atrium: true
 corner: false
 status: Resale
 byowner: true
-discount: 150000
+discount: 90000
 brokerage: true
 plc: 5%
 name: Amit Singh
 contactno: Ph 8375924100
 giftvisit : Rs 2000
 giftbuy : gold coin
+
 ---
 
 Collaboration is a key component of many creative endeavors, and music production is no exception. In fact, collaboration can be essential to the success of a music project, as it allows for the pooling of diverse talents and perspectives to create something truly unique and compelling.
@@ -24,6 +26,14 @@ Collaboration is a key component of many creative endeavors, and music productio
 ## Introduction
 
 There are many ways that collaboration can take place in music production. For example, musicians may collaborate on the creation of a song, with each musician contributing their own unique parts to the overall composition. Producers and engineers may collaborate to ensure that the final mix and master are of the highest quality possible. And songwriters and producers may collaborate to develop the song's overall structure, lyrics, and arrangement.
+
+## This is a heading
+
+This is a list in markdown:
+ 
+- One
+- Two
+- Three
 
 ## Benefits
 

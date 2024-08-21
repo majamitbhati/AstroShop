@@ -1,51 +1,59 @@
 ---
-import { getCollection, CollectionEntry} from 'astro:content';
-import Layout from '../../layouts/Layout.astro';
-import { Image} from 'astro:assets';
+import { getCollection, CollectionEntry } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+import { Image } from "astro:assets";
+import { getEntry } from "astro:content";
+import Breadcrumb from "../../components/Breadcrumb.astro";
 
 export const getStaticPaths = async () => {
     const foods = await getCollection("foods");
 
-
-const paths = foods.map(food=> { 
-return {
-    params: {
-        slug: food.slug
+    const paths = foods.map((food) => {
+        return {
+            params: {
+                slug: food.slug,
             },
-    props: {
-        food
-            }
-      }
-})
- return paths;
-} 
+            props: {
+                food,
+            },
+        };
+    });
+    return paths;
+};
 
 type Props = {
-    food: CollectionEntry<"foods">
-}
+    food: CollectionEntry<"foods">;
+};
 
-const {food} = Astro.props;
-const {Content} = await food.render();
+const { food } = Astro.props;
+const { Content } = await food.render();
+const { price } = food.data;
+const { data: foodData } = await getEntry("foodPrice", price.id);
+
+const parsepsf = foodData.priceNow;
+const parsesize = food.data.size;
+const BSPPrice = (parsepsf * parsesize) / 100000;
 ---
 
-<Layout title="Foodcourts for Sale in Trehan Iris Broadway Greno West">
- <h1>{food.data.title}</h1>
-<Image 
-src={food.data.image}
-alt={food.data.title}
-width={1024}
-height={1024/2}
-format="webp"
-class="rounded-2xl shadow-xl mb-2 object-cover"
-/>
-<h4>Category: {food.data.category}</h4>
-<h4>Date: {food.data.date}</h4>
-<h4>Price: {food.data.price}</h4>
-<Content />
+<Layout title="foods for Sale in Trehan Iris Broadway Greno West">
 
+    <Breadcrumb title={food.data.title} />
+    <div>
+        <Image
+        src={food.data.image}
+        alt={food.data.title}
+        width={1500}
+        height={1024 / 2}
+        format="webp"
+        class="shadow-xl mb-2 object-cover"
+    />
+    </div>
+    <div class="mb-20 px-20">
+        <h4 class="text-xl font-bold">Category: {food.data.category}</h4>
+        <h4 class="text-xl font-bold">Date: {food.data.date}</h4>
+        <h4 class="text-xl font-bold">Price: {BSPPrice}</h4>
+    </div>
+    <div class="prose-2xl overflow-visible relative mb-20 px-20">
+        <Content />
+    </div>
 </Layout>
-
-
-
-
-

@@ -1,51 +1,60 @@
 ---
-import { getCollection, CollectionEntry} from 'astro:content';
-import Layout from '../../layouts/Layout.astro';
-import { Image} from 'astro:assets';
+import { getCollection, CollectionEntry } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+import { Image } from "astro:assets";
+import { getEntry } from "astro:content";
+import Breadcrumb from "../../components/Breadcrumb.astro";
 
 export const getStaticPaths = async () => {
     const shops = await getCollection("shops");
 
-
-const paths = shops.map(shop=> { 
-return {
-    params: {
-        slug: shop.slug
+    const paths = shops.map((shop) => {
+        return {
+            params: {
+                slug: shop.slug,
             },
-    props: {
-        shop
-            }
-      }
-})
- return paths;
-} 
+            props: {
+                shop,
+            },
+        };
+    });
+    return paths;
+};
 
 type Props = {
-    shop: CollectionEntry<"shops">
-}
+    shop: CollectionEntry<"shops">;
+};
 
-const {shop} = Astro.props;
-const {Content} = await shop.render();
+const { shop } = Astro.props;
+const { Content } = await shop.render();
+const { price } = shop.data;
+const { data: shopData } = await getEntry("shopPrice", price.id);
+
+const parsepsf = shopData.priceNow;
+const parsesize = shop.data.size;
+const BSPPrice = (parsepsf * parsesize) / 100000;
+
 ---
 
 <Layout title="Shops for Sale in Trehan Iris Broadway Greno West">
- <h1>{shop.data.title}</h1>
-<Image 
-src={shop.data.image}
-alt={shop.data.title}
-width={1024}
-height={1024/2}
-format="webp"
-class="rounded-2xl shadow-xl mb-2 object-cover"
-/>
-<h4>Category: {shop.data.category}</h4>
-<h4>Date: {shop.data.date}</h4>
-<h4>Price: {shop.data.price}</h4>
-<Content />
 
+    <Breadcrumb title={shop.data.title} />
+    <div>
+        <Image
+        src={shop.data.image}
+        alt={shop.data.title}
+        width={1500}
+        height={1024 / 2}
+        format="webp"
+        class="shadow-xl mb-2 object-cover"
+    />
+    </div>
+    <div class="mb-20 px-20">
+        <h4 class="text-xl font-bold">Category: {shop.data.category}</h4>
+        <h4 class="text-xl font-bold">Date: {shop.data.date}</h4>
+        <h4 class="text-xl font-bold">Price: {BSPPrice}</h4>
+    </div>
+    <div class="prose-2xl overflow-visible relative mb-20 px-20">
+        <Content />
+    </div>
 </Layout>
-
-
-
-
-

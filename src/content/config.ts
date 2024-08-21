@@ -1,4 +1,4 @@
-import {z, defineCollection} from "astro:content"
+import {z, defineCollection, reference} from "astro:content"
 
 
 const shopsCollection = defineCollection({
@@ -12,7 +12,7 @@ const shopsCollection = defineCollection({
             title: z.string(),
             floor: z.string(),
             size: z.number(),
-            price: z.number().optional().default(18000),
+            price: reference ("shopPrice"),
             atrium: z.boolean(),
             corner: z.boolean(),
             status: z.string(),
@@ -39,7 +39,7 @@ const foodCollection = defineCollection({
             title: z.string(),
             floor: z.string(),
             size: z.number(),
-            price: z.number().optional().default(18000),
+            price: reference ("foodPrice"),
             atrium: z.boolean(),
             corner: z.boolean(),
             status: z.string(),
@@ -112,6 +112,15 @@ const officeCollection = defineCollection({
         }),
 });
 
+const priceCollection = defineCollection ({type: "data" ,
+    schema: z.object({
+        typeid: z.string(),
+        desc: z.string(),
+        type: z.string(),
+        priceNow: z.number()
+    }),
+});
+
 
 
 
@@ -119,5 +128,7 @@ export const collections = {
     shops: shopsCollection,
     foods: foodCollection,
     anchors: anchorCollection,
-    offices: officeCollection
+    offices: officeCollection,
+    shopPrice : priceCollection,
+    foodPrice: priceCollection
 }

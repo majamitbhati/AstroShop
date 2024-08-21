@@ -29,14 +29,14 @@ const shops = await getCollection("shops");
 		<Keypoints>
 		<MiniSlider />
 	</div>
-	<div class="flex">
+	<div class="flex flex-wrap">
 		<Overview />
 		<Form />
 	</div>
 	<InvestmentOptions />
 	<div class="shop mx-16 py-24">
-		<MainHeading heading="Resale Shops in Trehan Iris Broadway Greno West"/>
-		<div class="flex justify-center">
+		<MainHeading heading="Resale Units in Trehan Iris Broadway Greno West"/>
+		<div class="lg:flex justify-center">
 			<Shoplist shops={shops} />
 		</div>
 		<ProjectHighlight />
