@@ -5,20 +5,26 @@ import ResaleType from "./ResaleType.astro";
 import Price from "./Price.astro";
 import EnquireNow from "./EnquireNow.astro";
 import Facilities from "./Facilities.astro";
+import { getEntry } from "astro:content";
+
 
 type Props = {
     office: CollectionEntry<"offices">;
 };
 const { office } = Astro.props;
 
-const parsepsf = (office.data.price)
+const {price} = office.data;
+const {data: officeData} = await getEntry("officePrice", price.id);
+
+const parsepsf = (officeData.priceNow)
 const parsesize = (office.data.size)
 
-const BSPPrice = parsepsf * parsesize;
+const BSPPrice = (parsepsf * parsesize) / 100000;
+
 ---
 
 <div class="w-[318px] inline-block m-4 rounded-lg border-2 border-slate-200 pb-8">
-    <a href={`/unit/${office.slug}`}>
+    <a href={`/offices/${office.slug}`}>
         <div class="">
             <div>
                 <ResaleType />

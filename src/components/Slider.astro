@@ -1,8 +1,24 @@
-<div class="flex gap-x-4 items-center bg-[url('./img/trehan-iris-broadway-greno-west.webp')] bg-cover bg-center h-screen">
+---
+import { isPropertyAccessChain } from "typescript"
+
+const {
+    MainHead1 = "Trehan Iris Broadway",
+    MainHead2 = "Greno West.",
+
+    SubHead1 = " Noida's Biggest Commerciap phenomenon",
+    SubHead2 = "UPRERAPRJ673874"
+
+} = Astro.props;
+
+
+---
+
+
+<div class="flex h-96 gap-x-4 items-center bg-[url('./img/trehan-iris-broadway-greno-west.webp')] bg-cover bg-center bg-opacity-30">
     <div class="flex bg-black bg-opacity-50 p-5 mx-8 lg:mx-16 lg:px-8">
         <div class="lg:px-2 lg:py-4 lg:col-2 text-white">
-            <h1 class="lg:text-6xl text-3xl font-bold">Iris Broadway
-                <br>Greno West</h1>
+            <h1 class="lg:text-6xl text-3xl font-bold">{MainHead1}
+                <br>{MainHead2}</h1>
             <p class="text-sm lg:text-xl">Noida's Biggest Commercial Project Built on Legacy</p>
             <p class="text-xl lg:text-2xl font-bold">UPRERAPRJ673874 | www.up-rera.in</p>
         </div>

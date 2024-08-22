@@ -1,0 +1,33 @@
+{
+  "$ref": "#/definitions/officePrice",
+  "definitions": {
+    "officePrice": {
+      "type": "object",
+      "properties": {
+        "typeid": {
+          "type": "string"
+        },
+        "desc": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string"
+        },
+        "priceNow": {
+          "type": "number"
+        },
+        "$schema": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "typeid",
+        "desc",
+        "type",
+        "priceNow"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

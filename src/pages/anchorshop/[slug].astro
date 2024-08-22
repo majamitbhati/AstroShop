@@ -1,51 +1,59 @@
 ---
-import { getCollection, CollectionEntry} from 'astro:content';
-import Layout from '../../layouts/Layout.astro';
-import { Image} from 'astro:assets';
+import { getCollection, CollectionEntry } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+import { Image } from "astro:assets";
+import { getEntry } from "astro:content";
+import Breadcrumb from "../../components/Breadcrumb.astro";
 
 export const getStaticPaths = async () => {
     const anchors = await getCollection("anchors");
 
-
-const paths = anchors.map(anchor=> { 
-return {
-    params: {
-        slug: anchor.slug
+    const anchorPaths = anchors.map((anchor) => {
+        return {
+            params: {
+                slug: anchor.slug,
             },
-    props: {
-        anchor
-            }
-      }
-})
- return paths;
-} 
+            props: {
+                anchor,
+            },
+        };
+    });
+    return anchorPaths;
+};
 
 type Props = {
-    anchor: CollectionEntry<"anchors">
-}
+    anchor: CollectionEntry<"anchors">;
+};
 
-const {anchor} = Astro.props;
-const {Content} = await anchor.render();
+const { anchor } = Astro.props;
+const { Content } = await anchor.render();
+const { price } = anchor.data;
+const { data: anchorData } = await getEntry("anchorPrice", price.id);
+
+const parsepsf = anchorData.priceNow;
+const parsesize = anchor.data.size;
+const BSPPrice = (parsepsf * parsesize) / 100000;
 ---
 
-<Layout title="Foodcourts for Sale in Trehan Iris Broadway Greno West">
- <h1>{anchor.data.title}</h1>
-<Image 
-src={anchor.data.image}
-alt={anchor.data.title}
-width={1024}
-height={1024/2}
-format="webp"
-class="rounded-2xl shadow-xl mb-2 object-cover"
-/>
-<h4>Category: {anchor.data.category}</h4>
-<h4>Date: {anchor.data.date}</h4>
-<h4>Price: {anchor.data.price}</h4>
-<Content />
+<Layout title={anchor.data.title}>
 
+    <Breadcrumb title={anchor.data.title} />
+    <div>
+        <Image
+        src={anchor.data.image}
+        alt={anchor.data.title}
+        width={1500}
+        height={1024 / 2}
+        format="webp"
+        class="shadow-xl mb-2 object-cover"
+    />
+    </div>
+    <div class="mb-20 px-20">
+        <h4 class="text-xl font-bold">Category: {anchor.data.category}</h4>
+        <h4 class="text-xl font-bold">Date: {anchor.data.date}</h4>
+        <h4 class="text-xl font-bold">Price: {BSPPrice}</h4>
+    </div>
+    <div class="prose-2xl overflow-visible relative mb-20 px-20">
+        <Content />
+    </div>
 </Layout>
-
-
-
-
-

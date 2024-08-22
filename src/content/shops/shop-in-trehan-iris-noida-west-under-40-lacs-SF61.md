@@ -18,6 +18,8 @@ name: Amit Singh
 contactno: Ph 8375924100
 giftvisit : Rs 2000
 giftbuy : gold coin
+info: Price excludes maintenance, floor rise cost, stamp duty, registration, GST etc.
+
 ---
 
 Collaboration is a key component of many creative endeavors, and music production is no exception. In fact, collaboration can be essential to the success of a music project, as it allows for the pooling of diverse talents and perspectives to create something truly unique and compelling.

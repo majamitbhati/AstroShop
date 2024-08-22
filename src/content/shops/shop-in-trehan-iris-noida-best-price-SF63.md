@@ -16,9 +16,10 @@ brokerage: true
 plc: 5%
 name: Amit Singh
 contactno: Ph 8375924100
-
 giftvisit : Rs. 2000
 giftbuy : Gold Coin
+info: Price excludes maintenance, floor rise cost, stamp duty, registration, GST etc.
+
 ---
 
 

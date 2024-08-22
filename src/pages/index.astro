@@ -20,9 +20,14 @@ import Keypoints from "../components/Keypoints.astro";
 
 
 const shops = await getCollection("shops");
+
+
+const {
+	title="Trehan Iris Broadway Greno West"
+} = Astro.props
 ---
 
-<Layout title="Trehan Iris Broadway Greno West">
+<Layout title={title}>
 	<Slider />
 	<Menu />
 	<div class="flex">

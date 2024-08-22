@@ -3,6 +3,18 @@ import {Image} from "astro:assets"
 
 const userEmail = Astro.cookies.get("userEmail")
 
+const { 
+    title = "Trehan Iris", 
+    subtitle = "RERA no" ,
+     home= "Home", 
+     t1,
+     t2,
+     t3,
+     t4 } = Astro.props ;
+
+
+
+
 ---
 <div class="topbar bg-black text-white px-10 pt-3">
         <div class="flex justify-end gap-4">
@@ -63,15 +75,15 @@ const userEmail = Astro.cookies.get("userEmail")
 
     <ul class="flex flex-wrap">
         <li>
-            <a href="/" class ="px-3 text-white hover:text-gray-300 font-bold text-xl">Home </a>
+            <a href="/" class ="px-3 text-white hover:text-gray-300 font-bold text-xl">{home} </a>
         </li>
 
         <li>
-            <a href="/unit" class ="px-3 text-white hover:text-gray-300 font-bold text-xl">Shops</a>
+            <a href="/shops" class ="px-3 text-white hover:text-gray-300 font-bold text-xl">Shops</a>
         </li>
 
         <li>
-            <a href="/foodcourt" class ="px-3 text-white hover:text-gray-300 font-bold text-xl">Food Court</a>
+            <a href="/foodcourts" class ="px-3 text-white hover:text-gray-300 font-bold text-xl">Food Court</a>
         </li>
 
         <li>

@@ -8,11 +8,13 @@ import Breadcrumb from "../components/Breadcrumb.astro";
 
 const anchors = await getCollection("anchors");
 
+const {
+    title="Trahan Iris Anchor Shops Unit for Resale"
+} = Astro.props
+
 ---
 
-<Layout title="Shops and Foodcourt for sale ">
-    <Breadcrumb title={"Trahan Iris Anchor Shops Unit for Resale"} />
-
+<Layout title={title}>
+    <Breadcrumb title={title} />
     <Anchorlist anchors={anchors} />
-
 </Layout>

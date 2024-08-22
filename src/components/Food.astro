@@ -8,11 +8,11 @@ import Facilities from "./Facilities.astro";
 import { getEntry } from "astro:content";
 
 type Props = {
-    food: CollectionEntry<"foods">;
+    food: CollectionEntry<"foodcourts">;
 };
 const { food } = Astro.props;
-const {price} = food.data;
 
+const {price} = food.data;
 const {data: foodData} = await getEntry("foodPrice", price.id);
 
 
@@ -24,7 +24,7 @@ const BSPPrice = (parsepsf * parsesize) / 100000;
 ---
 
 <div class="w-[318px] inline-block m-4 rounded-lg border-2 border-slate-200 pb-8">
-    <a href={`/unit/${food.slug}`}>
+    <a href={`/foodcourts/${food.slug}`}>
         <div class="">
             <div>
                 <ResaleType />

@@ -2,9 +2,13 @@
 import Layout from "../layouts/Layout.astro";
 import Breadcrumb from "../components/Breadcrumb.astro";
 
+
+const {
+    title="About us"
+} = Astro.props
 ---
 
 <Layout>
-    <Breadcrumb title={"About Us"} />
+    <Breadcrumb title={title} />
     
 </Layout>

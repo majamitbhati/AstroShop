@@ -3,7 +3,7 @@ category: food
 date: 26/02/2024
 featured: false
 image: ../images/trehan-iris-resale-shops.webp
-title: Shop for sale Trehan Iris Noida below 50 lacs
+title: Foodcourt for sale Trehan Iris Noida
 floor: 2nd Floor
 size: 280
 price: FCSL-lockable

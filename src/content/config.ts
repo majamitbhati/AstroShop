@@ -23,7 +23,8 @@ const shopsCollection = defineCollection({
             name: z.string(),
             contactno: z.string(),
             giftvisit: z.string(),
-            giftbuy: z.string()
+            giftbuy: z.string(),
+            info: z.string()
         }),
 });
 
@@ -68,7 +69,7 @@ const anchorCollection = defineCollection({
             title: z.string(),
             floor: z.string(),
             size: z.number(),
-            price: z.number().optional().default(18000),
+            price: reference ("anchorPrice"),
             atrium: z.boolean(),
             corner: z.boolean(),
             status: z.string(),
@@ -97,7 +98,7 @@ const officeCollection = defineCollection({
             title: z.string(),
             floor: z.string(),
             size: z.number(),
-            price: z.number().optional().default(18000),
+            price: reference ("officePrice"),
             atrium: z.boolean(),
             corner: z.boolean(),
             status: z.string(),
@@ -126,9 +127,11 @@ const priceCollection = defineCollection ({type: "data" ,
 
 export const collections = {
     shops: shopsCollection,
-    foods: foodCollection,
+    foodcourts: foodCollection,
     anchors: anchorCollection,
     offices: officeCollection,
     shopPrice : priceCollection,
-    foodPrice: priceCollection
+    foodPrice: priceCollection,
+    anchorPrice: priceCollection,
+    officePrice: priceCollection
 }

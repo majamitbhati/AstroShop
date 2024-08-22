@@ -6,11 +6,15 @@ import { getCollection } from "astro:content";
 import Officelist from "../components/Officelist.astro";
 import Breadcrumb from "../components/Breadcrumb.astro";
 
+const {
+    title="Trahan Iris Offices Unit for Resale"
+} =Astro.props
+
 const offices = await getCollection("offices");
 
 ---
 
-<Layout title="offices for sale ">
-    <Breadcrumb title={"Trahan Iris Offices Unit for Resale"} />
+<Layout title={title}>
+    <Breadcrumb title={title} />
     <Officelist offices={offices} />
 </Layout>

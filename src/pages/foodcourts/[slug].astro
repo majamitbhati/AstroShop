@@ -5,44 +5,44 @@ import { Image } from "astro:assets";
 import { getEntry } from "astro:content";
 import Breadcrumb from "../../components/Breadcrumb.astro";
 
-export const getStaticPaths = async () => {
-    const shops = await getCollection("shops");
 
-    const paths = shops.map((shop) => {
+export const getStaticPaths = async () => {
+    const foods = await getCollection("foodcourts");
+
+    const foodPaths = foods.map((food) => {
         return {
             params: {
-                slug: shop.slug,
+                slug: food.slug,
             },
             props: {
-                shop,
+                food,
             },
         };
     });
-    return paths;
+    return foodPaths;
 };
 
 type Props = {
-    shop: CollectionEntry<"shops">;
+    food: CollectionEntry<"foods">;
 };
 
-const { shop } = Astro.props;
-const { Content } = await shop.render();
-const { price } = shop.data;
-const { data: shopData } = await getEntry("shopPrice", price.id);
+const { food } = Astro.props;
+const { Content } = await food.render();
+const { price } = food.data;
+const { data: foodData } = await getEntry("foodPrice", price.id);
 
-const parsepsf = shopData.priceNow;
-const parsesize = shop.data.size;
+const parsepsf = foodData.priceNow;
+const parsesize = food.data.size;
 const BSPPrice = (parsepsf * parsesize) / 100000;
-
 ---
 
-<Layout title="Shops for Sale in Trehan Iris Broadway Greno West">
+<Layout title={food.data.title}>
 
-    <Breadcrumb title={shop.data.title} />
+    <Breadcrumb title={food.data.title} />
     <div>
         <Image
-        src={shop.data.image}
-        alt={shop.data.title}
+        src={food.data.image}
+        alt={food.data.title}
         width={1500}
         height={1024 / 2}
         format="webp"
@@ -50,8 +50,8 @@ const BSPPrice = (parsepsf * parsesize) / 100000;
     />
     </div>
     <div class="mb-20 px-20">
-        <h4 class="text-xl font-bold">Category: {shop.data.category}</h4>
-        <h4 class="text-xl font-bold">Date: {shop.data.date}</h4>
+        <h4 class="text-xl font-bold">Category: {food.data.category}</h4>
+        <h4 class="text-xl font-bold">Date: {food.data.date}</h4>
         <h4 class="text-xl font-bold">Price: {BSPPrice}</h4>
     </div>
     <div class="prose-2xl overflow-visible relative mb-20 px-20">

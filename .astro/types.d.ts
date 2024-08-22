@@ -146,23 +146,32 @@ declare module 'astro:content' {
   data: InferEntrySchema<"anchors">
 } & { render(): Render[".md"] };
 };
-"foods": {
+"foodcourts": {
 "trehan-iris-foodcourts.md": {
 	id: "trehan-iris-foodcourts.md";
   slug: "trehan-iris-foodcourts";
   body: string;
-  collection: "foods";
-  data: InferEntrySchema<"foods">
+  collection: "foodcourts";
+  data: InferEntrySchema<"foodcourts">
 } & { render(): Render[".md"] };
 };
-"offices": Record<string, {
+"foods": Record<string, {
   id: string;
   slug: string;
   body: string;
-  collection: "offices";
-  data: InferEntrySchema<"offices">;
+  collection: "foods";
+  data: any;
   render(): Render[".md"];
 }>;
+"offices": {
+"trehan-iris-officespace.md": {
+	id: "trehan-iris-officespace.md";
+  slug: "trehan-iris-officespace";
+  body: string;
+  collection: "offices";
+  data: InferEntrySchema<"offices">
+} & { render(): Render[".md"] };
+};
 "shops": {
 "shop-for-sale-trehan-iris-noida-280.md": {
 	id: "shop-for-sale-trehan-iris-noida-280.md";
@@ -204,7 +213,49 @@ declare module 'astro:content' {
 	};
 
 	type DataEntryMap = {
-		"foodPrice": {
+		"anchorPrice": {
+"FCSL-lockable": {
+	id: "FCSL-lockable";
+  collection: "anchorPrice";
+  data: InferEntrySchema<"anchorPrice">
+};
+"FFSA-anchor": {
+	id: "FFSA-anchor";
+  collection: "anchorPrice";
+  data: InferEntrySchema<"anchorPrice">
+};
+"FFSL-lockable": {
+	id: "FFSL-lockable";
+  collection: "anchorPrice";
+  data: InferEntrySchema<"anchorPrice">
+};
+"GFSA-anchor": {
+	id: "GFSA-anchor";
+  collection: "anchorPrice";
+  data: InferEntrySchema<"anchorPrice">
+};
+"GFSL-lockable": {
+	id: "GFSL-lockable";
+  collection: "anchorPrice";
+  data: InferEntrySchema<"anchorPrice">
+};
+"LGSA-anchor": {
+	id: "LGSA-anchor";
+  collection: "anchorPrice";
+  data: InferEntrySchema<"anchorPrice">
+};
+"LGSL-lockable": {
+	id: "LGSL-lockable";
+  collection: "anchorPrice";
+  data: InferEntrySchema<"anchorPrice">
+};
+"SFSL-lockable": {
+	id: "SFSL-lockable";
+  collection: "anchorPrice";
+  data: InferEntrySchema<"anchorPrice">
+};
+};
+"foodPrice": {
 "FCSL-lockable": {
 	id: "FCSL-lockable";
   collection: "foodPrice";
@@ -251,6 +302,48 @@ declare module 'astro:content' {
   collection: "images";
   data: any;
 }>;
+"officePrice": {
+"FCSL-lockable": {
+	id: "FCSL-lockable";
+  collection: "officePrice";
+  data: InferEntrySchema<"officePrice">
+};
+"FFSA-anchor": {
+	id: "FFSA-anchor";
+  collection: "officePrice";
+  data: InferEntrySchema<"officePrice">
+};
+"FFSL-lockable": {
+	id: "FFSL-lockable";
+  collection: "officePrice";
+  data: InferEntrySchema<"officePrice">
+};
+"GFSA-anchor": {
+	id: "GFSA-anchor";
+  collection: "officePrice";
+  data: InferEntrySchema<"officePrice">
+};
+"GFSL-lockable": {
+	id: "GFSL-lockable";
+  collection: "officePrice";
+  data: InferEntrySchema<"officePrice">
+};
+"LGSA-anchor": {
+	id: "LGSA-anchor";
+  collection: "officePrice";
+  data: InferEntrySchema<"officePrice">
+};
+"LGSL-lockable": {
+	id: "LGSL-lockable";
+  collection: "officePrice";
+  data: InferEntrySchema<"officePrice">
+};
+"SFSL-lockable": {
+	id: "SFSL-lockable";
+  collection: "officePrice";
+  data: InferEntrySchema<"officePrice">
+};
+};
 "shopPrice": {
 "FCSL-lockable": {
 	id: "FCSL-lockable";
