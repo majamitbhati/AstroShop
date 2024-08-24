@@ -3,11 +3,11 @@ import {Image} from "astro:assets"
 
 import Layout from "../layouts/Layout.astro";
 import { getCollection } from "astro:content";
-import Officelist from "../components/Officelist.astro";
+import OfficecardList from "../components/OfficecardList.astro";
 import Breadcrumb from "../components/Breadcrumb.astro";
 
 const {
-    title="Trahan Iris Offices Unit for Resale"
+    title="Trehan Iris Broadway Noida offices for sale"
 } =Astro.props
 
 const offices = await getCollection("offices");
@@ -16,5 +16,7 @@ const offices = await getCollection("offices");
 
 <Layout title={title}>
     <Breadcrumb title={title} />
-    <Officelist offices={offices} />
+    <div class="bg-[#3F2E28] lg:py-16">
+    <OfficecardList office={offices} />
+</div>
 </Layout>

@@ -155,14 +155,6 @@ declare module 'astro:content' {
   data: InferEntrySchema<"foodcourts">
 } & { render(): Render[".md"] };
 };
-"foods": Record<string, {
-  id: string;
-  slug: string;
-  body: string;
-  collection: "foods";
-  data: any;
-  render(): Render[".md"];
-}>;
 "offices": {
 "trehan-iris-officespace.md": {
 	id: "trehan-iris-officespace.md";

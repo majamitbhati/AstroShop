@@ -1,0 +1,15 @@
+---
+import type { CollectionEntry } from "astro:content";
+import Officecard from "./Officecard.astro";
+
+type Props = {
+    office: CollectionEntry<"offices">[];
+};
+
+
+const { office } = Astro.props;
+---
+
+<div>
+    {office.map((office) => <Officecard office={office} />)}
+</div>

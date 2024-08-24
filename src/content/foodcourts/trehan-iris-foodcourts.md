@@ -2,7 +2,7 @@
 category: food
 date: 26/02/2024
 featured: false
-image: ../images/trehan-iris-resale-shops.webp
+image: ../images/trehan-iris-resale-foodcourts.webp
 title: Foodcourt for sale Trehan Iris Noida
 floor: 2nd Floor
 size: 280
@@ -16,8 +16,10 @@ brokerage: true
 plc: 5%
 name: Amit Singh
 contactno: Ph 8375924100
-giftvisit : Rs 2000
+giftvisit : worth 2000*
 giftbuy : gold coin
+info: GST, PLC, and Extra Changes is not included in the price above.s
+
 
 ---
 
@@ -26,14 +28,6 @@ Collaboration is a key component of many creative endeavors, and music productio
 ## Introduction
 
 There are many ways that collaboration can take place in music production. For example, musicians may collaborate on the creation of a song, with each musician contributing their own unique parts to the overall composition. Producers and engineers may collaborate to ensure that the final mix and master are of the highest quality possible. And songwriters and producers may collaborate to develop the song's overall structure, lyrics, and arrangement.
-
-## This is a heading
-
-This is a list in markdown:
- 
-- One
-- Two
-- Three
 
 ## Benefits
 

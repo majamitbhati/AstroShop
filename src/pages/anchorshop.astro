@@ -3,7 +3,7 @@ import {Image} from "astro:assets"
 
 import Layout from "../layouts/Layout.astro";
 import { getCollection } from "astro:content";
-import Anchorlist from "../components/Anchorlist.astro";
+import AnchorcardList from "../components/AnchorcardList.astro";
 import Breadcrumb from "../components/Breadcrumb.astro";
 
 const anchors = await getCollection("anchors");
@@ -16,5 +16,7 @@ const {
 
 <Layout title={title}>
     <Breadcrumb title={title} />
-    <Anchorlist anchors={anchors} />
+    <div class="bg-[#3F2E28] lg:py-16">
+    <AnchorcardList anchors={anchors} />
+    </div>
 </Layout>

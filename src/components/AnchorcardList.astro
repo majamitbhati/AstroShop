@@ -1,0 +1,15 @@
+---
+import type { CollectionEntry } from "astro:content";
+import Anchorcard from "./Anchorcard.astro";
+
+type Props = {
+    anchors: CollectionEntry<"anchors">[];
+};
+
+
+const { anchors } = Astro.props;
+---
+
+<div>
+    {anchors.map((anchor) => <Anchorcard anchor={anchor} />)}
+</div>

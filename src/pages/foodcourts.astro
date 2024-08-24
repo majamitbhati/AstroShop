@@ -3,19 +3,20 @@ import {Image} from "astro:assets"
 
 import Layout from "../layouts/Layout.astro";
 import { getCollection } from "astro:content";
-import Foodlist from "../components/Foodlist.astro";
+import FoodcardList from "../components/FoodcardList.astro";
 import Breadcrumb from "../components/Breadcrumb.astro";
 
 const foods = await getCollection("foodcourts");
 
 const {
-    title="Trahan Iris Foodcourts Unit for Resale"
+    title="Trehan Iris Foodcourts Unit for Resale"
 } = Astro.props
 
 ---
 
 <Layout title={title}>
     <Breadcrumb title={title} />
-    <Foodlist foods={foods} />
-
+    <div class="bg-[#3F2E28] lg:py-16">
+    <FoodcardList foods={foods} />
+    </div>
 </Layout>

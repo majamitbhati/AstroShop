@@ -1,5 +1,5 @@
 ---
-category: shop
+category: Retail Shop
 date: 26/02/2024
 featured: false
 image: ../images/trehan-iris-resale-shops.webp
@@ -16,9 +16,9 @@ brokerage: true
 plc: 5%
 name: Amit Singh
 contactno: Ph 8375924100
-giftvisit : Rs 2000
-giftbuy : gold coin
-info: Price excludes maintenance, floor rise cost, stamp duty, registration, GST etc.
+giftvisit : worth 2000*
+giftbuy : Gold Coin
+info: GST, PLC, and Extra Changes is not included in the price above.
 
 ---
 

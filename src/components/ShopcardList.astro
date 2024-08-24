@@ -1,7 +1,6 @@
 ---
-
 import type { CollectionEntry } from "astro:content";
-import Shop from "./Shop.astro";
+import Shopcard from "./Shopcard.astro";
 
 type Props = {
     shops: CollectionEntry<"shops">[];
@@ -11,6 +10,6 @@ type Props = {
 const { shops } = Astro.props;
 ---
 
-<div class="flex flex-wrap justify-center">
-    {shops.map((shop) => <Shop shop={shop} />)}
+<div>
+    {shops.map((shop) => <Shopcard shop={shop} />)}
 </div>

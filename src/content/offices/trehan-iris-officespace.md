@@ -2,7 +2,7 @@
 category: Office
 date: 08/06/2024
 featured: false
-image: ../images/band.jpg
+image: ../images/trehan-iris-resale-offices.webp
 title: Trehan Iris Broadway Greno West atrium facing shop
 floor: 1st Floor
 size: 435
@@ -16,8 +16,15 @@ brokerage: true
 plc: 5%
 name: Amit Singh
 contactno: Ph 8375924100
-giftvisit : Rs. 2000
+giftvisit : worth 2000*
 giftbuy : Gold Coin
+info: GST, PLC, and Extra Changes is not included in the price above.
+ptz1: Collaboration is a key component of many creative endeavors, and music production is no exception.
+ptz2: Collaboration is a key component of many creative endeavors, and music production is no exception.
+ptz3: Collaboration is a key component of many creative endeavors, and music production is no exception.
+ptz4: Collaboration is a key component of many creative endeavors, and music production is no exception.
+ptz5: Collaboration is a key component of many creative endeavors, and music production is no exception.
+
 ---
 
 

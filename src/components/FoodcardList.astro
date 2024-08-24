@@ -1,0 +1,15 @@
+---
+import type { CollectionEntry } from "astro:content";
+import Foodcard from "./Foodcard.astro";
+
+type Props = {
+    foods: CollectionEntry<"foodcourts">[];
+};
+
+
+const { foods } = Astro.props;
+---
+
+<div>
+    {foods.map((food) => <Foodcard food={food} />)}
+</div>

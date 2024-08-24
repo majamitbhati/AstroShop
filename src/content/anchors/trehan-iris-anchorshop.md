@@ -2,7 +2,7 @@
 category: Anchor Shop
 date: 08/06/2024
 featured: false
-image: ../images/band.jpg
+image: ../images/trehan-iris-resale-anchor-shop.webp
 title: Trehan Iris Broadway Greno West atrium facing shop
 floor: 1st Floor
 size: 435
@@ -16,8 +16,10 @@ brokerage: true
 plc: 5%
 name: Amit Singh
 contactno: Ph 8375924100
-giftvisit : Rs. 2000
+giftvisit : worth 2000*
 giftbuy : Gold Coin
+info: GST, PLC, and Extra Changes is not included in the price above.
+
 ---
 
 

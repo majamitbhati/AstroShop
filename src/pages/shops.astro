@@ -3,12 +3,12 @@ import {Image} from "astro:assets"
 
 import Layout from "../layouts/Layout.astro";
 import { getCollection } from "astro:content";
-import Shoplist from "../components/Shoplist.astro";
+import ShopcardList from "../components/ShopcardList.astro";
 import Breadcrumb from "../components/Breadcrumb.astro";
 
 
 const {
-    title ="Trahan Iris Shops Unit for Resale"
+    title ="Trehan Iris Broadway Noida Shops for sale"
 } = Astro.props
 
 const shops = await getCollection("shops");
@@ -16,6 +16,8 @@ const shops = await getCollection("shops");
 
 <Layout title={title}>
     <Breadcrumb title={title} />
-    <Shoplist shops={shops} />
+    <div class="bg-[#3F2E28] lg:py-16">
+        <ShopcardList shops={shops} />
+    </div>
 
 </Layout>

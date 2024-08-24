@@ -1,6 +1,4 @@
 ---
-import { Image } from "astro:assets";
-
 import Layout from "../layouts/Layout.astro";
 import Shoplist from "../components/Shoplist.astro";
 import { getCollection } from "astro:content";
@@ -34,14 +32,18 @@ const {
 		<Keypoints>
 		<MiniSlider />
 	</div>
-	<div class="flex flex-wrap">
-		<Overview />
-		<Form />
+	<div class="grid lg:grid-cols-3 gap-16 lg:mx-10 p-8 my-8">
+		<div class="col-span-2">
+			<Overview />
+		</div>
+		<div class="mr-8">
+			<Form />
+		</div>
 	</div>
 	<InvestmentOptions />
-	<div class="shop mx-16 py-24">
+	<div class="shop mx-8 lg:mx-16 py-24">
 		<MainHeading heading="Resale Units in Trehan Iris Broadway Greno West"/>
-		<div class="lg:flex justify-center">
+		<div class="lg:flex justify-center" id="units">
 			<Shoplist shops={shops} />
 		</div>
 		<ProjectHighlight />
