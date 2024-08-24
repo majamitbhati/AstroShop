@@ -102,8 +102,6 @@ const anchorCollection = defineCollection({
             ptz3: z.string().optional().default("One can look at very healthy returns in few years as Trehan Iris Broadway Greno West Shops are likely to get very high premium after delivery."),
             ptz4: z.string().optional().default("The shops will be sold on endorsemnet basis and the documentation for the same is fast and simple. The buyer will get units at very low price as the investors are willing to give few units at above mentioned price."),
             ptz5: z.string().optional().default("Trehan Iris shops with details as provided above are premium shops of the project. The shops in the project are on lease basis and the buyer can not use Trehan Iris shop for self use. Renting, collection of rent and distribution of rent will be done by the builder."),
-
-
         }),
 });
 

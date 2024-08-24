@@ -3,19 +3,19 @@ category: Office
 date: 08/06/2024
 featured: false
 image: ../images/trehan-iris-resale-offices.webp
-title: Trehan Iris Broadway Greno West atrium facing shop
-floor: 1st Floor
-size: 435
+title: Largest Office Space in Trehan IRIS Broadway Noida Extension
+floor: 15th Floor
+size: 440
 price: FFSL-lockable
-atrium: true
+atrium: false
 corner: false
 status: Resale
 byowner: true
 discount: 150000
-brokerage: true
+brokerage: false
 plc: 5%
 name: Amit Singh
-contactno: Ph 8375924100
+contactno: 8375924100
 giftvisit : worth 2000*
 giftbuy : Gold Coin
 info: GST, PLC, and Extra Changes is not included in the price above.

@@ -45,7 +45,7 @@ const BSPPrice = (parsepsf * parsesize) / 100000;
 
     <Breadcrumb title={shop.data.title} />
     <div class="bg-[#3F2E28] px-20 py-10">
-        <div class="grid lg:grid-cols-2 grid-cols-1 gap-16  bg-white px-10 pb-10">
+        <div class="grid lg:grid-cols-2 grid-cols-1 gap-8  bg-white px-10 pb-10">
             <div class="relative py-8">
                 <Image
                 src={shop.data.image}
@@ -54,10 +54,10 @@ const BSPPrice = (parsepsf * parsesize) / 100000;
                 class="shadow-xl mb-2 object-cover lg:w-full"
             />
             </div>
-            <div class="py-8">
+            <div class="py-4">
                 <h4 class="text-right text-xl font-bold">Last Updated: {shop.data.date} </h4>
                 <h4 class="text-right text-xl font-bold">Category: {shop.data.category}</h4>
-                <div class="mb-8">
+                <div class="mb-4">
                     <Price price= {BSPPrice} />
                 </div>
                 <PageFacilities

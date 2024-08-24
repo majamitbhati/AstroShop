@@ -1,5 +1,5 @@
 
 typeid: FFSL
 desc: First floor shop
-type: Lockable
+type: anchor
 priceNow: 24000

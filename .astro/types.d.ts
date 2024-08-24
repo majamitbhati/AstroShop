@@ -138,9 +138,37 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"anchors": {
-"trehan-iris-anchorshop.md": {
-	id: "trehan-iris-anchorshop.md";
-  slug: "trehan-iris-anchorshop";
+"anchor-shop-ground-floor-trehan-iris-broadway-greno-west-asfs01.md": {
+	id: "anchor-shop-ground-floor-trehan-iris-broadway-greno-west-asfs01.md";
+  slug: "anchor-shop-ground-floor-trehan-iris-broadway-greno-west-asfs01";
+  body: string;
+  collection: "anchors";
+  data: any
+} & { render(): Render[".md"] };
+"anchor-shop-trehan-iris-noida-extension-discount-asfs02.md": {
+	id: "anchor-shop-trehan-iris-noida-extension-discount-asfs02.md";
+  slug: "anchor-shop-trehan-iris-noida-extension-discount-asfs02";
+  body: string;
+  collection: "anchors";
+  data: any
+} & { render(): Render[".md"] };
+"atrium-facing-anchor-shop-trehan-iris-broadway-Noida-asfs03.md": {
+	id: "atrium-facing-anchor-shop-trehan-iris-broadway-Noida-asfs03.md";
+  slug: "atrium-facing-anchor-shop-trehan-iris-broadway-noida-asfs03";
+  body: string;
+  collection: "anchors";
+  data: any
+} & { render(): Render[".md"] };
+"largest-anchor-shop-iris-broadway-Noida-asfs04.md": {
+	id: "largest-anchor-shop-iris-broadway-Noida-asfs04.md";
+  slug: "largest-anchor-shop-iris-broadway-noida-asfs04";
+  body: string;
+  collection: "anchors";
+  data: any
+} & { render(): Render[".md"] };
+"least-priced-anchor-shop-iris-broadway-greno-west-asfs05.md": {
+	id: "least-priced-anchor-shop-iris-broadway-greno-west-asfs05.md";
+  slug: "least-priced-anchor-shop-iris-broadway-greno-west-asfs05";
   body: string;
   collection: "anchors";
   data: any
@@ -191,9 +219,37 @@ declare module 'astro:content' {
 } & { render(): Render[".md"] };
 };
 "offices": {
-"trehan-iris-officespace.md": {
-	id: "trehan-iris-officespace.md";
-  slug: "trehan-iris-officespace";
+"largest-office-space-trehan-iris-broadway-noida-extension-ofs03.md": {
+	id: "largest-office-space-trehan-iris-broadway-noida-extension-ofs03.md";
+  slug: "largest-office-space-trehan-iris-broadway-noida-extension-ofs03";
+  body: string;
+  collection: "offices";
+  data: any
+} & { render(): Render[".md"] };
+"non-plc-office-space-iris-broadway-Noida-ofs01.md": {
+	id: "non-plc-office-space-iris-broadway-Noida-ofs01.md";
+  slug: "non-plc-office-space-iris-broadway-noida-ofs01";
+  body: string;
+  collection: "offices";
+  data: any
+} & { render(): Render[".md"] };
+"office-space-top-most-floor-iris-broadway-greno-west-ofs05.md": {
+	id: "office-space-top-most-floor-iris-broadway-greno-west-ofs05.md";
+  slug: "office-space-top-most-floor-iris-broadway-greno-west-ofs05";
+  body: string;
+  collection: "offices";
+  data: any
+} & { render(): Render[".md"] };
+"office-space-under-35-lakh-trehan-iris-greater-noida-ofs04.md": {
+	id: "office-space-under-35-lakh-trehan-iris-greater-noida-ofs04.md";
+  slug: "office-space-under-35-lakh-trehan-iris-greater-noida-ofs04";
+  body: string;
+  collection: "offices";
+  data: any
+} & { render(): Render[".md"] };
+"resale-anchor-shop-trehan-iris-broadway-greno-west-ofs01.md": {
+	id: "resale-anchor-shop-trehan-iris-broadway-greno-west-ofs01.md";
+  slug: "resale-anchor-shop-trehan-iris-broadway-greno-west-ofs01";
   body: string;
   collection: "offices";
   data: any
@@ -288,8 +344,8 @@ declare module 'astro:content' {
   collection: "anchorPrice";
   data: any
 };
-"FFSL-lockable": {
-	id: "FFSL-lockable";
+"FFSL-anchor": {
+	id: "FFSL-anchor";
   collection: "anchorPrice";
   data: any
 };
