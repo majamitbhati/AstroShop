@@ -1,0 +1,36 @@
+---
+const { byowner, contactno } = Astro.props;
+import { Icon } from 'astro-icon/components'
+
+---
+
+<div class="px-3 grid grid-cols-2">
+    <div class="flex gap-2 items-center">
+        <Icon name="mdi:account" />
+        <style>
+            [data-icon] {
+                font-size: 1.2rem;
+                color: #fff;
+            }
+            </style>
+        <p class="text-white">
+            <strong>Byowner: {byowner}</strong>
+            
+        </p>
+    </div>
+    <div class="flex gap-2 items-center">
+        <Icon name="mdi:phone" />
+        <style>
+            [data-icon] {
+                font-size: 1.2rem;
+                color: #fff;
+            }
+            </style>
+        <p class="text-white">
+            <a href="tel:+918375924100">
+                <strong>Conact No: {contactno}</strong>
+            </a>
+            
+        </p>
+    </div>
+</div>

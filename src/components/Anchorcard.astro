@@ -6,8 +6,8 @@ import Price from "./Price.astro";
 import EnquireNow from "./EnquireNow.astro";
 import { getEntry } from "astro:content";
 import CardFacilities from "./CardFacilities.astro";
-import Rera from "./Rera.astro";
 import Socials from "./Socials.astro";
+import NobrokerageTag from "./NobrokerageTag.astro";
 
 type Props = {
     anchor: CollectionEntry<"anchors">;
@@ -52,7 +52,7 @@ const BSPPrice = (parsepsf * parsesize) / 100000;
                             ></path></svg
                         >
                         <h4 class="text-2xl font-bold">{BSPPrice} Lacs</h4>
-                        <p class="ml-5"><Rera /></p>
+                        <p class="ml-5"><NobrokerageTag /></p>
                     </div>
                     <a href={`/anchorshop/${anchor.slug}`}>
                         <h4 class="text-md font-bold text-gray-500">

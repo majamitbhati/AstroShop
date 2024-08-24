@@ -58,18 +58,19 @@ const BSPPrice = (parsepsf * parsesize) / 100000;
                 <Price price= {BSPPrice} />
             </div>
             <PageFacilities
-            size={anchor.data.size} 
-            price={anchorData.priceNow}
-            floor={anchor.data.floor} 
-            discount={anchor.data.discount} 
-            corner={anchor.data.corner}
-            status={anchor.data.status}
-            byowner={anchor.data.byowner}
-            brokerage={anchor.data.brokerage}
-            plc={anchor.data.plc}
-            giftvisit={anchor.data.giftvisit}
-            giftbuy={anchor.data.giftbuy}
-            />
+                size={anchor.data.size} 
+                price={anchorData.priceNow}
+                floor={anchor.data.floor} 
+                discount={anchor.data.discount} 
+                corner={anchor.data.corner? "yes" : "No"}
+                atrium={anchor.data.atrium? "yes" : "No"}
+                status={anchor.data.status}
+                byowner={anchor.data.byowner? "yes" : "No"}
+                brokerage={anchor.data.brokerage? "yes" : "No"}
+                plc={anchor.data.plc}
+                giftvisit={anchor.data.giftvisit}
+                giftbuy={anchor.data.giftbuy}
+                />
             <div class="my-8">
                 <Highlights />
             </div>

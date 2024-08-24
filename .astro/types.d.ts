@@ -143,16 +143,51 @@ declare module 'astro:content' {
   slug: "trehan-iris-anchorshop";
   body: string;
   collection: "anchors";
-  data: InferEntrySchema<"anchors">
+  data: any
 } & { render(): Render[".md"] };
 };
 "foodcourts": {
-"trehan-iris-foodcourts.md": {
-	id: "trehan-iris-foodcourts.md";
-  slug: "trehan-iris-foodcourts";
+"atrium-facing-food-court-shop-trehan-iris-broadway-greno-west-ffs01.md": {
+	id: "atrium-facing-food-court-shop-trehan-iris-broadway-greno-west-ffs01.md";
+  slug: "atrium-facing-food-court-shop-trehan-iris-broadway-greno-west-ffs01";
   body: string;
   collection: "foodcourts";
-  data: InferEntrySchema<"foodcourts">
+  data: any
+} & { render(): Render[".md"] };
+"discount-food-court-shop-trehan-iris-noida-extension-ffs02.md": {
+	id: "discount-food-court-shop-trehan-iris-noida-extension-ffs02.md";
+  slug: "discount-food-court-shop-trehan-iris-noida-extension-ffs02";
+  body: string;
+  collection: "foodcourts";
+  data: any
+} & { render(): Render[".md"] };
+"largest-food-court-shop-trehan-broadway-noida-extension-ffs03.md": {
+	id: "largest-food-court-shop-trehan-broadway-noida-extension-ffs03.md";
+  slug: "largest-food-court-shop-trehan-broadway-noida-extension-ffs03";
+  body: string;
+  collection: "foodcourts";
+  data: any
+} & { render(): Render[".md"] };
+"lowest-priced-food-court-shop-trehan-iris-greater-Noida-ffs04.md": {
+	id: "lowest-priced-food-court-shop-trehan-iris-greater-Noida-ffs04.md";
+  slug: "lowest-priced-food-court-shop-trehan-iris-greater-noida-ffs04";
+  body: string;
+  collection: "foodcourts";
+  data: any
+} & { render(): Render[".md"] };
+"main-sitting-area-facing-food-court-shop-iris-broadway-greno-west-ffs06.md": {
+	id: "main-sitting-area-facing-food-court-shop-iris-broadway-greno-west-ffs06.md";
+  slug: "main-sitting-area-facing-food-court-shop-iris-broadway-greno-west-ffs06";
+  body: string;
+  collection: "foodcourts";
+  data: any
+} & { render(): Render[".md"] };
+"no-column-food-court-shop-iris-broadway-greno-west-ffs05.md": {
+	id: "no-column-food-court-shop-iris-broadway-greno-west-ffs05.md";
+  slug: "no-column-food-court-shop-iris-broadway-greno-west-ffs05";
+  body: string;
+  collection: "foodcourts";
+  data: any
 } & { render(): Render[".md"] };
 };
 "offices": {
@@ -161,44 +196,86 @@ declare module 'astro:content' {
   slug: "trehan-iris-officespace";
   body: string;
   collection: "offices";
-  data: InferEntrySchema<"offices">
+  data: any
 } & { render(): Render[".md"] };
 };
 "shops": {
-"shop-for-sale-trehan-iris-noida-280.md": {
-	id: "shop-for-sale-trehan-iris-noida-280.md";
-  slug: "shop-for-sale-trehan-iris-noida-280";
+"atrium-facing-retail-shop-trehan-iris-broadway-greno-west-sfs02.md": {
+	id: "atrium-facing-retail-shop-trehan-iris-broadway-greno-west-sfs02.md";
+  slug: "atrium-facing-retail-shop-trehan-iris-broadway-greno-west-sfs02";
   body: string;
   collection: "shops";
-  data: InferEntrySchema<"shops">
+  data: any
 } & { render(): Render[".md"] };
-"shop-for-sale-trehan-iris-noida.md": {
-	id: "shop-for-sale-trehan-iris-noida.md";
-  slug: "shop-for-sale-trehan-iris-noida";
+"best-atrium-shop-trehan-broadway-noida-extension-sfs11.md": {
+	id: "best-atrium-shop-trehan-broadway-noida-extension-sfs11.md";
+  slug: "best-atrium-shop-trehan-broadway-noida-extension-sfs11";
   body: string;
   collection: "shops";
-  data: InferEntrySchema<"shops">
+  data: any
 } & { render(): Render[".md"] };
-"shop-in-trehan-iris-noida-best-price-SF63.md": {
-	id: "shop-in-trehan-iris-noida-best-price-SF63.md";
-  slug: "shop-in-trehan-iris-noida-best-price-sf63";
+"discount-retail-shop-trehan-noida-extension-sfs03.md": {
+	id: "discount-retail-shop-trehan-noida-extension-sfs03.md";
+  slug: "discount-retail-shop-trehan-noida-extension-sfs03";
   body: string;
   collection: "shops";
-  data: InferEntrySchema<"shops">
+  data: any
 } & { render(): Render[".md"] };
-"shop-in-trehan-iris-noida-west-under-40-lacs-SF61.md": {
-	id: "shop-in-trehan-iris-noida-west-under-40-lacs-SF61.md";
-  slug: "shop-in-trehan-iris-noida-west-under-40-lacs-sf61";
+"first-floor-atrium-facing-retail-shop-iris-broadway-greater-noida-sfs05.md": {
+	id: "first-floor-atrium-facing-retail-shop-iris-broadway-greater-noida-sfs05.md";
+  slug: "first-floor-atrium-facing-retail-shop-iris-broadway-greater-noida-sfs05";
   body: string;
   collection: "shops";
-  data: InferEntrySchema<"shops">
+  data: any
 } & { render(): Render[".md"] };
-"shops-trehan-iris-greno-west-on-discount-SF62.md": {
-	id: "shops-trehan-iris-greno-west-on-discount-SF62.md";
-  slug: "shops-trehan-iris-greno-west-on-discount-sf62";
+"first-floor-retail-shop-iris-broadway-noida-extension-sfs04.md": {
+	id: "first-floor-retail-shop-iris-broadway-noida-extension-sfs04.md";
+  slug: "first-floor-retail-shop-iris-broadway-noida-extension-sfs04";
   body: string;
   collection: "shops";
-  data: InferEntrySchema<"shops">
+  data: any
+} & { render(): Render[".md"] };
+"high-discount-retail-shop-trehan-iris-broadway-noida-sfs09.md": {
+	id: "high-discount-retail-shop-trehan-iris-broadway-noida-sfs09.md";
+  slug: "high-discount-retail-shop-trehan-iris-broadway-noida-sfs09";
+  body: string;
+  collection: "shops";
+  data: any
+} & { render(): Render[".md"] };
+"resale-shop-trehan-iris-broadway-greno-west-sfs10.md": {
+	id: "resale-shop-trehan-iris-broadway-greno-west-sfs10.md";
+  slug: "resale-shop-trehan-iris-broadway-greno-west-sfs10";
+  body: string;
+  collection: "shops";
+  data: any
+} & { render(): Render[".md"] };
+"retail-shop-under-30-lakh-trehan-iris-greater-noida-sfs06.md": {
+	id: "retail-shop-under-30-lakh-trehan-iris-greater-noida-sfs06.md";
+  slug: "retail-shop-under-30-lakh-trehan-iris-greater-noida-sfs06";
+  body: string;
+  collection: "shops";
+  data: any
+} & { render(): Render[".md"] };
+"retail-shop-under-40-lakh-trehan-iris-greater-noida-sfs07.md": {
+	id: "retail-shop-under-40-lakh-trehan-iris-greater-noida-sfs07.md";
+  slug: "retail-shop-under-40-lakh-trehan-iris-greater-noida-sfs07";
+  body: string;
+  collection: "shops";
+  data: any
+} & { render(): Render[".md"] };
+"second-floor-retail-shop-iris-trehan-broadway-noida-sfs08.md": {
+	id: "second-floor-retail-shop-iris-trehan-broadway-noida-sfs08.md";
+  slug: "second-floor-retail-shop-iris-trehan-broadway-noida-sfs08";
+  body: string;
+  collection: "shops";
+  data: any
+} & { render(): Render[".md"] };
+"shop-for-sale-trehan-iris-noida-280sqft-sfs01.md": {
+	id: "shop-for-sale-trehan-iris-noida-280sqft-sfs01.md";
+  slug: "shop-for-sale-trehan-iris-noida-280sqft-sfs01";
+  body: string;
+  collection: "shops";
+  data: any
 } & { render(): Render[".md"] };
 };
 
@@ -209,84 +286,34 @@ declare module 'astro:content' {
 "FCSL-lockable": {
 	id: "FCSL-lockable";
   collection: "anchorPrice";
-  data: InferEntrySchema<"anchorPrice">
-};
-"FFSA-anchor": {
-	id: "FFSA-anchor";
-  collection: "anchorPrice";
-  data: InferEntrySchema<"anchorPrice">
+  data: any
 };
 "FFSL-lockable": {
 	id: "FFSL-lockable";
   collection: "anchorPrice";
-  data: InferEntrySchema<"anchorPrice">
-};
-"GFSA-anchor": {
-	id: "GFSA-anchor";
-  collection: "anchorPrice";
-  data: InferEntrySchema<"anchorPrice">
+  data: any
 };
 "GFSL-lockable": {
 	id: "GFSL-lockable";
   collection: "anchorPrice";
-  data: InferEntrySchema<"anchorPrice">
-};
-"LGSA-anchor": {
-	id: "LGSA-anchor";
-  collection: "anchorPrice";
-  data: InferEntrySchema<"anchorPrice">
+  data: any
 };
 "LGSL-lockable": {
 	id: "LGSL-lockable";
   collection: "anchorPrice";
-  data: InferEntrySchema<"anchorPrice">
+  data: any
 };
 "SFSL-lockable": {
 	id: "SFSL-lockable";
   collection: "anchorPrice";
-  data: InferEntrySchema<"anchorPrice">
+  data: any
 };
 };
 "foodPrice": {
-"FCSL-lockable": {
-	id: "FCSL-lockable";
+"TFFC-lockable": {
+	id: "TFFC-lockable";
   collection: "foodPrice";
-  data: InferEntrySchema<"foodPrice">
-};
-"FFSA-anchor": {
-	id: "FFSA-anchor";
-  collection: "foodPrice";
-  data: InferEntrySchema<"foodPrice">
-};
-"FFSL-lockable": {
-	id: "FFSL-lockable";
-  collection: "foodPrice";
-  data: InferEntrySchema<"foodPrice">
-};
-"GFSA-anchor": {
-	id: "GFSA-anchor";
-  collection: "foodPrice";
-  data: InferEntrySchema<"foodPrice">
-};
-"GFSL-lockable": {
-	id: "GFSL-lockable";
-  collection: "foodPrice";
-  data: InferEntrySchema<"foodPrice">
-};
-"LGSA-anchor": {
-	id: "LGSA-anchor";
-  collection: "foodPrice";
-  data: InferEntrySchema<"foodPrice">
-};
-"LGSL-lockable": {
-	id: "LGSL-lockable";
-  collection: "foodPrice";
-  data: InferEntrySchema<"foodPrice">
-};
-"SFSL-lockable": {
-	id: "SFSL-lockable";
-  collection: "foodPrice";
-  data: InferEntrySchema<"foodPrice">
+  data: any
 };
 };
 "images": Record<string, {
@@ -298,84 +325,54 @@ declare module 'astro:content' {
 "FCSL-lockable": {
 	id: "FCSL-lockable";
   collection: "officePrice";
-  data: InferEntrySchema<"officePrice">
-};
-"FFSA-anchor": {
-	id: "FFSA-anchor";
-  collection: "officePrice";
-  data: InferEntrySchema<"officePrice">
+  data: any
 };
 "FFSL-lockable": {
 	id: "FFSL-lockable";
   collection: "officePrice";
-  data: InferEntrySchema<"officePrice">
-};
-"GFSA-anchor": {
-	id: "GFSA-anchor";
-  collection: "officePrice";
-  data: InferEntrySchema<"officePrice">
+  data: any
 };
 "GFSL-lockable": {
 	id: "GFSL-lockable";
   collection: "officePrice";
-  data: InferEntrySchema<"officePrice">
-};
-"LGSA-anchor": {
-	id: "LGSA-anchor";
-  collection: "officePrice";
-  data: InferEntrySchema<"officePrice">
+  data: any
 };
 "LGSL-lockable": {
 	id: "LGSL-lockable";
   collection: "officePrice";
-  data: InferEntrySchema<"officePrice">
+  data: any
 };
 "SFSL-lockable": {
 	id: "SFSL-lockable";
   collection: "officePrice";
-  data: InferEntrySchema<"officePrice">
+  data: any
 };
 };
 "shopPrice": {
 "FCSL-lockable": {
 	id: "FCSL-lockable";
   collection: "shopPrice";
-  data: InferEntrySchema<"shopPrice">
-};
-"FFSA-anchor": {
-	id: "FFSA-anchor";
-  collection: "shopPrice";
-  data: InferEntrySchema<"shopPrice">
+  data: any
 };
 "FFSL-lockable": {
 	id: "FFSL-lockable";
   collection: "shopPrice";
-  data: InferEntrySchema<"shopPrice">
-};
-"GFSA-anchor": {
-	id: "GFSA-anchor";
-  collection: "shopPrice";
-  data: InferEntrySchema<"shopPrice">
+  data: any
 };
 "GFSL-lockable": {
 	id: "GFSL-lockable";
   collection: "shopPrice";
-  data: InferEntrySchema<"shopPrice">
-};
-"LGSA-anchor": {
-	id: "LGSA-anchor";
-  collection: "shopPrice";
-  data: InferEntrySchema<"shopPrice">
+  data: any
 };
 "LGSL-lockable": {
 	id: "LGSL-lockable";
   collection: "shopPrice";
-  data: InferEntrySchema<"shopPrice">
+  data: any
 };
 "SFSL-lockable": {
 	id: "SFSL-lockable";
   collection: "shopPrice";
-  data: InferEntrySchema<"shopPrice">
+  data: any
 };
 };
 
@@ -383,5 +380,5 @@ declare module 'astro:content' {
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	export type ContentConfig = typeof import("./../src/content/config.js");
+	export type ContentConfig = never;
 }

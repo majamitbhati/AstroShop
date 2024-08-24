@@ -6,8 +6,10 @@ import Price from "./Price.astro";
 import EnquireNow from "./EnquireNow.astro";
 import { getEntry } from "astro:content";
 import CardFacilities from "./CardFacilities.astro";
-import Rera from "./Rera.astro";
 import Socials from "./Socials.astro";
+import NobrokerageTag from "./NobrokerageTag.astro";
+import NumberForm from "./NumberForm.astro"
+import CardTopInfo from "./CardTopInfo.astro";
 
 type Props = {
     shop: CollectionEntry<"shops">;
@@ -24,6 +26,21 @@ const BSPPrice = (parsepsf * parsesize) / 100000;
 ---
 
 <div class="lg:mx-16 lg:mb-8 rounded-lg border-2 bg-gray-100 border-slate-200">
+    <div class="grid lg:grid-cols-3 gap-4 py-4 pl-4 border-b-gray-300 border-2 bg-gray-400 rounded-lg mb-5">
+        <div class=" col-span-2">
+            <a href={`/shops/${shop.slug}`}>
+                <h2 class="text-xl font-bold text-white">
+                    {shop.data.title}
+                </h2></a
+            >
+        </div>
+        <div>
+            <CardTopInfo
+            byowner={shop.data.byowner? "Yes" : "No"}
+            contactno={shop.data.contactno}
+            />
+        </div>
+    </div>
     <div class="grid lg:grid-cols-3 gap-8">
         <div class="">
             <a href={`/shops/${shop.slug}`}>
@@ -36,6 +53,7 @@ const BSPPrice = (parsepsf * parsesize) / 100000;
             >
         </div>
         <div class="col-span-2">
+            
             <div class="grid lg:grid-cols-2">
                 <div class="my-4">
                     <div class="flex">
@@ -52,30 +70,12 @@ const BSPPrice = (parsepsf * parsesize) / 100000;
                             ></path></svg
                         >
                         <h4 class="text-2xl font-bold">{BSPPrice} Lacs</h4>
-                        <p class="ml-5"><Rera /></p>
+                        <p class="ml-5"><NobrokerageTag /></p>
                     </div>
-                    <a href={`/shops/${shop.slug}`}>
-                        <h4 class="text-md font-bold text-gray-500">
-                            {shop.data.title}
-                        </h4></a
-                    >
+                    
                 </div>
-                <div id="form" class="bg-gray-200 lg:m-4 lg:p-4 rounded-lg">
-                    <form action="">
-                        <div class="form-group flex">
-                            <input
-                                type="tel"
-                                name="phone"
-                                placeholder="Enter your number"
-                                min="10"
-                                max="10"
-                                pattern="[0-9]{10}"
-                                class="px-3 py-2 bg-white border shadow-sm border-slate-300 placeholder-slate-400 focus:outline-none focus:border-yellow-500 focus:ring-yellow-500 block w-60 sm:text-sm focus:ring-1"
-                                required
-                            />
-                            <button class="bg-[#E4B300] px-4 text-sm">Quick Enquire</button>
-                        </div>
-                    </form>
+                <div id="form" class="bg-gray-200 lg:mr-12 lg:p-4 rounded-lg">
+                    <NumberForm />
                 </div>
             </div>
             <div>

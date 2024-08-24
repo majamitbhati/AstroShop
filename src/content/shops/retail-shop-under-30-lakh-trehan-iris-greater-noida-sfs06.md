@@ -1,27 +1,33 @@
 ---
-category: Anchor Shop
-date: 08/06/2024
+category: Retail Shop
+date: 26/02/2024
 featured: false
-image: ../images/trehan-iris-resale-anchor-shop.webp
-title: Trehan Iris Broadway Greno West atrium facing shop
-floor: 1st Floor
-size: 435
-price: FFSL-lockable
+image: ../images/trehan-iris-broadway-noida-sfs08.webp
+soldout: ../images/trehan-iris-resale-shops-soldout.webp
+title: Retail Shop in Trehan IRIS Greater Noida under 30 Lakhs
+floor: 2nd Floor
+size: 314
+price: SFSL-lockable
 atrium: true
 corner: false
 status: Resale
 byowner: true
-discount: 150000
-brokerage: true
+discount: 90000
+brokerage: false
 plc: 5%
 name: Amit Singh
 contactno: 8375924100
 giftvisit : worth 2000*
 giftbuy : Gold Coin
 info: GST, PLC, and Extra Changes is not included in the price above.
+ptz1: Collaboration is a key component of many creative endeavors, and music production is no exception.
+ptz2: Collaboration is a key component of many creative endeavors, and music production is no exception.
+ptz3: Collaboration is a key component of many creative endeavors, and music production is no exception.
+ptz4: Collaboration is a key component of many creative endeavors, and music production is no exception.
+ptz5: Collaboration is a key component of many creative endeavors, and music production is no exception.
+
 
 ---
-
 
 Collaboration is a key component of many creative endeavors, and music production is no exception. In fact, collaboration can be essential to the success of a music project, as it allows for the pooling of diverse talents and perspectives to create something truly unique and compelling.
 
