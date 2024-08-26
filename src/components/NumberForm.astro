@@ -2,18 +2,63 @@
 
 ---
 
-<form action="">
-    <div class="form-group flex">
+<form action="" method="post" name="tibnumberform" id="tibnumberform">
+    <div class="form-group flex justify-end">
         <input
             type="tel"
-            name="phone"
+            name="number"
             placeholder="Enter your number"
             min="10"
             max="10"
             pattern="[0-9]{10}"
-            class="px-3 py-2 bg-white border shadow-sm border-slate-300 placeholder-slate-400 focus:outline-none focus:border-yellow-500 focus:ring-yellow-500 block w-60 sm:text-sm focus:ring-1"
+            class="px-3 py-2 bg-white border lg:shadow-sm border-slate-300 placeholder-slate-400 focus:outline-none focus:border-yellow-500 focus:ring-yellow-500 block lg:w-60 sm:text-sm focus:ring-1"
             required
         />
-        <button class="bg-[#E4B300] px-4 text-sm">Quick Enquire</button>
+        <button class="bg-[#E4B300] lg:px-4 px-4 text-sm">Quick Enquire</button>
     </div>
+</form>
+
+<!-- 
+<script
+type="text/javascript"
+src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
+<script type="text/javascript">
+(function () {
+  emailjs.init("Fh9iGh3N3uargV7OE"); // Replace with your EmailJS user ID
+})();
+
+document
+  .getElementById("tibnumberform")
+  .addEventListener("submit", function (event) {
+    event.preventDefault(); // Prevent the default form submission
+
+    // Get form data
+    const formData = new FormData(this);
+
+    // Convert FormData to a plain object
+    const data = {};
+    formData.forEach((value, key) => {
+      data[key] = value;
+    });
+
+    // Log form data for debugging
+    console.log("Form Data:", data);
+
+    // Send email using EmailJS
+    emailjs
+      .send("service_mbjfuyl", "template_fk18vn5", data)
+      .then(function (response) {
+        console.log("Success:", response);
+        alert('Thank You! Your number has been sent to us, We will contact you soon!')
+        // window.location = "/thanks";
+      
+        document.getElementById("tibnumberform").reset(); // Optionally reset the form
+     
+      })
+      .catch(function (error) {
+        console.error("Error:", error);
+        alert("There was an error sending your message. Please try again.");
+      });
+  });
+</script> -->
 </form>

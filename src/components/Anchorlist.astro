@@ -11,6 +11,6 @@ type Props = {
 const { anchors } = Astro.props;
 ---
 
-<div class="flex justify-center">
+<div class="flex flex-wrap justify-center">
     {anchors.map((anchor) => <Anchor anchor={anchor} />)}
 </div>
