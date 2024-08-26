@@ -19,11 +19,11 @@ contactno: 8375924100
 giftvisit : worth 2000*
 giftbuy : Gold Coin
 info: GST, PLC, and Extra Changes is not included in the price above.
-ptz1: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz2: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz3: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz4: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz5: Collaboration is a key component of many creative endeavors, and music production is no exception.
+ptz1: This is an anchor shop in the biggest commercial mall of Greater Noida, Trehan IRIS Broadway Greno West.
+ptz2: This anchor shop is available on the ground floor, dedicated for well-renowned and popular brands. Trehan has a long list of such brands already tied-up with the project.
+ptz3: Over 50 prestigious brands have already partnered with Trehan, ensuring their presence in the mall upon its grand opening.
+ptz4: Builder has many years of managing commercial malls on lease-use model, therefore investors can be assured to have consistent rental income for their investments for a very long period of time.
+ptz5: Investors won’t need to go throught the hassle of finding brands to rent their shops to, as this hassle is undertaken by the builder.
 
 
 

@@ -20,11 +20,13 @@ contactno: 8375924100
 giftvisit : worth 2000*
 giftbuy : Gold Coin
 info: GST, PLC, and Extra Changes is not included in the price above.
-ptz1: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz2: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz3: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz4: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz5: Collaboration is a key component of many creative endeavors, and music production is no exception.
+ptz1: The shop is available on the second floor. Second floor of Trehan IRIS Broadway is dedicated for Womens and Kids Retail Stores.
+ptz2: This is the smallest ticket size shop, Atrium Facing individual retail store the second floor on Trehan IRIS Broadway, most likely dedicated to Womens and Kids brands. 
+ptz3: It is an Investors unit available for resale. Being an Investor’s unit being directly sold, there won’t be any brokerage included in the price.
+ptz4: Investors in this shop won’t have to hassle for finding brands for renting the shop to, this hassle will be taken care by the builder only.
+
+ptz5: Until possession, investor’s can also enjoy 12% annual assured return by the builder.
+
 
 
 ---

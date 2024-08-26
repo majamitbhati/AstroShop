@@ -20,11 +20,14 @@ contactno: 8375924100
 giftvisit : worth 2000*
 giftbuy : Gold Coin
 info: GST, PLC, and Extra Changes is not included in the price above.
-ptz1: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz2: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz3: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz4: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz5: Collaboration is a key component of many creative endeavors, and music production is no exception.
+ptz1: This shop is available on the first floor, which is dedicated for Mens and Sports retail shops only.
+
+ptz2: It is an Investors unit available for resale. Being an Investor’s unit being directly sold, there won’t be any brokerage included in the price.
+
+ptz3: This shop is a non-atrium facing shop, available at a lower price than the normal market rate of the mall. 
+ptz4: This shop is available on lease-use model by the builder and not for personal use.
+
+ptz5: Trehan has multiple years of experience in running a commercial project on lease model, so the investors can be assured for rental yield from their shop for a long period of time.
 
 
 

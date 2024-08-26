@@ -19,11 +19,15 @@ contactno: 8375924100
 giftvisit : worth 2000*
 giftbuy : Gold Coin
 info: GST, PLC, and Extra Changes is not included in the price above.
-ptz1: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz2: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz3: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz4: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz5: Collaboration is a key component of many creative endeavors, and music production is no exception.
+ptz1: Office Spaces are available in Omega Tower at Trehan IRIS Broadway Greno-West from 7th floor to 18th floor.
+
+ptz2: This office space is available on the 15th floor of Omega Tower in Trehan IRIS Noida Extension providing a beautiful panoramic view of Noida.
+
+ptz3: Office Spaces in Omega Tower of Trehan IRIS Broadway is available as lockable property.
+
+ptz4: Office Spaces in Omega Tower of Trehan IRIS Broadway can be used for personal use and also for generating passive income via rental yield.
+ptz5: This is an investor’s unit available for resale, therefore there won’t be any brokerage charges.
+
 
 ---
 

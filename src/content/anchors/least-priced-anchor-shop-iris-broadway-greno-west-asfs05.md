@@ -19,11 +19,11 @@ contactno: 8375924100
 giftvisit : worth 2000*
 giftbuy : Gold Coin
 info: GST, PLC, and Extra Changes is not included in the price above.
-ptz1: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz2: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz3: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz4: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz5: Collaboration is a key component of many creative endeavors, and music production is no exception.
+ptz1: This anchor shop is available on the forth floor, dedicated for entertainment zone including multiplexes, gaming zone, and other fun/recreational activities.
+ptz2: This anchor shop is not available for personal use and only available on lease-use model, where the builder has all the leasing rights of the shops.
+ptz3: Over 50 prestigious brands have already partnered with Trehan, ensuring their presence in the mall upon its grand opening.
+ptz4: Builder has many years of managing commercial malls on lease-use model, therefore investors can be assured to have consistent rental income for their investments for a very long period of time.
+ptz5: This is an investor’s unit available for resale, therefore there won’t be any brokerage charges.
 
 
 
