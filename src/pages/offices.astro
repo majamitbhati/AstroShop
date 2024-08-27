@@ -1,6 +1,4 @@
 ---
-import {Image} from "astro:assets"
-
 import Layout from "../layouts/Layout.astro";
 import { getCollection } from "astro:content";
 import OfficecardList from "../components/OfficecardList.astro";
@@ -16,7 +14,7 @@ const offices = await getCollection("offices");
 
 <Layout title={title}>
     <Breadcrumb title={title} />
-    <div class="bg-[#3F2E28] lg:py-16">
+    <div class="bg-[#3F2E28] lg:py-16 py-8">
     <OfficecardList office={offices} />
 </div>
 </Layout>

@@ -4,8 +4,8 @@ import { Icon } from 'astro-icon/components'
 
 ---
 
-<div class="px-3 grid grid-cols-2">
-    <div class="flex gap-2 items-center">
+<div class="px-3 grid grid-cols-2 gap-4">
+    <div class="flex gap-2 items-center bg-green-600 pl-5 lg:pl-10 rounded-lg">
         <Icon name="mdi:account" />
         <style>
             [data-icon] {
@@ -13,12 +13,12 @@ import { Icon } from 'astro-icon/components'
                 color: #fff;
             }
             </style>
-        <p class="text-white">
-            <strong>Byowner: {byowner}</strong>
+        <p class="text-yellow-200">
+            <strong>By owner: <br> {byowner}</strong>
             
         </p>
     </div>
-    <div class="flex gap-2 items-center">
+    <div class="flex gap-2 items-center bg-green-600 pl-5 lg:pl-10 rounded-lg">
         <Icon name="mdi:phone" />
         <style>
             [data-icon] {
@@ -26,9 +26,9 @@ import { Icon } from 'astro-icon/components'
                 color: #fff;
             }
             </style>
-        <p class="text-white">
+        <p class="text-yellow-200">
             <a href="tel:+918375924100">
-                <strong>Conact No: {contactno}</strong>
+                <strong>Contact No: <br> {contactno}</strong>
             </a>
             
         </p>

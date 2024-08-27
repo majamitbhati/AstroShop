@@ -11,6 +11,6 @@ type Props = {
 const { foods } = Astro.props;
 ---
 
-<div class="flex justify-center">
+<div class="flex flex-wrap justify-center">
     {foods.map((food) => <Food food={food} />)}
 </div>

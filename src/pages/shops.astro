@@ -1,5 +1,4 @@
 ---
-import {Image} from "astro:assets"
 
 import Layout from "../layouts/Layout.astro";
 import { getCollection } from "astro:content";
@@ -16,7 +15,7 @@ const shops = await getCollection("shops");
 
 <Layout title={title}>
     <Breadcrumb title={title} />
-    <div class="bg-[#3F2E28] lg:py-16">
+    <div class="bg-[#3F2E28] lg:py-16 py-8">
         <ShopcardList shops={shops} />
     </div>
 
