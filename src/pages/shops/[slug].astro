@@ -1,14 +1,13 @@
 ---
-import { getCollection, CollectionEntry } from "astro:content";
+import { getCollection } from "astro:content";
+import type { CollectionEntry } from 'astro:content';
 import Layout from "../../layouts/Layout.astro";
 import { Image } from "astro:assets";
 import { getEntry } from "astro:content";
 import Breadcrumb from "../../components/Breadcrumb.astro";
 import Price from "../../components/Price.astro";
 import PageFacilities from "../../components/PageFacilities.astro";
-import EnquireNow from "../../components/EnquireNow.astro";
 import Form from "../../components/Form.astro";
-import Highlights from "../../components/Highlights.astro";
 
 export const getStaticPaths = async () => {
     const shops = await getCollection("shops");

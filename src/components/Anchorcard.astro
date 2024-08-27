@@ -1,15 +1,11 @@
 ---
 import { Image } from "astro:assets";
-import { getEntryBySlug, type CollectionEntry } from "astro:content";
-import ResaleType from "./ResaleType.astro";
-import Price from "./Price.astro";
-import EnquireNow from "./EnquireNow.astro";
+import  type {CollectionEntry} from "astro:content";
 import { getEntry } from "astro:content";
 import CardFacilities from "./CardFacilities.astro";
 import Socials from "./Socials.astro";
 import NobrokerageTag from "./NobrokerageTag.astro";
-import CardTopInfo from "./CardTopInfo.astro"
-import NumberForm from "./NumberForm.astro";
+import CardTopInfo from "./CardTopInfo.astro";
 
 type Props = {
     anchor: CollectionEntry<"anchors">;
