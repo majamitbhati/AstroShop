@@ -19,11 +19,16 @@ contactno: 8375924100
 giftvisit : worth 2000*
 giftbuy : gold coin
 info: GST, PLC, and Extra Changes is not included in the price above.
-ptz1: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz2: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz3: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz4: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz5: Collaboration is a key component of many creative endeavors, and music production is no exception.
+ptz1: This is a food court shop in the largest food court complex of Greater Noida West.
+
+ptz2: This is an atrium facing food court shop providing high visibility to the shop and therefore higher footfall.
+
+ptz3: This shop is reasonably priced food court shop facing the atrium. This shop is best suitable for low ticket size investment opportunity aiming for high returns.
+
+ptz4: This is an investor’s unit available for resale, therefore there won’t be any brokerage charges.
+
+ptz5: No extra PLC is charged for this food court shop although this shop is atrium facing.
+
 
 
 

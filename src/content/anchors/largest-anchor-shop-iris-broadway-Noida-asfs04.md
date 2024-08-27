@@ -19,11 +19,11 @@ contactno: 8375924100
 giftvisit : worth 2000*
 giftbuy : Gold Coin
 info: GST, PLC, and Extra Changes is not included in the price above.
-ptz1: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz2: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz3: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz4: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz5: Collaboration is a key component of many creative endeavors, and music production is no exception.
+ptz1: This Anchor shop is Atrium Facing, providing maximum visibility and here higher footfall to the shop.
+ptz2: This anchor shop is available on the first floor, dedicated to the mens and sports brand section. Trehan has a long list of mens and sports brands that can rent the shop.
+ptz3: This is an investor’s unit available for resale, therefore there won’t be any brokerage charges.
+ptz4: No extra PLC is charged for this food court shop although this shop is atrium facing.
+ptz5: Investors won’t need to go throught the hassle of finding brands to rent their shops to, as this hassle is undertaken by the builder. 
 
 
 

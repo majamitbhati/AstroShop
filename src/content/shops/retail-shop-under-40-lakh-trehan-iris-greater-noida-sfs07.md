@@ -20,11 +20,16 @@ contactno: 8375924100
 giftvisit : worth 2000*
 giftbuy : Gold Coin
 info: GST, PLC, and Extra Changes is not included in the price above.
-ptz1: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz2: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz3: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz4: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz5: Collaboration is a key component of many creative endeavors, and music production is no exception.
+ptz1: Shop is in front of an escalator with high visibility to the potential customers
+
+ptz2: This large size, atrium facing shop on the first floor is a perfect match for an established mens and sports brand. Trehan already has tied up with multiple such brand for renting shops upon opening.
+
+ptz3: This is an atrium facing shop, which will provide higher visibility and footfall. Therefore, a rental yield for this shops can be expected.
+
+ptz4: Trehan has multiple years of experience in running a commercial project on lease model, so the investors can be assured for rental yield from their shop for a long period of time.
+
+ptz5: Until possession, investor’s can also enjoy 12% annual assured return by the builder.
+
 
 
 ---

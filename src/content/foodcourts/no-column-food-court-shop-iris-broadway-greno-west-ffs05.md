@@ -19,11 +19,15 @@ contactno: 8375924100
 giftvisit : worth 2000*
 giftbuy : gold coin
 info: GST, PLC, and Extra Changes is not included in the price above.
-ptz1: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz2: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz3: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz4: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz5: Collaboration is a key component of many creative endeavors, and music production is no exception.
+ptz1: This food court shop having no columns in between can provide higher rental yield as its preferred for better kitchen planning and staff management.
+ptz2: One can expect a higher ROI from this food court shop as it is also atrium facing, providing higher rental charges for their shops.
+
+ptz3: Builder has many years of managing commercial malls on lease-use model, therefore investors can be assured to have consistent rental income for their investments for a very long period of time.
+
+ptz4: This is an investor’s unit available for resale, therefore there won’t be any brokerage charges.
+
+ptz5: No extra PLC is charged for this food court shop although this shop is atrium facing.
+
 
 
 

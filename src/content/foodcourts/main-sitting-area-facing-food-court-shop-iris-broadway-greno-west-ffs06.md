@@ -19,11 +19,14 @@ contactno: 8375924100
 giftvisit : worth 2000*
 giftbuy : gold coin
 info: GST, PLC, and Extra Changes is not included in the price above.
-ptz1: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz2: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz3: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz4: Collaboration is a key component of many creative endeavors, and music production is no exception.
-ptz5: Collaboration is a key component of many creative endeavors, and music production is no exception.
+ptz1: This shop is facing the central sitting area, best for attracting major crowd from the food court in Trehan IRIS Greno West.
+
+ptz2: No extra PLC is charged for this food court shop although this shop is right in front of the central siting area of the food court.
+
+ptz3: This food court shop having no columns in between can provide higher rental yield as its preferred for better kitchen planning and staff management.
+
+ptz4: This food court shop is a corner shop, allowing for more visibility and therefore higher footfall
+ptz5: This Corner Food Court Shop allow multiple counters, and also easy access to the sitting area in multiple directions.
 
 
 
