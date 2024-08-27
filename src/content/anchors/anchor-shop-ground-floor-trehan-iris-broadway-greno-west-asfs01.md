@@ -32,18 +32,32 @@ ptz5: Over 50 prestigious brands have already partnered with Trehan, ensuring th
 
 > _This is one of the best Anchor Shops available in the biggest commercial mall of Greater Noida, Trehan IRIS Broadway Greno West. This anchor shop is very suitable for investors who are looking for an atrium facing shop for passive income via Rental income and aiming to secure a high return on their investments._
 
-## Overview of the shop
+## Overview of this Shop
 
-This anchor shop is an atrium facing shop on the first floor of the mall. First floor of the mall is dedicated for Mens and Sports Brand only. The size of the shop is _90 sq-ft_, and it is located right beside the escalator of the mall. As this anchor shop is located right beside the escalator, which is a prefferencial location, an extra 5% PLC is included in the cost of the shop. This is an investor's unit, which is available for sale and therefore there won't be any brokerage involved in the deal. 
+This anchor shop on the first floor is available for Mens and Sports Section. This is an atrium facing shop, which provides higher visibility to the store and therefore higher footfall to the shop. This ensures high revenue for the brands and secure a higher and consistent rental income for the investor. This would be best for investors who are aiming to gain consistent and relatively higher return on their investment from commercial investment.
 
-## Usability of the Anchor Shop
+This is a _90 sq-ft_ virtual space within an anchor shop at the first floor. As this shop is an investor's unit which is available for resale, there will not by any additional brockerage charges included in the price, and the price will be relatively lower than the price in the market as of now. Apart from no brokerage involved in this unit, there will be no extra PLC (Prefferential Location Charges) included in this unit.
 
-Anchor shops being a very large space, are brocken down into multiple non-lockable virtual spaces, and each virtual spaces are sold to investors. This allows easy accessibility for investors who wants to invest into commercial real estate projects at a very low ticket price. 
+### Additional Perks
+* We are offering additional 12% assured return untill possession.
+* We are also offering gift worth Rs. 2000/- on every visit to the shop
+* On the purchase of the property you'll also win a gold coin.
+* Rs. 1,50,000/- additional discount of this shop.
 
-Anchor shops in Trehan IRIS Broadway Greno West are available on Lease-use model only and not available for personal use. Only Builder has the leasing rights of the anchor shops. This is very benefitial for the Investors, as Trehan has many years of experience in running a successful commercial project on leasing model. This will ensure that the investors will be enjoying passive income via rental yield for many upcoming years. Lease-Use model also ensures that the investors won't have to hassle to find companies to rent their stores to, inspecting their store every month, getting them to pay monthly rent on time. All of these hassles whould be taken over by the Builder, he will be responsible to find brands to rent stores to, ensure timely rent, and maintanence of the shop (though you'll be paying maintanence charges). All that the investor's would be doing is to chill and enjoy their monthly rental yield.
+### What is Leasing Model? How it is benefitial for investors?
+Leasing Model is a very popular model of running a commercial project. In leasing model, generally a separate entity is created that holds the leasing rights of the shops, in this case the entity is the builder itself. i.e., Trehan Group. Even though all the shops are sold to investors, investors won't be allowed to use it for personnal use. Only Trehan will decide which shop will be rented to which party, and the investors will enjoy their monthly rental income.
 
-Over 50 prestigious brands have already tied-up with Trehan IRIS Broadway Noida, to be joining before the grand opening of the mall. This particular shop is on the first floor, which is dedicated for Mens and Sports Brand. Trehan has a long list of Mens and Sports brands that can be tied up with to rent this store upon. 
+Benefits of Leasing model in Commercial Project:
+* Assured Return of 12% on the shops, untill possession.
+* Investors won't have to go throught the hassle of finding brands to rent their shops to.
+* Trehan will take care of finding brands and renting them the stores as per the mall design.
+* Trehan will analyze shopper behaviour, tenant sales, category performance, and they'll determine the best mix of stores and their location to boost their revenues. This will ensure profitability for shops and hence long term rental income for investors.
+* Leasing model becomes crucial for anchor shops, as there will be multiple investors within one shop, therefore Trehan will be managing investors conflict jointly within an anchor shop.
 
-## Benefits of this Anchor Shop
-1. This Achor Shop is a low ticket investment option that can benefit investors to invest in commercial project with low investment
-2. This Anchor Shop is right beside the escalators ensuring higher visibility and therefore higher footfall to the shop, this ensures higher rental yield for investor.
+### What is Anchor shops? How it is benefitial for investors?
+Anchor shops are large retail shop space available in mall that are generally rented to any big brands that can unilize that large retail space, such as Reliance Trends, Tata Croma, Zudio, etc. A large retail space is divided into multiple segments called, virtual spaces, and are sold to investors.
+
+Benefits of Investing in an Anchor Shop:
+* Virtual Spaces in Anchor shops allows investors to invest in it at low ticket size.
+* Anchor Shops are generally rented to large and popular brands, ensurirng consistent and long term rental income.
+* Anchor tenants are typically well-established businesses which helps in reducing risk exposure to the investor.
