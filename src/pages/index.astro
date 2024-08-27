@@ -15,14 +15,37 @@ import Amenities from "../components/Amenities.astro";
 import Brochure from "../components/Brochure.astro";
 import Location from "../components/Location.astro";
 import Keypoints from "../components/Keypoints.astro";
+import Foodlist from "../components/Foodlist.astro";
+import Anchorlist from "../components/Anchorlist.astro";
+import Officelist from "../components/Officelist.astro";
+import Seemorebtn from "../components/Seemorebtn.astro"
 
 
 const shops = await getCollection("shops");
+const shopssliced = shops.slice(0,4);
+
+const foods = await getCollection("foodcourts");
+const foodssliced = foods.slice(0,4);
+
+const anchors = await getCollection("anchors");
+const anchorssliced = anchors.slice(0,4);
+
+const offices = await getCollection("offices");
+const officessliced = offices.slice(0,4);
 
 
 const {
 	title="Trehan Iris Broadway Greno West"
 } = Astro.props
+
+
+const {
+	shoppara="Trehan Iris Broadway Greno West shops are available for sale as both fresh and resale units. The shops held with us or our close-knit investors are available at a very reasonable price. The shops will be at one of the best locations of the mall as these shops were booked almost three years back. Most of the shops are either atrium facing shops, the prime shops are the corner shops facing the atrium. Resale and rentals of these shops will be high. For most of the shops no brokerage will be charged from the buyers. ",
+	foodpara="Foodcourt of Trehan Iris Broadway Greno West are the best food-courts available in Delhi-NCR. Location of the project is prime as it is right at the center of a population hub of Greater Noida West. Loading on the food-courts is amazingly low, even to the extent that one food-court will give you more area than two food-courts of other builders. In all a food court in Trehan Iris Broadway Greno west is a best buy property. Rentals from the food court will be high. We will provide you with the best price and best location food courts held with us / with our investors. ",
+	anchorpara="Anchor shops in Trehan Iris Broadway Greno West project are available in single as well as bulk buying. Anchor shops will give assured return and rental both before and post possession of the units, the rental value / assured return value will differ from shop to shop. Anchor shops will be provided at low price, resale units are few in number, however, fresh units will be given to the buyer at the lowest price. Assured gifts will be given to the buyer of Anchor shops. ",
+	officepara="Office space in Trehan Iris Broadway Greno West will come up in phase 2 of the project. Likely delivery of the office units will be in mid 2027. All office spaces will be the prime offices with double height entry, personal balconies and one dedicated floor for facilities. Office spaces are available in resale at a very reasonable price, offices with PLC and without PLC are also available. We have investor's units at a low price and we can also provide fresh units at the lowest possible price. ",
+} = Astro.props
+
 ---
 
 <Layout title={title}>
@@ -32,20 +55,55 @@ const {
 		<Keypoints>
 		<MiniSlider />
 	</div>
-	<div class="grid lg:grid-cols-3 gap-16 lg:mx-10 p-8 my-8">
+	<div class="grid lg:grid-cols-3 grid-cols-1 lg:gap-16 lg:mx-10 p-8 my-8">
 		<div class="col-span-2">
 			<Overview />
 		</div>
-		<div class="mr-8">
+		<div class="lg:mr-8">
 			<Form />
 		</div>
 	</div>
 	<InvestmentOptions />
-	<div class="shop mx-8 lg:mx-16 py-24">
-		<MainHeading heading="Resale Units in Trehan Iris Broadway Greno West"/>
-		<div class="lg:flex justify-center" id="units">
-			<Shoplist shops={shops} />
+	<div class="shop mx-8 lg:mx-16 py-16" id="units">
+		<div class="lg:mt-16">
+			<MainHeading heading="Resale Shops for Sale in Trehan Iris Broadway Greno West"/>
+			<p class="text-xl text-center">{shoppara}</p>
+			<div class="lg:flex justify-center">
+				<Shoplist shops={shopssliced} />
+			</div>
+			<div class="flex justify-center">
+				<Seemorebtn link="/shops" />
+			</div>
 		</div>
+		<div class="mt-16 ">
+			<MainHeading heading="Resale foodCourts for Sale in Trehan Iris Broadway Greno West"/>
+			<p class="text-xl text-center">{foodpara}</p>
+			<div class="lg:flex justify-center">
+				<Foodlist foods={foodssliced} />
+			</div>
+			<div class="flex justify-center">
+				<Seemorebtn link="/foodcourts" />
+			</div>
+		</div>
+		<div class="mt-16">
+			<MainHeading heading="Resale Anchor Shops for Sale in Trehan Iris Broadway Greno West"/>
+			<p class="text-xl text-center">{anchorpara}</p>
+			<div class="lg:flex justify-center">
+				<Anchorlist anchors={anchorssliced} />
+			</div>
+			<div class="flex justify-center">
+				<Seemorebtn link="/anchorshop" />
+			</div>
+		</div>
+		<div class="mt-16">
+			<MainHeading heading="Resale Office spaces for Sale in Trehan Iris Broadway Greno West"/>
+			<p class="text-xl text-center">{officepara}</p>
+			<div class="lg:flex justify-center">
+				<Officelist offices={officessliced} />
+			</div>
+			<div class="flex justify-center">
+				<Seemorebtn link="/offices" />
+			</div>
 		<ProjectHighlight />
 		<Amenities />
 	</div>

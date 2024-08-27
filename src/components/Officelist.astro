@@ -11,6 +11,6 @@ type Props = {
 const { offices } = Astro.props;
 ---
 
-<div class="flex justify-center">
+<div class="flex flex-wrap justify-center">
     {offices.map((office) => <Office office={office} />)}
 </div>
