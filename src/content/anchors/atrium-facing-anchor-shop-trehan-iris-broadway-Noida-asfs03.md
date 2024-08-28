@@ -30,8 +30,33 @@ ptz5: Investors won’t need to go throught the hassle of finding brands to rent
 ---
 
 
-Collaboration is a key component of many creative endeavors, and music production is no exception. In fact, collaboration can be essential to the success of a music project, as it allows for the pooling of diverse talents and perspectives to create something truly unique and compelling.
+> _This anchor shop is one of the best anchor shop available on the gorund floor, which is dedicated for National and International Popular Brands. This is the best investment opportunity to secure a higher rental income with consistency for a longer period of time in the best commercial project of Greater Noida, i.e., Trehan IRIS Broadway Noida._
 
-## Introduction
+## Overview of this Shop
 
-There are many ways that collaboration can take place in music production. For example, musicians may collaborate on the creation of a song, with each musician contributing their own unique parts to the overall composition. Producers and engineers may collaborate to ensure that the final mix and master are of the highest quality possible. And songwriters and producers may collaborate to develop the song's overall structure, lyrics, and arrangement.
+This anchor shop on the ground floor, which is dedicated to National and International Popular brands. Ground floor always has the highest footfall of the mall and therefore the highest rental income. This is an atrium facing shop, which is best for visibility and higher footfall to the shop. This ensure higher revenue for the tenant and therefore securing a long-term, consistent, and higher rental income from the shop. This would be best for investors aiming to gain relatively higher return on their investment with consistency for a longer period of time.
+
+This is a _100 sq-ft_ virtual space within an anchor shop available on the ground floor of the mall. As this shop is an investor's unit which is available for resale, there will not be any additional brockerage charges included in the price, and the price will be relatively lower than the price in the market as of now. Apart from no brokerage involved in this unit, there will be no extra PLC (Prefferential Location Charges) included in this unit.
+
+### Additional Perks
+* We are offering additional 12% assured return untill possession.
+* We are also offering gift worth Rs. 2000/- on every visit to the shop
+* On the purchase of the property you'll also win a gold coin.
+
+### What is Leasing Model? How it is benefitial for investors?
+Leasing Model is a very popular model of running a commercial project. In leasing model, generally a separate entity is created that holds the leasing rights of the shops, in this case the entity is the builder itself. i.e., Trehan Group. Even though all the shops are sold to investors, investors won't be allowed to use it for personnal use. Only Trehan will decide which shop will be rented to which party, and the investors will enjoy their monthly rental income.
+
+Benefits of Leasing model in Commercial Project:
+* Assured Return of 12% on the shops, untill possession.
+* Investors won't have to go throught the hassle of finding brands to rent their shops to.
+* Trehan will take care of finding brands and renting them the stores as per the mall design.
+* Trehan will analyze shopper behaviour, tenant sales, category performance, and they'll determine the best mix of stores and their location to boost their revenues. This will ensure profitability for shops and hence long term rental income for investors.
+* Leasing model becomes crucial for anchor shops, as there will be multiple investors within one shop, therefore Trehan will be managing investors conflict jointly within an anchor shop.
+
+### What is Anchor shops? How it is benefitial for investors?
+Anchor shops are large retail shop space available in mall that are generally rented to any big brands that can unilize that large retail space, such as Reliance Trends, Tata Croma, Zudio, etc. A large retail space is divided into multiple segments called, virtual spaces, and are sold to investors.
+
+Benefits of Investing in an Anchor Shop:
+* Virtual Spaces in Anchor shops allows investors to invest in it at low ticket size.
+* Anchor Shops are generally rented to large and popular brands, ensurirng consistent and long term rental income.
+* Anchor tenants are typically well-established businesses which helps in reducing risk exposure to the investor.
