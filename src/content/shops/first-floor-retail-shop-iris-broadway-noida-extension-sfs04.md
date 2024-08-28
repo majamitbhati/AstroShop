@@ -33,25 +33,40 @@ ptz5: This shop is available on lease-use model by the builder and not for perso
 
 ---
 
+> _This is one of the best Retail shops available in the biggest upcoming commercial mall of Greater Noida, Trehan IRIS Broadway Greno West. This Retail store is best suitable for investors who are looking for an atrium facing retail shop for passive income via Rental income and aiming to secure a high return on their investments._
 
-Collaboration is a key component of many creative endeavors, and music production is no exception. In fact, collaboration can be essential to the success of a music project, as it allows for the pooling of diverse talents and perspectives to create something truly unique and compelling.
+## Overview of this Shop
 
-## Introduction
+This retail shop is available on the first floor which is dedicated to Mens and Sports section. This is an atrium facing shop, which provides higher visibility to the store and therefore higher footfall to the shop. This ensures high revenue for the tenants and secure a higher and consistent rental income for the investor. This would be best for investors who are aiming to gain consistent and relatively higher return on their investment from commercial investment.
 
-There are many ways that collaboration can take place in music production. For example, musicians may collaborate on the creation of a song, with each musician contributing their own unique parts to the overall composition. Producers and engineers may collaborate to ensure that the final mix and master are of the highest quality possible. And songwriters and producers may collaborate to develop the song's overall structure, lyrics, and arrangement.
+This is a _180 sq-ft_ retail shop. As this shop is an investor's unit which is available for resale, there will not by any additional brockerage charges included in the price, and the price will be relatively lower than the price in the market as of now. Apart from no brokerage involved in this unit, there will be no extra PLC (Prefferential Location Charges) included in this unit.
 
-## Benefits
+### Additional Perks
+* We are also offering gift worth Rs. 2000/- on every visit to the shop
+* On the purchase of the property you'll also win a gold coin.
+* Rs. 90,000/- additional discount of this shop.
 
-One of the key benefits of collaboration in music production is that it allows for a more diverse and innovative approach to music-making. When individuals from different backgrounds and with different skill sets come together, they can bring a range of perspectives and ideas to the table. This can result in a more dynamic and interesting final product, with elements that may not have been present if the project had been created by just one person.
+### What is Leasing Model? How it is benefitial for investors?
+Leasing Model is a very popular model of running a commercial project. In leasing model, generally a separate entity is created that holds the leasing rights of the shops, in this case the entity is the builder itself. i.e., Trehan Group. Even though all the shops are sold to investors, investors won't be allowed to use it for personnal use. Only Trehan will decide which shop will be rented to which party, and the investors will enjoy their monthly rental income.
 
-Another benefit of collaboration is that it can help to mitigate the risks and challenges that can arise during the music production process. For example, if a musician is struggling to come up with a particular part or melody, another musician may be able to provide a fresh perspective or suggest a new approach. Similarly, if a producer is having difficulty getting a particular sound or effect just right, another engineer may be able to offer some advice or expertise.
+Benefits of Leasing model in Commercial Project:
+* Investors won't have to go throught the hassle of finding brands to rent their shops to.
+* Trehan will take care of finding brands and renting them the stores as per the mall design.
+* Trehan will analyze shopper behaviour, tenant sales, category performance, and they'll determine the best mix of stores and their location to boost their revenues. This will ensure profitability for shops and hence long term rental income for investors.
 
-## Challenges
+### What is a Retail Shop? How it is benefitial for investors?
+Retail shops are the most common shop available in any commercial mall. These are lockable shops and sold as a complete individual unit. In Trehan IRIS Broadway Noida, Retail shops are not available for personal use and only the builder has leasing rights of the shops. All the floors of the mall are dedicated to specific niche and category, this is to ensure maximum revenue for the tenants and maximum rental income for the investors.
+* Lower Ground is dedicated to Daily essential items category
+* Ground Floor is dedicated to Popular National and International Brands
+* First Floor is dedicated to Mens and Sports Category
+* Second Floor is dedicated to Woments and Kids Section
 
-Of course, collaboration in music production is not without its challenges. Communication can be a key issue, particularly when working with individuals from different backgrounds or with different areas of expertise. It's important for collaborators to be clear and transparent about their goals, preferences, and expectations, and to be willing to compromise and make adjustments as needed.
+There are different type of Retail shops, each having their own pros:
+* Atrium Facing Retial Shop: They have the maximum visibility and therefore the highest footfall.
+* Corner Retail Shop: They are the corner, therefore have visibility and accessibility from multiple sides ensuring maximum visibility and footfall.
+* Highway Facing Retail Shop: These shops have direct visibility from the highway and entrance. This shops are best suited for branding pupose and maximizing footfall. In Trehan these shops are charged an extra 10% PLC.
+* Non-Atrium Facing Shop: These shops are generally placed in a lobby and these are more affordable than other shops on the same floor.
 
-In addition, it's important to ensure that all collaborators are on the same page when it comes to creative direction and vision. If individuals have different ideas about where the project should go, it can be difficult to achieve a cohesive and unified final product.
-
-## Conclusion
-
-Despite these challenges, however, collaboration remains an essential component of music production. By working together, individuals can create music that is truly greater than the sum of its parts, and that has the potential to resonate with audiences around the world. Whether collaborating with other musicians, producers, engineers, or songwriters, the power of collaboration in music production cannot be underestimated.
+Benefits of Investing in a Retail Shop:
+* Retail shops as an independent unit can be available at more affordable price than other investment options in commerical mall
+* A Retail shop is better defined than a virtual space in an anchor store.
