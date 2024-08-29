@@ -45,16 +45,17 @@ ptz5: 5% extra PLC (Preferred Location Charges) would be charged for this shop a
 * **Resale Unit:** The best atrium facing, big size retail shop available at affordable price without any brokerage.
 
 ### Additional Perks
-* Trehan has long list of Womens and Kids wear brand that they can rent this shop upon its grand opening.
-* Free gift worth 2,000 on visit and a gold coin on every purchase of the shop.
-* An additional discount of 90,000/- for first 10 visitors to the shop.
+* Win a gift worth 2,000/- for every visit to Trehan IRIS Broadway Noida.
+* Win a gold coin for making a purchase of this shop.
+* We're also offering an additional discount of 90,000/- for first 20 visitors to this shop.
 
 ### Benefits of Investing in this Retail Shop:
-* Investing a well-established mall reduces the risk associated with new developments.
-* Mall in highly visible area and accessibility, makes it an attractive investment for tenants.
-* Owning a retail space in a mall can connect you with other investors and business owners.
+* Retail shops as an independent unit can be available at more affordable price than other investment options in commerical mall.
+* A Retail shop is better defined than a virtual space in an anchor store.
+* Corner Retail shops are generally rented at a higher price than other retail store.
+* A Retail shop with no coulumn in between offers better interior design and inventory placement, providing more aesthetic look to the shop.
 
 ### Benefits of Investing in Trehan IRIS Broadway Greno West:
-* **0.75 Acres Atrium** A large atrium as of 0.75 acres offers occupance for heavy crowd and visibility for all the shops in the mall.
-* **Modern and Aesthetic Design** A modern and aesthetic design attract crowd during weekends to hangout increasing footfall to every shop.
-* **10 Floored Omega Tower** having a office space towen within the mall compound offers great footfall opportunity from the working professionals and entrepreneurs from the office itself.
+* Investors won’t have to go throught the hassle of finding brands to rent their shops to.
+* Trehan will take care of finding brands and renting them the stores as per the mall design.
+* Trehan will analyze shopper behaviour, tenant sales, category performance, and they’ll determine the best mix of stores and their location to boost their revenues. This will ensure profitability for shops and hence long term rental income for investors.
