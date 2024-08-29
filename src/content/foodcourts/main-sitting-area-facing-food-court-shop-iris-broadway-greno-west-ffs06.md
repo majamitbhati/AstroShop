@@ -31,40 +31,34 @@ ptz5: This Corner Food Court Shop allow multiple counters, and also easy access 
 
 
 ---
-> _This is one of the best Food Courts available in the biggest upcoming commercial mall of Greater Noida, Trehan IRIS Broadway Greno West. This food court is best suitable for investors who are looking for an atrium facing food court shop for passive income via Rental income and aiming to secure a high return on their investments._
+> _This is the best corner shop in the food court of Trehan IRIS Broadway Greno West. This shop offers great visibility and footfall from two side of walkway intersection. One can have two counter on each adjacent side of the corner, improving in customer and staff management. This results in higher revenue for tenant and higher/consistent rental income for the investor._
 
-## Overview of this Shop
+## **Overview of this Shop**
 
-This food court shop is available on the thirt floor. This is an atrium facing shop, which provides higher visibility to the store and therefore higher footfall to the shop. This ensures high revenue for the tenants and secure a higher and consistent rental income for the investor. This would be best for investors who are aiming to gain consistent and relatively higher return on their investment from commercial investment.
+This details of the food court mentioned are as under :-
 
-This is a _250 sq-ft_ food court shop. As this shop is an investor's unit which is available for resale, there will not by any additional brockerage charges included in the price, and the price will be relatively lower than the price in the market as of now. Apart from no brokerage involved in this unit, there will be no extra PLC (Prefferential Location Charges) included in this unit.
+<li> <b>Floor :-</b> This food court shop is on the third floor positioned at the intersection of two walkways.
+<li> <b>Location :-</b> This food court is located right at the interesection of two walkways, having counter on each side 
+<li> <b>Layout :-</b> This Food Court unit has a L-shaped layout, allowing for two service counters on each adjacent side of the corner.
+<li> <b>Size :-</b> This food court shop has a total area of 810 sq-ft.
+<li> <b>Facing :-</b> This is a corner shop, facing two seating areas on each side of the counter.
+<li> <b>Brokerage-Free:</b> As this unit is investor-owned and available for resale, there are no brokerage fees.
+<li> <b>PLC-Free:</b> This corner shop is exemt from any additional preferential lcoation charges (PLC)
 
-### Additional Perks
-* We are also offering gift worth Rs. 2000/- on every visit to the shop
-* On the purchase of the property you'll also win a gold coin.
-* Rs. 90,000/- additional discount of this shop.
+### **Advantages of Investing in a Food Court Shop:**
+<li> Food court shops are typically bustling, ensuring a steady rental income.
+<li> Unlike other retial stores, food court shops generally does not require minimal capex investment for interior design.
+<li> These Food court shops tend to attract the highest foot traffic within any commercial mall.
+<li> Consistently high revenue generatino sets food court shops apart from other retail spaces.
+<li> Rental income from food court shops often exceeds that of other outlets in the mall.
+<li> Exiting a food court investment is straignt forward, as these space are in constatn demand from investors.
 
-### What is Leasing Model? How it is benefitial for investors?
-Leasing Model is a very popular model of running a commercial project. In leasing model, generally a separate entity is created that holds the leasing rights of the shops, in this case the entity is the builder itself. i.e., Trehan Group. Even though all the shops are sold to investors, investors won't be allowed to use it for personnal use. Only Trehan will decide which shop will be rented to which party, and the investors will enjoy their monthly rental income.
+### **Additional Perks**
+<li> Every visitor to these shops recieve an additional gift worth 2,000/- on every visit.
+<li> Every investor will receive a gold coin as a gift on every purchase of the property.
+<li> First 10 visitors will also get an additional discount of 90,000/-. 
 
-Benefits of Leasing model in Commercial Project:
-* Investors won't have to go throught the hassle of finding brands to rent their shops to.
-* Trehan will take care of finding brands and renting them the stores as per the mall design.
-* Trehan will analyze shopper behaviour, tenant sales, category performance, and they'll determine the best mix of stores and their location to boost their revenues. This will ensure profitability for shops and hence long term rental income for investors.
-
-### What is a Food Court Shop? How it is benefitial for investors?
-Food court shops are generally the most revenue generating shops of any mall. These have the highest demand and the highest liquidity in the market. Food courts are generally available at the topmost floor of a commercial mall, and brings the highest footfall. At the food court there are a lot of shops around the floor and sitting area in the middle. 
-
-There are type of food court shops, each having their own pros:
-* Atrium Facing Food Court Shop: They have the maximum visibility and therefore the highest footfall.
-* Central Sitting Area Facing Food Court Shop: They have easy accessibility to the sitting area, therefore people prefer buying from these shops.
-* Corner Food Court Shop: They are the corner, therefore have visibility from multiple sides, and easy accessibility to the sitting area of two sides.
-* No-Column Food Court Shop: They are the shops with no column in between the design, which helps in making a better kitchen design and management of the staff.
-
-Benefits of Investing in a Food Court Shop:
-* Food Court Shops have the highest footfall in any commercial mall.
-* Food Court Shops generate consistent and highest revenue.
-* In most of the case, Rental Income from a food court shop is higher than any other shop in the mall.
-* A food court shop is mostly occupied. This ensures a consistent rental income.
-* Unlike the other store, you won't have to put in capex for the interior designing of the shop at a food court shop.
-* Making an exit from a food court shop investment is the easiest, as it is always in demand by investors.
+### **Benefits of Investing in Trehan IRIS Broadway Greno West:**
+<li> <b>Hassle-Free Investment:</b> Investors won't have to go through the hassle of finding shops to rent their shops to.
+<li> <b>Leasing Model:</b> Trehan IRIS Broadway shops runs on leasing model, i.e., Trehan has leasing rights for all the shops.
+<li> <b>Years of Experience:</b> Trehan Group has many years of experience in successfully running a mall on leasing model. They've already tied up with over 50 brands that will be joining the mall after its grand opening.
