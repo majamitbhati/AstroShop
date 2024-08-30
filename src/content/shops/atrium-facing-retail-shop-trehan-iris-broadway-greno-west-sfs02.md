@@ -31,32 +31,29 @@ ptz6: No extra PLC (Preferred Location Charges) would be charged for this shop e
 
 ---
 
-Collaboration is a key component of many creative endeavors, and music production is no exception. In fact, collaboration can be essential to the success of a music project, as it allows for the pooling of diverse talents and perspectives to create something truly unique and compelling.
+> _This is one of the best Retail shops available in the biggest upcoming commercial mall of Greater Noida, Trehan IRIS Broadway Greno West. This is a corner retial store, offering visibility from both the sides of the walkway intersection. Corner shops are generally rented on a higher rent because it offers, higher revenue to the tenants._
 
-## Introduction
+## Overview of this Shop
+* **Floor:** This Retial shop is on the First floor of the Mall.
+* **Category:** First floor of Trehan IRIS Broadway is dedicated for Mens and Sports Brands only.
+* **Layout:** This is a rectangular shop without any columns in between.
+* **Facing:** This is Corner shop, facing two sides of the walkway intersection.
+* **Size:** This is a 180 sq-ft carpet area shop.
+* **Resale Unit:** This is a relase unit by an investor, therefore no additional brokerage are included in the price.
+* **No-PLC:** No additional PLC is charged for this unit, even though this shop is a corner shop.
 
-There are many ways that collaboration can take place in music production. For example, musicians may collaborate on the creation of a song, with each musician contributing their own unique parts to the overall composition. Producers and engineers may collaborate to ensure that the final mix and master are of the highest quality possible. And songwriters and producers may collaborate to develop the song's overall structure, lyrics, and arrangement.
+### Additional Perks
+* Win a gift worth 2,000/- for every visit to Trehan IRIS Broadway Noida.
+* Win a gold coin for making a purchase of this shop.
+* We're also offering an additional discount of 90,000/- for first 20 visitors to this shop.
 
-## This is a heading
+### Benefits of Investing in this Retail Shop:
+* Retail shops as an independent unit can be available at more affordable price than other investment options in commerical mall.
+* A Retail shop is better defined than a virtual space in an anchor store.
+* Corner Retail shops are generally rented at a higher price than other retail store.
+* A Retail shop with no coulumn in between offers better interior design and inventory placement, providing more aesthetic look to the shop.
 
-This is a list in markdown:
- 
-- One
-- Two
-- Three
-
-## Benefits
-
-One of the key benefits of collaboration in music production is that it allows for a more diverse and innovative approach to music-making. When individuals from different backgrounds and with different skill sets come together, they can bring a range of perspectives and ideas to the table. This can result in a more dynamic and interesting final product, with elements that may not have been present if the project had been created by just one person.
-
-Another benefit of collaboration is that it can help to mitigate the risks and challenges that can arise during the music production process. For example, if a musician is struggling to come up with a particular part or melody, another musician may be able to provide a fresh perspective or suggest a new approach. Similarly, if a producer is having difficulty getting a particular sound or effect just right, another engineer may be able to offer some advice or expertise.
-
-## Challenges
-
-Of course, collaboration in music production is not without its challenges. Communication can be a key issue, particularly when working with individuals from different backgrounds or with different areas of expertise. It's important for collaborators to be clear and transparent about their goals, preferences, and expectations, and to be willing to compromise and make adjustments as needed.
-
-In addition, it's important to ensure that all collaborators are on the same page when it comes to creative direction and vision. If individuals have different ideas about where the project should go, it can be difficult to achieve a cohesive and unified final product.
-
-## Conclusion
-
-Despite these challenges, however, collaboration remains an essential component of music production. By working together, individuals can create music that is truly greater than the sum of its parts, and that has the potential to resonate with audiences around the world. Whether collaborating with other musicians, producers, engineers, or songwriters, the power of collaboration in music production cannot be underestimated.
+### Benefits of Investing in Trehan IRIS Broadway Greno West:
+* Investors won't have to go throught the hassle of finding brands to rent their shops to.
+* Trehan will take care of finding brands and renting them the stores as per the mall design.
+* Trehan will analyze shopper behaviour, tenant sales, category performance, and they'll determine the best mix of stores and their location to boost their revenues. This will ensure profitability for shops and hence long term rental income for investors.

@@ -32,40 +32,34 @@ ptz5: No extra PLC is charged for this food court shop although this shop is atr
 
 
 ---
-> _This is one of the best Food Courts available in the biggest upcoming commercial mall of Greater Noida, Trehan IRIS Broadway Greno West. This food court is best suitable for investors who are looking for an atrium facing food court shop for passive income via Rental income and aiming to secure a high return on their investments._
+> _This No-column Food court shop of Trehan IRIS are always in demand. This is because there no columns or pillar in a shop offers great kitchen planning and staff management. These shops are rented on higher rent in comparison to other shops at the food court._
 
-## Overview of this Shop
+## **Overview of this Shop**
 
-This food court shop is available on the thirt floor. This is an atrium facing shop, which provides higher visibility to the store and therefore higher footfall to the shop. This ensures high revenue for the tenants and secure a higher and consistent rental income for the investor. This would be best for investors who are aiming to gain consistent and relatively higher return on their investment from commercial investment.
+This details of the food court mentioned are as under :-
 
-This is a _250 sq-ft_ food court shop. As this shop is an investor's unit which is available for resale, there will not by any additional brockerage charges included in the price, and the price will be relatively lower than the price in the market as of now. Apart from no brokerage involved in this unit, there will be no extra PLC (Prefferential Location Charges) included in this unit.
+<li> <b>Floor :-</b> This food court shop is on the third floor, facing the sitting area.
+<li> <b>Location :-</b> This food court is located right in the middle of the food court facing the sitting area of the food court. 
+<li> <b>Layout :-</b> This Food Court unit has a U-shaped layout, allowing for multiple service points and efficient customer flow.
+<li> <b>Size :-</b> This food court shop has a total area of 644 sq-ft.
+<li> <b>Facing :-</b> This is a sitting area facing food court shop, providing direct access to customers.
+<li> <b>No Brokerage:</b> Since this unit is investor-owner and available for resale, no brokerage fees will be charged.
+<li> <b>No-PLC:</b> No additional PLC applies to this corner shop.
 
-### Additional Perks
-* We are also offering gift worth Rs. 2000/- on every visit to the shop
-* On the purchase of the property you'll also win a gold coin.
-* Rs. 90,000/- additional discount of this shop.
+### **Benefits of Investing in a Food Court Shop:**
+<li> Food court shops are typically always busy, ensuring a steady rental income.
+<li> Unlike other stores, food court shops does not require usually need minimal investment in interior design.
+<li> Food court shops generally attract the highest foot traffic in any commercial mall.
+<li> These shops consistently generate high revenue compared to other retail spaces.
+<li> Rental income from food court shops often surpasses that of other mall outlets.
+<li> Exiting a food court investment is straignt forward, as these space are in constatn demand from investors.
 
-### What is Leasing Model? How it is benefitial for investors?
-Leasing Model is a very popular model of running a commercial project. In leasing model, generally a separate entity is created that holds the leasing rights of the shops, in this case the entity is the builder itself. i.e., Trehan Group. Even though all the shops are sold to investors, investors won't be allowed to use it for personnal use. Only Trehan will decide which shop will be rented to which party, and the investors will enjoy their monthly rental income.
+### **Additional Perks**
+<li> Receive a complimentary gift worth Rs. 2,000 with each visit to the shop.
+<li> Receive a gold coin with the purchase of the property.
+<li> Enjoy an additional Rs. 90,000/- discount of this shop.
 
-Benefits of Leasing model in Commercial Project:
-* Investors won't have to go throught the hassle of finding brands to rent their shops to.
-* Trehan will take care of finding brands and renting them the stores as per the mall design.
-* Trehan will analyze shopper behaviour, tenant sales, category performance, and they'll determine the best mix of stores and their location to boost their revenues. This will ensure profitability for shops and hence long term rental income for investors.
-
-### What is a Food Court Shop? How it is benefitial for investors?
-Food court shops are generally the most revenue generating shops of any mall. These have the highest demand and the highest liquidity in the market. Food courts are generally available at the topmost floor of a commercial mall, and brings the highest footfall. At the food court there are a lot of shops around the floor and sitting area in the middle. 
-
-There are type of food court shops, each having their own pros:
-* Atrium Facing Food Court Shop: They have the maximum visibility and therefore the highest footfall.
-* Central Sitting Area Facing Food Court Shop: They have easy accessibility to the sitting area, therefore people prefer buying from these shops.
-* Corner Food Court Shop: They are the corner, therefore have visibility from multiple sides, and easy accessibility to the sitting area of two sides.
-* No-Column Food Court Shop: They are the shops with no column in between the design, which helps in making a better kitchen design and management of the staff.
-
-Benefits of Investing in a Food Court Shop:
-* Food Court Shops have the highest footfall in any commercial mall.
-* Food Court Shops generate consistent and highest revenue.
-* In most of the case, Rental Income from a food court shop is higher than any other shop in the mall.
-* A food court shop is mostly occupied. This ensures a consistent rental income.
-* Unlike the other store, you won't have to put in capex for the interior designing of the shop at a food court shop.
-* Making an exit from a food court shop investment is the easiest, as it is always in demand by investors.
+### **Benefits of Investing in Trehan IRIS Broadway Greno West:**
+<li> <b>100% paid-up land:</b> The land on which this project is being build is fully paid by the builder itself.
+<li> <b>Targeted Population:</b> Currently there's 3 lakhs of population is residing within 3 Km radius of this project, and we're targeting over 8 lakhs of population in the upcoming years.
+<li> <b>Leasing Model:</b> Trehan Group has many years of experience in successfully running a mall on leasing model. They've already tied up with over 50 brands that will be joining the mall after its grand opening.

@@ -33,32 +33,28 @@ ptz5: Trehan has multiple years of experience in running a commercial project on
 
 ---
 
-Collaboration is a key component of many creative endeavors, and music production is no exception. In fact, collaboration can be essential to the success of a music project, as it allows for the pooling of diverse talents and perspectives to create something truly unique and compelling.
+> _This is one of the best retail shop in Trehan IRIS Broadway Noida. This shop on the first floor is lobby facing, attracing all the crowd walking by the lobby. This shop is best suitable for the investor willing to invest in a shop with large size at an affordable price_
 
-## Introduction
+## Overview of this Shop
+* **Floor:** This Retial shop is on the First floor of the Mall.
+* **Category:** First floor of Trehan IRIS Broadway is dedicated for Mens and Sports Brands only.
+* **Layout:** This shop it in the lobby, with least columns in between the shop as per the size of this shop.
+* **Facing:** This shop is lobby facing corner shop. This shop can attract customers directly from the lobby into shop itself.
+* **Size:** This is a 435 sq-ft carpet area shop.
+* **Resale Unit:** The best lobby facing, big size retail shop available at affordable price without any brokerage.
 
-There are many ways that collaboration can take place in music production. For example, musicians may collaborate on the creation of a song, with each musician contributing their own unique parts to the overall composition. Producers and engineers may collaborate to ensure that the final mix and master are of the highest quality possible. And songwriters and producers may collaborate to develop the song's overall structure, lyrics, and arrangement.
+### Additional Perks
+* Trehan has long list of Mens and Sports wear brand that they can rent this shop upon its grand opening.
+* Free gold coin as a gift on property purchase.
+* Free gift worth 2,000/- on visit to the shop.
+* An additional discount of 90,000/- for first 10 visitors to the shop.
 
-## This is a heading
+### Benefits of Investing in this Retail Shop:
+* Banks offering favorable loan terms for investing in commercial property.
+* Tenants will often invest in improving their space, which can inturn increase the value of your property.
+* Malls regular renovation and upgradation enhance the property's value over time.
 
-This is a list in markdown:
- 
-- One
-- Two
-- Three
-
-## Benefits
-
-One of the key benefits of collaboration in music production is that it allows for a more diverse and innovative approach to music-making. When individuals from different backgrounds and with different skill sets come together, they can bring a range of perspectives and ideas to the table. This can result in a more dynamic and interesting final product, with elements that may not have been present if the project had been created by just one person.
-
-Another benefit of collaboration is that it can help to mitigate the risks and challenges that can arise during the music production process. For example, if a musician is struggling to come up with a particular part or melody, another musician may be able to provide a fresh perspective or suggest a new approach. Similarly, if a producer is having difficulty getting a particular sound or effect just right, another engineer may be able to offer some advice or expertise.
-
-## Challenges
-
-Of course, collaboration in music production is not without its challenges. Communication can be a key issue, particularly when working with individuals from different backgrounds or with different areas of expertise. It's important for collaborators to be clear and transparent about their goals, preferences, and expectations, and to be willing to compromise and make adjustments as needed.
-
-In addition, it's important to ensure that all collaborators are on the same page when it comes to creative direction and vision. If individuals have different ideas about where the project should go, it can be difficult to achieve a cohesive and unified final product.
-
-## Conclusion
-
-Despite these challenges, however, collaboration remains an essential component of music production. By working together, individuals can create music that is truly greater than the sum of its parts, and that has the potential to resonate with audiences around the world. Whether collaborating with other musicians, producers, engineers, or songwriters, the power of collaboration in music production cannot be underestimated.
+### Benefits of Investing in Trehan IRIS Broadway Greno West:
+* **JW Marriot Hotel Tie-up** Hotel guests will definitely improve the revenue of the shops in the mall, ensuring contistent rental income for investors.
+* **In-house Construction Team** In-house construction team helps in on-time project completion without any delay.
+* **2 Level Parking** 2 level Parking space provides ample space to easily accomodate over 1000 cars at a time.
