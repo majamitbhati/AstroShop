@@ -17,7 +17,8 @@ import Keypoints from "../components/Keypoints.astro";
 import Foodlist from "../components/Foodlist.astro";
 import Anchorlist from "../components/Anchorlist.astro";
 import Officelist from "../components/Officelist.astro";
-import Seemorebtn from "../components/Seemorebtn.astro"
+import Seemorebtn from "../components/Seemorebtn.astro";
+import ConstructionUpdate from "../components/ConstructionUpdate.astro";
 
 
 const shops = await getCollection("shops");
@@ -104,6 +105,7 @@ const {
 		<Amenities />
 	</div>
 	<Brochure />
+	<ConstructionUpdate />
 	<div class="mt-10">
 		<Location />
 	</div>

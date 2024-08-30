@@ -1,0 +1,44 @@
+---
+import MainHeading from "./MainHeading.astro"
+
+
+const {
+    img1 ='img/trehan-iris-broadway-construction-status-2.webp',
+    img2 ='img/trehan-iris-broadway-construction-status-3.webp',
+    img3 ='img/trehan-iris-broadway-construction-status-4.webp',
+} = Astro.props
+
+---
+
+
+<div class="py-20">
+    <MainHeading heading="Construction Update" />
+    <div class="grid lg:grid-cols-2 gap-3">
+        <div>
+            <img src={img1} alt="" width="100%"/>
+        </div>
+        <div>
+            <ul class="list-disc ml-8">
+                <li>148695.71 sq. ft. structural area has been constructed above the ground floor.</li>
+                <li>The foundation area has been completed in just 1.2 years. 3,47,000 sq. ft. slab area has been casted in the basement, lower ground floor and the ground floor.</li>
+                <li>Plumbing work has begun on the project. Additionally, the firefighting work has also started.</li>
+                <li>Painting work has begun as well in the project.</li>
+                <li>Achieved 7.51 lakh safe man-hours with our commitment to safety and excellence.</li>
+                <li>M80, the highest grade of concrete used in the construction is prepared under the supervision of the in-house quality control team.</li>
+                <li>300-350 labourers working round the clock. </li>
+                <li>One of a kind triple-layer waterproofing method used in the process which has not been adopted by any other project in the region.</li>
+                <li>These milestones have been achieved by the team of 12 engineers with 90+ years of cumulative experience.</li>
+            </ul>
+        </div>
+    </div>
+    <div class="grid lg:grid-cols-2 gap-3 my-4">
+        <div>
+            <img src={img2} alt="" width="100%"/>
+
+        </div>
+        <div>
+            <img src={img3} alt="" width="100%"/>
+
+        </div>
+    </div>
+</div>
