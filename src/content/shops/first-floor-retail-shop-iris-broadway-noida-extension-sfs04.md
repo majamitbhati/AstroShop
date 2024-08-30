@@ -33,16 +33,15 @@ ptz5: This shop is available on lease-use model by the builder and not for perso
 
 ---
 
-
-> _This is one of the best small ticket size Atrium facing Retail shop on the first floor available in the biggest upcoming commercial mall of Greater Noida, Trehan IRIS Broadway Greno West. Along with being an affordable investment option, this atrium facing retail shop on the first floor offers higher visibility and footfall to the shop, generating higher revenue for the tenant. It's best suited to investors willing to make higher return on their investment on a low ticket size investment._
+> _This is one of the best small ticket size Atrium facing Retail shop on the first floor in Trehan IRIS Broadway Greno West. This atrium facing retail shop on the first floor available on an affordable price. Being atrium facing this shop has the potential to generate high rental income with long term occupancy._
 
 ## Overview of this Shop
-* **Floor:** This Retial shop is on the First floor of the Mall.
-* **Category:** First floor of Trehan IRIS Broadway is dedicated for Mens and Sports Brands only.
-* **Layout:** This shop it next to the escalator at the second floor, providing easy accessibility to customers..
-* **Facing:** This shop is atrium facing, which will help bring in more crowd in, maximizing revenue of the shop.
-* **Size:** This is a 224 sq-ft carpet area shop.
-* **Resale Unit:** This unit at the second floor is available at discounted price, without any PLC or brokerage charges.
+* **Floor:** This Retail shop is on the First floor of the Mall.
+* **Category:** This shop on the first floor is part of the cluster called, _______, dedicated to men and sports brands only.
+* **Layout:** This shop is next to the elevator on the first floor, providing easy accessibility to customers.
+* **Facing:** This shop is an atrium-facing shop, which will help in attracting more customers to shop, enhancing the revenue of the tenant.
+* **Size:** This shop has a super area of 224 sq ft and an approximate carpet area of 106 sq ft
+* **Resale Unit:** This is a resale unit by the investor that is available without any brokerage and at minimum PLC charges.
 
 ### Additional Perks
 * An opportunity to invest with a builder having many years of experience in running a successful commercial mall.
