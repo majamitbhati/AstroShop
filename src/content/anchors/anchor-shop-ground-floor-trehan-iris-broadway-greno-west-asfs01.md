@@ -2,7 +2,9 @@
 category: Anchor Shop
 date: 08/06/2024
 featured: false
+availability: true
 image: ../images/trehan-iris-resale-anchor-shop.webp
+soldout: ../images/trehan-iris-resale-shops-soldout.webp
 title: Anchor Shop on Ground Floor in Trehan Iris Broadway Greno West
 floor: 1st Floor
 size: 90

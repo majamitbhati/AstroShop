@@ -2,6 +2,7 @@
 category: Retail Shop
 date: 08/06/2024
 featured: false
+availability: true
 image: ../images/trehan-iris-broadway-noida-sfs03.webp
 soldout: ../images/trehan-iris-resale-shops-soldout.webp
 title: Atrium Facing Retail Shop on First Floor in IRIS Broadway Greater Noida

@@ -2,6 +2,7 @@
 category: Retail Shop
 date: 08/06/2024
 featured: false
+availability: true
 image: ../images/trehan-iris-broadway-noida-sfs05.webp
 soldout: ../images/trehan-iris-resale-shops-soldout.webp
 title: First Floor Retail Shop in IRIS Broadway Noida Extension

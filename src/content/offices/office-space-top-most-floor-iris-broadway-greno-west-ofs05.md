@@ -2,7 +2,9 @@
 category: Office
 date: 08/06/2024
 featured: false
+availability: true
 image: ../images/trehan-iris-resale-offices.webp
+soldout: ../images/trehan-iris-resale-shops-soldout.webp
 title: Office Space on the Top Most Floor in IRIS Broadway Greno West
 floor: 18th Floor
 size: 480

@@ -2,7 +2,9 @@
 category: Office
 date: 08/06/2024
 featured: false
+availability: true
 image: ../images/trehan-iris-resale-offices.webp
+soldout: ../images/trehan-iris-resale-shops-soldout.webp
 title: Resale Office Space in Trehan IRIS Broadway Greno West
 floor: 10th Floor
 size: 412

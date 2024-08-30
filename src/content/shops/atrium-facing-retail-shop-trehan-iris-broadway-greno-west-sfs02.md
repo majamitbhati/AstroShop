@@ -2,6 +2,7 @@
 category: Retail Shop
 date: 26/02/2024
 featured: false
+availability: true
 image: ../images/trehan-iris-resale-shops-soldout.webp
 soldout: ../images/trehan-iris-resale-shops-soldout.webp
 title: Atrium Facing Retail Shop in Trehan Iris Broadway Greno West

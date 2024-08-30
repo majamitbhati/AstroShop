@@ -2,7 +2,9 @@
 category: Anchor Shop
 date: 08/06/2024
 featured: false
+availability: true
 image: ../images/trehan-iris-resale-anchor-shop.webp
+soldout: ../images/trehan-iris-resale-shops-soldout.webp
 title: Least Priced Anchor Shop in IRIS Broadway Greno West
 floor: 4th floor
 size: 150

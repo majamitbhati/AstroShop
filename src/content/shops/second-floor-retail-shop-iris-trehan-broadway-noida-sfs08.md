@@ -2,6 +2,7 @@
 category: Retail Shop
 date: 26/02/2024
 featured: false
+availability: true
 image: ../images/trehan-iris-broadway-noida-sfs10.webp
 soldout: ../images/trehan-iris-resale-shops-soldout.webp
 title: Second Floor Retail Shop in IRIS Trehan Broadway Noida

@@ -2,6 +2,7 @@
 category: Retail Shop
 date: 08/06/2024
 featured: false
+availability: true
 image: ../images/trehan-iris-broadway-noida-sfs02.webp
 soldout: ../images/trehan-iris-resale-shops-soldout.webp
 title: Retail Shops in Trehan IRIS Noida Extension on Discount

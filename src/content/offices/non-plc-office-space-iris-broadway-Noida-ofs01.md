@@ -2,7 +2,9 @@
 category: Office
 date: 08/06/2024
 featured: false
+availability: true
 image: ../images/trehan-iris-resale-offices.webp
+soldout: ../images/trehan-iris-resale-shops-soldout.webp
 title: NON-PLC Office Space in IRIS Broadway Noida
 floor: 14th Floor
 size: 412

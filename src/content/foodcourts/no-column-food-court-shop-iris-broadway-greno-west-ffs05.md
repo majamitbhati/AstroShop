@@ -2,7 +2,9 @@
 category: Food Courts
 date: 26/02/2024
 featured: false
+availability: true
 image: ../images/trehan-iris-broadway-noida-foodcourts-units-for-sale-ffs05.webp
+soldout: ../images/trehan-iris-resale-shops-soldout.webp
 title: No Column Food Court Shop in IRIS Broadway Greno West
 floor: 3rd Floor
 size: 790

@@ -2,7 +2,9 @@
 category: Anchor Shop
 date: 08/06/2024
 featured: false
+availability: true
 image: ../images/trehan-iris-resale-anchor-shop.webp
+soldout: ../images/trehan-iris-resale-shops-soldout.webp
 title: Largest Anchor Shop in IRIS Broadway Noida
 floor: 1st floor
 size: 110

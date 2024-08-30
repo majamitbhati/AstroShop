@@ -2,6 +2,7 @@
 category: Retail Shop
 date: 26/02/2024
 featured: false
+availability: true
 image: ../images/trehan-iris-broadway-noida-sfs06.webp
 soldout: ../images/trehan-iris-resale-shops-soldout.webp
 title: High Discount Retail Shop in Trehan IRIS Broadway Noida

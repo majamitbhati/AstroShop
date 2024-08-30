@@ -31,7 +31,7 @@ const BSPPrice = (parsepsf * parsesize) / 100000;
             </div>
             <div>
                 <Image
-                    src={food.data.image}
+                    src={food.data.availability ? food.data.image : food.data.soldout}
                     width={400}
                     height={600 / 1.5}
                     alt={food.data.title}

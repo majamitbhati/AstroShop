@@ -2,7 +2,9 @@
 category: Food Courts
 date: 26/02/2024
 featured: false
+availability: true
 image: ../images/trehan-iris-broadway-noida-foodcourts-units-for-sale-ffs06.webp
+soldout: ../images/trehan-iris-resale-shops-soldout.webp
 title: Main Sitting Area Facing Food Court Shop in Trehan IRIS Broadway Noida
 floor: 3rd Floor
 size: 810

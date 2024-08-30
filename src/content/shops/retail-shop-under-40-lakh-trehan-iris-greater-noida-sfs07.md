@@ -2,6 +2,7 @@
 category: Retail Shop
 date: 26/02/2024
 featured: false
+availability: true
 image: ../images/trehan-iris-broadway-noida-sfs09.webp
 soldout: ../images/trehan-iris-resale-shops-soldout.webp
 title: Retail Shop in Trehan IRIS Greater Noida under 30 Lakhs
