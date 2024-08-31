@@ -31,30 +31,30 @@ ptz5: Trehan has multiple years of experience in running a commercial project on
 
 ---
 
-> _This is one of the best Atrium facing Retail shops available in one of the best upcoming commercial malls of Greater Noida, Trehan IRIS Broadway Greno West. This atrium facing the retail shop offers higher visibility and footfall to the shop, generating higher revenue. It's best suited for investors looking for higher return on their investment._
+> _This is one of the best Atrium facing retail shop available in one of the best upcoming commercial malls of Greater Noida, Trehan IRIS Broadway Greno West. Atrium facing the retail shop offers higher visibility and footfall, generating higher revenue. It's best suited for investors looking for higher return on their investment._
 
-## Overview of this Shop
-* **Floor:** This Retail shop is on the Second floor of the Mall.
-* **Category:** The Second floor of Trehan IRIS Broadway is dedicated to women and Kids Brands only. This shop is in a cluster named Verv.
-* **Layout:** This is an average size rectangular shop facing the main atrium of the second floor. Moreover, the shop has a broad gallery in front.
-* **Facing:** This is an atrium-facing shop, offering high visibility and footfall from the crowd visiting the mall.
-* **Size:** This is a 230 sq ft super area shop. The carpet area of the shop is approximately 108 sq ft.
-* **Resale Unit:** This is an investor's unit available for sale, allowing it to be sold with a nominal PLC and zero brokerage charges.
+## Overview of this shop
+* **Floor:** This retail shop is on the scond floor of the mall.
+* **Category:** The second floor of Trehan IRIS Broadway is dedicated to women and Kids Brands only. This shop will be in a cluster named Verv.
+* **Layout:** It is an average size rectangular shop facing the main atrium of the second floor. Moreover, the shop has a broad gallery on its front side.
+* **Facing:** It is an atrium-facing shop, offering high visibility and footfall from the crowd visiting the mall.
+* **Size:** This is a 230 sq ft super area shop. The carpet area is approximately 108 sq ft.
+* **Resale Unit:** It is an investor's unit, available for sale, hence allowing it to be sold with nominal PLC and zero brokerage charges.
 
-### Additional Perks
+### Additional perks
 * Trehan IRIS leasing team will find the brands as a tenant for the shop
 * The buyer will get a good rental income without putting a lot of effort into it.
 * The buyer gets a gold coin as a gift on purchase of the shop.
-* The prospects will get an additional gift worth 2,000/- on the first visit to the mall.
+* You will get an additional gift worth 2,000/- on their first visit.
 
-### Benefits of Investing in this Retail Shop:
-* This is a fully AC mall. Such malls are High on Demand and it is easy to lease out such malls.
-* Malls in High Demand typically result in lower vacancy rates.
-* A good Anchor shop (like major retailers) is a crowd puller as it attracts customers, beneficial for other shops as well.
-* Malls are likely to have long-term leases with tenants, providing stable rental income.
+### Benefits of investing in this retail shop:
+* It is a fully AC mall. Such malls are high on demand and it is easy to lease them out.
+* Malls at high demand typically result in lower vacancy rates.
+* A good anchor shop (like major retailers) is a crowd puller as it attracts customers, beneficial for other shops as well.
+* Malls shops are more likely to have long-term leases with tenants, providing stable rental income.
 * Retail shops in a popular mall such as Trehan IRIS Broadway Greno West, can have high resale value due to high demand.
 
-### Benefits of Investing in Trehan IRIS Broadway Greno West:
-* **Minimum Rent Guarantee** Trehan offers a minimum rent guarantee for anchors and some retail shops.
-* **50+ Brand Tied-up:** More than 50 brands have already been tied up for leasing by the leasing team of Trehan IRIS Noida
-* **On-Lease Model** Builder will have the leasing rights to all the shops of the mall.
+### Benefits of investing in Trehan IRIS Broadway Greno West:
+* **Minimum rent guarantee** Trehan offers a minimum rent guarantee for anchors and some retail shops.
+* **50+ Brand tied-up:** More than 50 brands have already been tied up for leasing by the leasing team of Trehan IRIS Noida
+* **On-lease model** Builder will have the leasing rights of all shops of the mall.

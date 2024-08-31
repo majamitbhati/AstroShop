@@ -34,27 +34,27 @@ ptz5: A minimum guranteed rent is also offered by Trehan on a few retail shops a
 
 
 ---
-> _This is one of the best lockable retail shop on the first floor of Trehan IRIS Broadway Noida Extension. This is an atrium-facing corner retail shop, which is the best combination shop anyone can look for to run a successful store. This shop has the potential to offer the highest rental income in the mall._
+> _This is one of the best lockable retail shop on the first floor of Trehan IRIS Broadway Noida Extension. It is an atrium-facing corner retail shop, which is the best combination shop one should look for to run a successful store. This shop has the potential to offer the highest rental income in the mall._
 
-## Overview of this Shop
-* **Floor:** This Retail shop is on the First floor of the Mall.
-* **Category:** The First floor of Trehan IRIS Broadway is dedicated to the Mens and Sports Brands only. This shop is part of a cluster called, “______”
-* **Layout:** This shop is next to the escalator on the first floor. This retail shop is at the corner of the intersection of the main gallery from the escalator and the lobby turning into.
-* **Facing:** This shop is an atrium-facing corner shop. This shop has maximum visibility directly from the atrium, gallery, and lobby. This maximizes the revenue of the shop and hence improves the rental income of the shop.
-* **Size:** This shop has a super area of 184 sqft and an approximate carpet area of 85 sqft.
-* **Resale Unit:** This is the best atrium-facing corner shop, which you can get at nominal PLC charges and without any brokerage charges.
+## Overview of this shop
+* **Floor:** It is on the First floor of the Mall.
+* **Category:** First floor of Trehan IRIS Broadway is dedicated to the Mens and Sports Brands only. This shop is part of a cluster called, “______”
+* **Layout:** It is next to the escalator on the first floor and is at the corner of the intersection of the main gallery from the escalator and the lobby turning into.
+* **Facing:** This shop is an atrium-facing corner shop. It has maximum visibility directly from the atrium, gallery, and lobby. This maximizes the revenue from shop and hence improves the rental income of the shop.
+* **Size:** It has a super area of 184 sqft and an approximate carpet area of 85 sqft.
+* **Resale Unit:** It is the best atrium-facing corner shop, for which you will pay nominal PLC charges and it has no brokerage charges.
 
-### Additional Perks
-* This is an opportunity to invest in a mall where 50+ brands have already tied up for leasing.
-* This is an opportunity to invest in a mall, which can attract crowds from the hotel, office spaces, nearby residential areas, the upcoming metro line, and the traffic from the 8-lane highway, connecting Noida and Greater Noida.
-* The shop is available at a discounted price to the current market price.
+### Additional perks
+* This is an opportunity to invest in a mall where 50+ brands have already been tied up for leasing.
+* It is an opportunity to invest in a mall, which will attract crowds from the hotel, office spaces, nearby residential areas, the upcoming metro line, and the traffic from the 8-lane highway, connecting Noida and Greater Noida.
+* This shop is available at a discounted price to the current market price.
 
-### Benefits of Investing in this Retail Shop:
+### Benefits of investing in this retail shop:
 * Being a part of this renowned mall enhances the reputation of your property.
-* Trehan IRIS Broadway is a mall operating on a large scale. This helps in reducing the individual maintenance cost.
-* Due to the exponential growth of Noida and Greater Noida, demand for retail space in this region is very high. This offers great liquidity in the market if you want to exit your investment.
+* Trehan IRIS Broadway will be a mall operating on a large scale. This will help in reducing the individual maintenance cost.
+* Due to the exponential growth of Noida and Greater Noida, demand for retail space in this region is very high. This offers great liquidity in the market if you want to exit your investment at any point of time.
 
-### Benefits of Investing in Trehan IRIS Broadway Greno West:
-* **Well-Reputed Builders** Trehan is a well-reputed third-generation builder, well known for building Sanchar Vibhag, The Supreme Court of India, Tihar Jail, etc.
-* **Fully Leased Mall** This mall will operate on a fully leased model, except for the office spaces. This means no hassle for the investors and easy rental income.
-* **Minimum Guaranteed Rental** Trehan is also offering a minimum guaranteed rent on a few retail shops in the mall.
+### Benefits of investing in Trehan IRIS Broadway Greno West:
+* **Well-reputed builders** Trehan is a well-reputed third-generation builder, well known for building Sanchar Vibhag, The Supreme Court of India, Tihar Jail, etc.
+* **Fully leased mall** This mall will operate on a full leased model, except for the office spaces. This means no hassle for the investors to find tenants and easy rental income.
+* **Minimum guaranteed rent** Trehan is also offering a minimum guaranteed rent on a few retail shops in the mall.

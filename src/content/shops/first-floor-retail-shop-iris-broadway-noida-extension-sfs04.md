@@ -33,27 +33,27 @@ ptz5: This shop is available on lease-use model by the builder and not for perso
 
 ---
 
-> _This is one of the best small ticket size Atrium facing Retail shop on the first floor in Trehan IRIS Broadway Greno West. This atrium facing retail shop on the first floor available on an affordable price. Being atrium facing this shop has the potential to generate high rental income with long term occupancy._
+> _This is one of the best small ticket sized Atrium facing retail shop on the first floor in Trehan IRIS Broadway Greno West. This atrium facing retail shop on the first floor available on an affordable price. Being atrium facing, this shop has the potential to generate high rental income with long term occupancy._
 
-## Overview of this Shop
-* **Floor:** This Retail shop is on the First floor of the Mall.
-* **Category:** This shop on the first floor is part of the cluster called, _______, dedicated to men and sports brands only.
-* **Layout:** This shop is next to the elevator on the first floor, providing easy accessibility to customers.
-* **Facing:** This shop is an atrium-facing shop, which will help in attracting more customers to shop, enhancing the revenue of the tenant.
-* **Size:** This shop has a super area of 224 sq ft and an approximate carpet area of 106 sq ft
-* **Resale Unit:** This is a resale unit by the investor that is available without any brokerage and at minimum PLC charges.
+## Overview of this shop
+* **Floor:** It is on the First floor of the Mall.
+* **Category:** It is part of the cluster called, _______, dedicated to men and sports brands only.
+* **Layout:** It is next to the elevator on the first floor, providing easy accessibility to customers.
+* **Facing:** It is an atrium-facing shop, which attracts more customers to the shop, enhancing the revenue of the tenant.
+* **Size:** It has a super area of 224 sq ft and an approximate carpet area of 106 sq ft
+* **Resale unit:** It is a resale unit by the investor that is available without any brokerage and at a minimum PLC charges.
 
-### Additional Perks
+### Additional perks
 * An opportunity to invest with a builder having many years of experience in running a successful commercial mall.
-* An investment opportunity at a lower price than the actual market value.
-* Opportunity to buy a shop without any additional brokerage or PLC charges.
+* An opportunity to invest at a lower price than the actual market value.
+* An Opportunity to buy a shop without any brokerage and at a nominal PLC charge.
 
-### Benefits of Investing in this Retail Shop:
+### Benefits of investing in this Retail Shop:
 * Investors can benfit from tax deductions on mortgage interest, depriciation, and other expenses.
-* Prime Retail space in a nice mall offers higher liquidity to exit investment.
+* Prime retail space in a nice mall such as Trehan IRIS Broadway Noida offers higher liquidity to make an easy exit from their investment.
 * Malls with high footfall can yeild better rental returns compared to standalone shops.
 
-### Benefits of Investing in Trehan IRIS Broadway Greno West:
-* **3 Lakh Current Population** Current residential and working class population within 5 Km radium of this project is 3 Lakh.
-* **5 Lakh Expected Population** At the current growth rate we're expecting 8 lakhs of total population in upcoming years in the region.
+### Benefits of investing in Trehan IRIS Broadway Greno West:
+* **3 Lakh current population** Current residential and working class population within 5 Km of radium from this project is 3 Lakh.
+* **5 Lakh expected population** At the current growth rate we're expecting 8 lakhs of total population in the upcoming years in this particular region.
 * **MIVAN Based Construction** MIVAN is a new technology in the construction industry, building an earthquake resistant buildings, feasable for many years to come without loss in property value.
