@@ -32,28 +32,28 @@ ptz5: Until possession, investor’s can also enjoy 12% annual assured return by
 
 ---
 
-> _This is one of the best small ticket size Atrium facing Retail shop available in the biggest upcoming commercial mall of Greater Noida, Trehan IRIS Broadway Greno West. Along with being an affordable investment option, this atrium facing retail shop offers higher visibility and footfall to the shop, generating higher revenue for the tenant. It's best suited to investors willing to make higher return on their investment on a low ticket size investment._
+> _This is one of the best small ticket sized Atrium facing retail shop available in Trehan IRIS Broadway Greno West. Being an affordable investment option, this atrium-facing retail shop offers higher visibility and footfall to the shop, generating higher revenue for the tenant. It's best suited for investors looking for a higher return on a low ticket-size investment._
 
 ## Overview of this Shop
-* **Floor:** This Retial shop is on the Second floor of the Mall.
-* **Category:** Second floor of Trehan IRIS Broadway is dedicated for Womans and Kids Brands only.
-* **Layout:** This is an average sized rectangular shop at the main lobby of the second floor.
-* **Facing:** This is a atrium facing shop, offering visibility and footfall from the crowd of the mall.
-* **Size:** This is a 200 sq-ft carpet area shop.
-* **Resale Unit:** This is the best unit available without any PLC and brokerage despite of being an atrium facing shop.
+* **Floor:** This Retail shop is on the second floor of the mall.
+* **Category:** The shop cluster on the second floor is called the Verv, dedicated to the women’s and kids brands only.
+* **Layout:** This is a small-sized rectangular shop in the main lobby of the second floor.
+* **Facing:** An atrium-facing shop, offering high visibility and footfall from the crowd visiting the mall.
+* **Size:** The super area of this shop is 200 sq ft and the approximate carpet area of this shop would be 97 sq ft.
+* **Resale Unit:** It is the best unit available at a nominal PLC charge and without any brokerage charges despite being an atrium-facing shop.
 
-### Additional Perks
-* A hassle free investment option.
-* Opportunity to enjoy easy rental income without putting in much effort.
-* Opportunity to get this at an additional discount of 1,50,000/- for first 10 visitors to this shop.
-* No addtional brokerage or PLC included in the deal.
+### Additional perks
+* This is a hassle-free investment option.
+* It is an opportunity to enjoy easy rental income without putting in effort, as the leasing team of Trehan will take care of all your hassles.
+* Get an additional discount of 1,50,000/- for the first 10 visitors to this shop.
+* No additional brokerage and a minimum PLC are included in the deal.
 
-### Benefits of Investing in this Retail Shop:
-* Rental Income can be adjusted for inflation, protecting your investment.
-* Trehan will handle all your marketing efforts, reducing cost for individual investors.
-* Strong Security measures, protect the physical assets.
+### Benefits of investing in this retail shop:
+* Investing in retail shops offers a rental income. When adjusted for inflation it effectively protects the value of your investment over time.
+* The leasing team of Trehan will handle all your marketing needs, reducing the additional cost for publicity/advertising.
+* Strong security measures at Trehan IRIS Broadway, help in protecting your assets.
 
-### Benefits of Investing in Trehan IRIS Broadway Greno West:
-* **130-m wide Main road:** Mall is located on a 130m wide Noida-Greater Noida link road, offering heavy traffic and therefore footfall.
-* **Upcoming Metro Station:** Ecotech-12, an upcoming metro station will be next to mall itself, offering easy connectivity and higher footfall as well.
-* **Proximity to Jewar International Airport:** The Project combined with Hotel and office space, its close promitiy with upcomming International airport can result in higher crowd of HNI and Ultra HNI, benefitting revenue for all the shops in the mall.
+### Benefits of investing in Trehan IRIS Broadway Greno West:
+* **130-m wide main road:** Mall is located on a 130-m-wide Noida-Greater Noida link road, offering heavy traffic in the coming years and therefore attracting heavy footfall.
+* **Upcoming metro station:** Ecotech-12, an upcoming metro station will be next to the mall itself, offering easy connectivity and higher footfall at the mall as well.
+* **Proximity to Jewar International Airport:** The Project combined with the JW Marriot Hotel and the office spaces, and having good proximity to the upcoming International airport. can result in attracting high net-worth individuals, which will have a positive impact on the revenue for all shops.

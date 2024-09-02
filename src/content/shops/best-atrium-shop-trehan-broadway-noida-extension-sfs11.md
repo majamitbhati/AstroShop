@@ -35,33 +35,32 @@ ptz5: No extra PLC (Preferred Location Charges) would be charged for this shop e
 
 ---
 
-
-> _This is one of the best Retail shops available in the biggest upcoming commercial mall of Greater Noida, Trehan IRIS Broadway Greno West. This Retail store is best suitable for investors who are looking for an atrium facing retail shop for passive income via Rental income and aiming to secure a high return on their investments._
+> _This is one of the best retail shops available in the best upcoming commercial mall of Greater Noida, Trehan IRIS Broadway Greno West. This Retail store is best suited for investors who are looking for a low-ticket-sized retail shop to generate passive income via rental yield, and aiming to secure a high return on their investments._
 
 ## Overview of this Shop
-* **Floor:** This Retial shop is on the First floor of the Mall.
-* **Category:** First floor of Trehan IRIS Broadway is dedicated for Mens and Sports Brands only.
-* **Layout:** This is a rectangular shop in the walkway at the first floor.
-* **Facing:** This is a lobby facing shop, offering visibility and footfall from the crowd walking by.
-* **Size:** This is a 435 sq-ft carpet area shop.
-* **Resale Unit:** This unit does not include any brokerage, as it is directly sold by the investor.
-* **No-PLC:** Investor won't have to pay any additional PLC charges for this shop.
+* **Floor:** This Retail shop is on the first floor of the mall.
+* **Category:** The shop cluster on first floor called, "______" and is dedicated to Mens and Sports brands only
+* **Layout:** It is a rectangular shop in the lobby of the first floor.
+* **Facing:** It is a lobby-facing shop, offering visibility and footfall from the crowd walking by.
+* **Size:** It has a super area of 435 sq ft, and the approximate carpet area is 205 sq ft.
+* **Resale unit:** This unit does not include brokerage charges, as it is directly sold by the investor.
+* **No-PLC:** Investors only have to pay a nominal PLC charge for this shop.
 
 ### Additional Perks
-* This is lockable retail shop, available for resale by the investor.
-* No-PLC charges included
-* No-brokerage charges included
-* Addional Discout of 90,000/- for first 10 visitors
-* Gold coin as a gift after purchase
-* 2000/- worth of gift at every visit.
+* This is a lockable retail shop, available for resale by the investor.
+* A nominal PLC charge included
+* No-brokerage charges
+* Additional Discount of 90,000/-.
+* Gold coin as a gift on the purchase of this shop.
+* 2000/- worth of gift on the first visit.
 
-### Benefits of Investing in this Retail Shop:
-* Retail shops in malls can generate conistent rental income from tenants.
-* A mall that can attract large crowd increases the likelyhood of long-term occupancy.
-* A mall in a prime location can ensure strong demand for retail space.
-* In a successfull mall, retail shops offers great capital appretiation.
+### Benefits of investing in this retail shop:
+* Retail shops in a popular mall such as Trehan IRIS Broadway Noida can generate consistent rental income.
+* Trehan IRIS Broadway will attract a large crowd increasing the likelihood of long-term occupancy.
+* This mall is at a prime location, ensuring a strong demand for retail space.
+* In a successful mall, retail shops offer a great capital appreciation.
 
-### Benefits of Investing in Trehan IRIS Broadway Greno West:
-* **Fully AC Mall:** Trehan IRIS Broadway is a fully AC-mall that tends to attract more crowd.
-* **100% Paid-up Land:** 100% price of the land is already paid by the builder in advance.
-* **3.5 Acres Commercial Land:** This project is being build on a 3.5 acres of 100% commercial land.
+### Benefits of investing in Trehan IRIS Broadway Greno West:
+* **Fully air-conditioned mall:** Trehan IRIS Broadway is a fully AC mall that tends to attract a larger crowd.
+* **3.5 acres commercial land:** This project is being built on a 3.5 acres of 100% commercial land.
+* **100% paid-up land:** 100% price of this land has already been paid by the builder in advance.
