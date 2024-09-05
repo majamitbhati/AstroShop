@@ -5,7 +5,7 @@ featured: false
 availability: true
 image: ../images/trehan-iris-broadway-noida-sfs09.webp
 soldout: ../images/trehan-iris-resale-shops-soldout.webp
-title: Retail Shop in Trehan IRIS Greater Noida under 30 Lakhs
+title: Retail Shops in Trehan IRIS Greater Noida under 40 lakhs
 floor: 1st Floor
 size: 430
 price: FFSL-lockable
@@ -35,32 +35,32 @@ ptz5: Until possession, investor’s can also enjoy 12% annual assured return by
 
 ---
 
-> _This is one of the best average sized atrium facing retail shop on the first floor. It is in front of an escalator in the main gallary of the first floor. It is highly visible from every floor and has easy accessibility via escalator and elevator from all the other floors of the mall. This shop is best suited to investor who are looking for an average sized atrium facing shop._
+> _This is one of the best large size atrium facing retail shop on the first floor. This average sized retail shop is right beside the lobby facing the atrium offering great visibility. This shop is best suited to investor who are looking for an average sized atrium facing shop._
 
-## Overview of this shop
-* **Floor:** It is on the first floor of the Mall.
-* **Category:** First floor of Trehan IRIS Broadway is dedicated to Mens and Sports Brands only.
-* **Layout:** It is on the main gallary of first floor, right in front of the escalator.
-* **Facing:** It is an atrium facing shop.
-* **Size:** It has super carpet area of 430 sq-ft and approximate carpet area of 203 sq-ft.
-* **Resale unit:** It is available for sale without any brokerage charges.
+## Overview of this Shop
+* **Floor:** This Retial shop is on the First floor of the Mall.
+* **Category:** First floor of Trehan IRIS Broadway is dedicated for Womens and Kids Brands only.
+* **Layout:** This shop is in line to the lobby facing the atrium of the mall
+* **Facing:** This is an Atrium facing shop of the mall at the first floor.
+* **Size:** This is a 430 sq-ft carpet area shop.
+* **Resale Unit:** The best atrium facing, big size retail shop available at affordable price without any brokerage.
 
-### Additional perks
-* It is a lockable retail shop, available for resale by the investor.
-* Nominal PLC charges are included
-* No-brokerage charges
-* Addional discout of 90,000/-
-* Gold coin as a gift on purchase
-* 2000/- worth of gift on the first visit.
+### Additional Perks
+* This is lockable retail shop, available for resale by the investor.
+* No-PLC charges included
+* No-brokerage charges included
+* Addional Discout of 90,000/- for first 10 visitors
+* Gold coin as a gift after purchase
+* 2000/- worth of gift at every visit.
 
 
-### Benefits of investing in this retail shop:
-* Retail shops in Trehan IRIS Broadway Noida can generate conistent rental income from tenants.
-* IRIS Broadway will attract a large crowd, that will increase the likelyhood of long-term occupancy.
-* It is in a prime location ensuring strong demand for retail space.
-* In a successfull mall like Trehan IRIS Broadway, retail shops offers great capital appretiation.
+### Benefits of Investing in this Retail Shop:
+* Retail shops in malls can generate conistent rental income from tenants.
+* A mall that can attract large crowd increases the likelyhood of long-term occupancy.
+* A mall in a prime location can ensure strong demand for retail space.
+* In a successfull mall, retail shops offers great capital appretiation.
 
-### Benefits of investing in Trehan IRIS Broadway Greno West:
-* **Full air conditioned mall:** Trehan IRIS Broadway is a full AC-mall that tends to attract more crowd to hangout.
-* **3.5 acres commercial land:** This project is being build on a 3.5 acres of 100% commercial land.
-* **100% paid-up land:** 100% price of this land has already been paid by the builder in advance.
+### Benefits of Investing in Trehan IRIS Broadway Greno West:
+* **Fully AC Mall:** Trehan IRIS Broadway is a fully AC-mall that tends to attract more crowd.
+* **100% Paid-up Land:** 100% price of the land is already paid by the builder in advance.
+* **3.5 Acres Commercial Land:** This project is being build on a 3.5 acres of 100% commercial land.

@@ -21,41 +21,42 @@ contactno: 8375924100
 giftvisit : worth 2000*
 giftbuy : Gold Coin
 info: GST, PLC, and Extra Changes is not included in the price above.
-ptz1: The shop is available on the second floor. Second floor of Trehan IRIS Broadway is dedicated for Womens and Kids Retail Stores, the clusterr of shops on second floor is known as verv.
+ptz1: The shop is available on the second floor. Second floor of Trehan IRIS Broadway is dedicated for Womens and Kids Retail Stores.
 
-ptz2: Nominal of a PLC (Preferred Location Charges) will be charged for this shop even though the shop is atrium facing and is right in front of the escalators.
+ptz2: No extra PLC (Preferred Location Charges) would be charged for this shop even though the shop is atrium facing and right beside the escalators.
 
-ptz3: This large size, atrium facing shop on the second floor is a earmarked for an established womens and kids brand. Trehan already has tied up with multiple brands for renting such shops. One can check the likely brand that will come up in this shop, if available.
+ptz3: This large size, atrium facing shop on the second floor is a perfect match for an established womens and kids brand. Trehan already has tied up with multiple such brand for renting shops upon its Grand opening.
 
-ptz4: ---
-ptz5: Trehan has multiple years of experience in running a commercial project on lease model, so the investors can be assured of rental yield from their shop for a long period of time.
+ptz4: Until possession, investor’s can also enjoy 12% annual assured return by the builder.
+ptz5: Trehan has multiple years of experience in running a commercial project on lease model, so the investors can be assured for rental yield from their shop for a long period of time.
 
 ---
 
-> _This is one of the best Atrium facing retail shop available in one of the best upcoming commercial malls of Greater Noida, Trehan IRIS Broadway Greno West. Atrium facing the retail shop offers higher visibility and footfall, generating higher revenue. It's best suited for investors looking for higher return on their investment._
 
-## Overview of this shop
-* **Floor:** This retail shop is on the scond floor of the mall.
-* **Category:** The second floor of Trehan IRIS Broadway is dedicated to women and Kids Brands only. This shop will be in a cluster named Verv.
-* **Layout:** It is an average size rectangular shop facing the main atrium of the second floor. Moreover, the shop has a broad gallery on its front side.
-* **Facing:** It is an atrium-facing shop, offering high visibility and footfall from the crowd visiting the mall.
-* **Size:** This is a 230 sq ft super area shop. The carpet area is approximately 108 sq ft.
-* **Resale Unit:** It is an investor's unit, available for sale, hence allowing it to be sold with nominal PLC and zero brokerage charges.
+> _This is one of the best Atrium facing Retail shop available in the biggest upcoming commercial mall of Greater Noida, Trehan IRIS Broadway Greno West. This atrium facing retail shop offers higher visibility and footfall to the shop, generating higher revenue for the tenant. It's best suited to investors willing to make higher return on their investment irrespective of the investment size._
 
-### Additional perks
-* Trehan IRIS leasing team will find the brands as a tenant for the shop
-* The buyer will get a good rental income without putting a lot of effort into it.
-* The buyer gets a gold coin as a gift on purchase of the shop.
-* You will get an additional gift worth 2,000/- on their first visit.
+## Overview of this Shop
+* **Floor:** This Retial shop is on the Second floor of the Mall.
+* **Category:** Second floor of Trehan IRIS Broadway is dedicated for Womans and Kids Brands only.
+* **Layout:** This is an average sized rectangular shop at the main lobby of the first floor.
+* **Facing:** This is a atrium facing shop, offering visibility and footfall from the crowd entering the mall.
+* **Size:** This is a 230 sq-ft carpet area shop.
+* **Resale Unit:** This is an investors unit available for sale, allowing it to be sold without any PLC or brokerage charges.
 
-### Benefits of investing in this retail shop:
-* It is a fully AC mall. Such malls are high on demand and it is easy to lease them out.
-* Malls at high demand typically result in lower vacancy rates.
-* A good anchor shop (like major retailers) is a crowd puller as it attracts customers, beneficial for other shops as well.
-* Malls shops are more likely to have long-term leases with tenants, providing stable rental income.
-* Retail shops in a popular mall such as Trehan IRIS Broadway Greno West, can have high resale value due to high demand.
+### Additional Perks
+* Trehan will find you brands to rent your shop to.
+* You'll enjoy be enjoying rental income without putting effort into it.
+* You'll a gold coin as a gift after the purchase of shop.
+* You'll get an additional gift worth 2,000/- for a visit to the mall.
+* You'll won't be charged any PLC or brokerage for this shop.
 
-### Benefits of investing in Trehan IRIS Broadway Greno West:
-* **Minimum rent guarantee** Trehan offers a minimum rent guarantee for anchors and some retail shops.
-* **50+ Brand tied-up:** More than 50 brands have already been tied up for leasing by the leasing team of Trehan IRIS Noida
-* **On-lease model** Builder will have the leasing rights of all shops of the mall.
+### Benefits of Investing in this Retail Shop:
+* Malls in High Demand typically result in lower vacancy rates.
+* Anchor Tenants (like major retialers) attract customers, beenfiting all stores
+* Malls having secure long-term leases with tenants, provide more stability to the investors.
+* Retail shops in a popular mall such as ours, can have resale value due to its demand.
+
+### Benefits of Investing in Trehan IRIS Broadway Greno West:
+* **12% Assured Return:** Trehan offers 12% assured return on all the retial shops untill possession.
+* **50+ Brand Tied-up:** More than 50 brands have already tied up with this project.
+* **On-Lease Model** Builder will have the leasing rights to the shops except office space.

@@ -5,7 +5,7 @@ featured: false
 availability: true
 image: ../images/trehan-iris-broadway-noida-sfs10.webp
 soldout: ../images/trehan-iris-resale-shops-soldout.webp
-title: Second Floor Retail Shop in IRIS Trehan Broadway Noida
+title: Second Floor Atrium Facing Retail Shop in IRIS Broadway Noida Extension
 floor: 2nd Floor
 size: 348
 price: SFSL-lockable
@@ -35,26 +35,28 @@ ptz5: 5% extra PLC (Preferred Location Charges) would be charged for this shop a
 
 ---
 
-> _This shop is on the second floor in Trehan IRIS Broadway Greno West. Second floor shops are part of a cluster called, Verv, which is dedicated to womens and kids brands. Womens and kids brands generally have a higher occupancy rate. This shop is best suited for investor looking to invest in a retail shop with high occupancy rate._
+> _This is one of the best atrium facing retail shop on the second floor. This average sized retail shop is right beside the lobby facing the atrium offering great visibility. This shop is best suited to investor who are looking for an average sized atrium facing shop._
 
-## Overview of this shop
-* **Floor:** It is on the second floor of the mall.
-* **Category:** Second floor of Trehan IRIS Broadway is dedicated for Womens and Kids Brands only, having high occupancy rate.
-* **Layout:** It is the next to the elevator on the second floor in the first lobby turning in from the main gallary
-* **Size:** Super carpet area of this shop is 348 s-ft, and the approximate carpet area is 164 sq-ft.
-* **Resale unit:** It is an investor's unit available for sale without any brokerage and at a nominal PLC charges.
+## Overview of this Shop
+* **Floor:** This Retial shop is on the Second floor of the Mall.
+* **Category:** Second floor of Trehan IRIS Broadway is dedicated for Womens and Kids Brands only.
+* **Layout:** This shop is in the next to the elevators facing the atrium of the mall
+* **Facing:** Atrium facing shop of the mall at the second floor.
+* **Size:** This is a 314 sq-ft carpet area shop.
+* **Resale Unit:** The best atrium facing, big size retail shop available at affordable price without any brokerage.
 
-### Additional perks
+### Additional Perks
 * Win a gift worth 2,000/- for every visit to Trehan IRIS Broadway Noida.
-* Win a gold coin on making a purchase of this shop.
-* We're also offering an additional discount of 90,000/-.
+* Win a gold coin for making a purchase of this shop.
+* We're also offering an additional discount of 90,000/- for first 20 visitors to this shop.
 
-### Benefits of investing in this retail shop:
+### Benefits of Investing in this Retail Shop:
 * Retail shops as an independent unit can be available at more affordable price than other investment options in commerical mall.
 * A Retail shop is better defined than a virtual space in an anchor store.
+* Corner Retail shops are generally rented at a higher price than other retail store.
 * A Retail shop with no coulumn in between offers better interior design and inventory placement, providing more aesthetic look to the shop.
 
-### Benefits of investing in Trehan IRIS Broadway Greno West:
-* Investors won’t have to go throught the hassle of finding brands to rent out their shops to.
+### Benefits of Investing in Trehan IRIS Broadway Greno West:
+* Investors won’t have to go throught the hassle of finding brands to rent their shops to.
 * Trehan will take care of finding brands and renting them the stores as per the mall design.
-* Trehan will analyze shopper behaviour, tenant sales, category performance, and they’ll determine the best mix of stores and location to boost their revenues. This will ensure profitability for shops and hence long term rental income for investors.
+* Trehan will analyze shopper behaviour, tenant sales, category performance, and they’ll determine the best mix of stores and their location to boost their revenues. This will ensure profitability for shops and hence long term rental income for investors.

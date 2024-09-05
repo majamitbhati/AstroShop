@@ -34,28 +34,28 @@ ptz5: Trehan has multiple years of experience in running a commercial project on
 
 ---
 
-> _This is one of the best retail shop in Trehan IRIS Broadway Noida. It is a lobby facing shop on the first floor, that can attract the crowd passing by the lobby. This shop is best suitable for the investor willing to invest in a shop with large size at an affordable price._
+> _This is one of the best retail shop in Trehan IRIS Broadway Noida. This shop on the first floor is lobby facing, attracing all the crowd walking by the lobby. This shop is best suitable for the investor willing to invest in a shop with large size at an affordable price_
 
 ## Overview of this Shop
-* **Floor:** It is on the First floor of the Mall.
+* **Floor:** This Retial shop is on the First floor of the Mall.
 * **Category:** First floor of Trehan IRIS Broadway is dedicated for Mens and Sports Brands only.
-* **Layout:** It is a large sized rectangular shop with least columns in between as per the size of this shop.
-* **Facing:** It is a lobby facing shop and can attract customers directly from the lobby.
-* **Size:** It has super ares of 435 sq-ft and approximate carpet area of 205 sq-ft.
-* **Resale unit:** The best lobby facing, big size retail shop available at affordable price without any brokerage.
+* **Layout:** This shop it in the lobby, with least columns in between the shop as per the size of this shop.
+* **Facing:** This shop is lobby facing corner shop. This shop can attract customers directly from the lobby into shop itself.
+* **Size:** This is a 435 sq-ft carpet area shop.
+* **Resale Unit:** The best lobby facing, big size retail shop available at affordable price without any brokerage.
 
-### Additional perks
-* The leasing team of Trehan has already tied-up with many mens and sports brand to lease out first floor retail shops.
+### Additional Perks
+* Trehan has long list of Mens and Sports wear brand that they can rent this shop upon its grand opening.
 * Free gold coin as a gift on property purchase.
-* Free gift worth 2,000/- on the first visit to the shop.
-* An additional discount of 90,000/- on this shop.
+* Free gift worth 2,000/- on visit to the shop.
+* An additional discount of 90,000/- for first 10 visitors to the shop.
 
-### Benefits of investing in this retail shop:
-* Favorable bank loans available to make investment easy in commercial property.
-* Tenants will often invest in improving their store, which can inturn increase the value of your property.
-* Trehan aims for regular renovation and upgradation which will enhance the property's value over time.
+### Benefits of Investing in this Retail Shop:
+* Banks offering favorable loan terms for investing in commercial property.
+* Tenants will often invest in improving their space, which can inturn increase the value of your property.
+* Malls regular renovation and upgradation enhance the property's value over time.
 
-### Benefits of investing in Trehan IRIS Broadway Greno West:
-* **JW Marriot Hotel tie-up** Hotel guests will definitely improve the revenue of the shops in the mall, ensuring contistent rental income for investors.
-* **In-house Construction Team** In-house construction team ensures on-time project completion without any delay.
-* **2-Level parking** 2 level basement parking space provides ample space to easily accomodate over 1000 cars at a time.
+### Benefits of Investing in Trehan IRIS Broadway Greno West:
+* **JW Marriot Hotel Tie-up** Hotel guests will definitely improve the revenue of the shops in the mall, ensuring contistent rental income for investors.
+* **In-house Construction Team** In-house construction team helps in on-time project completion without any delay.
+* **2 Level Parking** 2 level Parking space provides ample space to easily accomodate over 1000 cars at a time.
