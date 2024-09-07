@@ -32,9 +32,21 @@ ptz6: No extra PLC (Preferred Location Charges) would be charged for this shop e
 
 ---
 
-> _This is one of the best Retail shops available in the biggest upcoming commercial mall of Greater Noida, Trehan IRIS Broadway Greno West. This is a corner retial store, offering visibility from both the sides of the walkway intersection. Corner shops are generally rented on a higher rent because it offers, higher revenue to the tenants._
+> _Are you looking for a shop without any brokerage, or any additional PLC charges. This is the perfect shop for you at Trehan IRIS Broadway Noida. This is an investor's unit which is available for sale therefore you won't be charged any brokerage or PLC charges._
 
+### Overview of the shop
+* **Floor:** This shop is on the second floor of Trehan IRIS Broadway Greno West which belongs to a cluster dedicated to Women's and Kids Brands.
+* **Layout:** This is small-sized rectangular shop without any columns in between the design allowing it to have a seamless design.
+* **Facing:** This shop is facing the lobby of the mall, it is very close to the walkway intersection.
+* **Category:** This shop on the second floor belongs to a cluster called 'Verv' which is dedicated to Womens and Kids section only. Womens and Kids section are one of the category which has high occupancy rate.
 
-##lorem ipsum
+### Benefits of Investing in a Retail Shop:
+> _There are multiple beenfits of investing in a retial shop rather than investing in some other property of a commercial mall. Here are a few of the benefits:_
+* Minimum lease guarante provided by Trehan IRIS Broadway Noida, ensures you to have consistent rental yield over a long period of time.
+* Retail Shops are sold individually as a lockable space, which is clearly defined against a virtual space in Anchor shops, which does not have any clear demarkation.
+* Retail Shops at a mall having high footfall, just like Trehan IRIS Broadway has very high occupancy rate.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente aliquam hic mollitia. Atque itaque, a neque provident ratione optio, aspernatur fuga animi explicabo quod repudiandae deleniti suscipit deserunt necessitatibus error quo? Ipsa natus fugiat blanditiis modi beatae quo dolorum reprehenderit sed, at voluptas incidunt odit voluptatibus molestias esse debitis laudantium animi cumque corporis ea? Reiciendis dolores veniam suscipit ipsam nam eligendi esse cumque reprehenderit? Illum consequatur deleniti est porro, optio libero dolores at natus! Veniam possimus aspernatur quo adipisci dignissimos excepturi accusamus aliquid quod cupiditate, voluptates ipsa voluptatem alias, deserunt quis magni minima ducimus explicabo veritatis velit ullam atque quaerat.
+### Benefits of Investing in Trehan IRIS Broadway Greno West:
+* Trehan IRIS Broadway Greater Noida West is expecting over 2 lakh footfall in the mall.
+* The leasing team at Trehan has already started to tie up with brands to lease out their shops to.
+* They have many years of experience in running a commercial mall on leasing model.

@@ -32,9 +32,9 @@ ptz6: No extra PLC (Preferred Location Charges) would be charged for this shop e
 
 ---
 
-> _This is one of the best Retail shops available in the biggest upcoming commercial mall of Greater Noida, Trehan IRIS Broadway Greno West. This is a corner retial store, offering visibility from both the sides of the walkway intersection. Corner shops are generally rented on a higher rent because it offers, higher revenue to the tenants._
+> _Are you looking for a decent sized atrium facing and corner independent retail shop in a mall. This might be the perfect shop that you're looking for, this shop in IRIS Trehan Broadway Noida is available on the second floor offering high occupancy rate. This shop is atrium facing and Corner, offering high footfall into the shop, enhancing the revenue for the tenants and hence long term occupancy rate of the shop._
 
-
-##lorem ipsum
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente aliquam hic mollitia. Atque itaque, a neque provident ratione optio, aspernatur fuga animi explicabo quod repudiandae deleniti suscipit deserunt necessitatibus error quo? Ipsa natus fugiat blanditiis modi beatae quo dolorum reprehenderit sed, at voluptas incidunt odit voluptatibus molestias esse debitis laudantium animi cumque corporis ea? Reiciendis dolores veniam suscipit ipsam nam eligendi esse cumque reprehenderit? Illum consequatur deleniti est porro, optio libero dolores at natus! Veniam possimus aspernatur quo adipisci dignissimos excepturi accusamus aliquid quod cupiditate, voluptates ipsa voluptatem alias, deserunt quis magni minima ducimus explicabo veritatis velit ullam atque quaerat.
+* **Floor:** This shop is on the Second floor of the Mall.
+* **Category:** This shop is a part of a cluster called, "Verv" which is dedicated to Women's and Kids brands only. Generally Women's and Kids brands has higher occupancy rates due to higher revenue potential of this category.
+* **Layout:** This shop is a L-shaped shop at the first intersection from gallary into the lobby.
+* **:**

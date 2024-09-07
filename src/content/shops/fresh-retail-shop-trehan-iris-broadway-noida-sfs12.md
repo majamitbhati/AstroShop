@@ -13,7 +13,7 @@ atrium: false
 corner: true
 status: Fresh
 byowner: true
-discount: 90000
+discount: 0
 brokerage: true
 plc: 5%
 name: Amit Singh
@@ -32,9 +32,26 @@ ptz6: No extra PLC (Preferred Location Charges) would be charged for this shop e
 
 ---
 
-> _This is one of the best Retail shops available in the biggest upcoming commercial mall of Greater Noida, Trehan IRIS Broadway Greno West. This is a corner retial store, offering visibility from both the sides of the walkway intersection. Corner shops are generally rented on a higher rent because it offers, higher revenue to the tenants._
+> _In case you're looking for a fresh retail shop in Trehan IRIS Broadway Noida, this is the best decent sized Corner facing Retail shop on the first floor of the shop. Even though this shop is a corner shop, only a noimminal amount of PLC would be charged on this shop. _
 
+### Overview of this Shop:
+* **Floor:** This shop is on the first floor of the mall and belongs to a cluster which is dedicated only to serve Mens and Sports Section.
+* **Layout:** This is a Corner Facing Shop without any coulumns within the shop, which will help your tenants get a better design of the project.
+* **Category:** This shop is available on the first floor, dedicated only for Men's and Sports wear brands.
+* **Facing:** This is a Corner facing shop, available at the intersection of the main gallary and the lobby turning in. This provides a better visibility and footfall to the shop, enhancing the revenue of the shop and also benefiting the overall rent of the shop as well.
 
-##lorem ipsum
+### Exclusive Deal on this Particular Shop:
+* No Brokerage charges included in this fresh shop for sale.
+* A Nominal PLC would be charged for this shop inspite of this shop being a corner shop.
+* An additional gift worth 2,000/- would be given on the first visit to the shop.
+* Win a Free Gold Coin on the Purchase of the shop.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente aliquam hic mollitia. Atque itaque, a neque provident ratione optio, aspernatur fuga animi explicabo quod repudiandae deleniti suscipit deserunt necessitatibus error quo? Ipsa natus fugiat blanditiis modi beatae quo dolorum reprehenderit sed, at voluptas incidunt odit voluptatibus molestias esse debitis laudantium animi cumque corporis ea? Reiciendis dolores veniam suscipit ipsam nam eligendi esse cumque reprehenderit? Illum consequatur deleniti est porro, optio libero dolores at natus! Veniam possimus aspernatur quo adipisci dignissimos excepturi accusamus aliquid quod cupiditate, voluptates ipsa voluptatem alias, deserunt quis magni minima ducimus explicabo veritatis velit ullam atque quaerat.
+### Benefits of Investing in a Retail Shop:
+* Retail shops are better off as an investment option if you're looking to make a higher return against a lower investment amount.
+* Retail shops are very affordable than a Food Court.
+* Even though a Retail shop and anchor shop might have similar return on investment, Retail shop has difined boundaries.
+
+### Benefits of Investing with IRIS Trehan Broadway Noida West
+* Investing in Trehan IRIS is most benefitial because they are working on lease-use model.
+* In Lease-use model the shops won't be available for personel use but only Trehan has the leasing rights of the shops in Trehan IRIS Broadway Noida.
+* Here the investor won't have to look out for the renters of their shop, The leasing team of Trehan IRIS will be responsible to look out for shops to rent their shops to, ensuring a consistent rental income for the investors for a long term.

@@ -25,16 +25,49 @@ ptz1: This shop is available on the first floor, which is dedicated for Mens and
 ptz2: This is an atrium facing shop, which will provide higher visibility and footfall. Therefore, a rental yield for this shops can be expected.
 ptz3: This shop is available on lease-use model by the builder and not for personal use.
 ptz4: Trehan has multiple years of experience in running a commercial project on lease model, so the investors can be assured for rental yield from their shop for a long period of time.
-ptz5: Until possession, investor’s can also enjoy 12% annual assured return by the builder.
-ptz6: No extra PLC (Preferred Location Charges) would be charged for this shop even though the shop is atrium facing and right beside the escalators.
+ptz5: Minimum rental lease is guaranteed by the investor.
+ptz6: A Nominal PLC (Preferred Location Charges) would be charged for this shop even though this is a corner shop right beside the escalators.
 
 
 
 ---
 
-> _This is one of the best Retail shops available in the biggest upcoming commercial mall of Greater Noida, Trehan IRIS Broadway Greno West. This is a corner retial store, offering visibility from both the sides of the walkway intersection. Corner shops are generally rented on a higher rent because it offers, higher revenue to the tenants._
+**Trehan IRIS Broadway Greno West – Premium Retail Shop Opportunity**  
+This exceptional retail shop is located in the largest upcoming commercial mall in Greater Noida, Trehan IRIS Broadway Greno West. Situated at a prime corner position, it benefits from visibility on both sides of a busy lobby and gallary intersection. Corner shops typically command higher rent due to their increased footfall and revenue potential.
 
+---
 
-##lorem ipsum
+## **Shop Overview**
+- **Floor:** This retail shop is situated on the second floor of the mall.  
+- **Category:** The second floor of Trehan IRIS Broadway is dedicated exclusively to women's and kids brands.  
+- **Layout:** The shop features a rectangular layout with no columns, allowing for a spacious and unobstructed design.  
+- **Facing:** Positioned at the corner of the lobby intersection, it enjoys exposure from two directions.  
+- **Size:** The shop offers a super area of 183 sq. ft.
+- **Resale Unit:** As a resale unit from an investor, there are no additional brokerage fees involved in the purchase.  
+- **No-PLC:** Despite being a corner unit, a nominal Preferential Location Charge (PLC) is charged for this shop.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente aliquam hic mollitia. Atque itaque, a neque provident ratione optio, aspernatur fuga animi explicabo quod repudiandae deleniti suscipit deserunt necessitatibus error quo? Ipsa natus fugiat blanditiis modi beatae quo dolorum reprehenderit sed, at voluptas incidunt odit voluptatibus molestias esse debitis laudantium animi cumque corporis ea? Reiciendis dolores veniam suscipit ipsam nam eligendi esse cumque reprehenderit? Illum consequatur deleniti est porro, optio libero dolores at natus! Veniam possimus aspernatur quo adipisci dignissimos excepturi accusamus aliquid quod cupiditate, voluptates ipsa voluptatem alias, deserunt quis magni minima ducimus explicabo veritatis velit ullam atque quaerat.
+---
+
+### **Exclusive Offers**
+- Receive a gift worth ₹2,000 for the first visit to Trehan IRIS Broadway Noida.  
+- Win a gold coin upon purchasing this shop.  
+- Enjoy an exclusive discount of ₹90,000.
+
+---
+
+### **Key Advantages of Investing in This Retail Shop**
+- Retail shops are available at more competitive prices compared to other commercial mall investments.  
+- Owning a retail shop offers more tangible benefits than investing in virtual spaces within anchor stores.  
+- Corner retail shops generally command higher rental rates due to their premium location and increased visibility.  
+- A shop without interior columns allows for greater flexibility in interior design and inventory arrangement, enhancing the aesthetic appeal.
+
+---
+
+### **Benefits of Investing in Trehan IRIS Broadway Greno West**
+- Investors won’t need to worry about leasing their shops to tenants—Trehan manages the entire process.  
+- Trehan ensures a well-planned mix of brands, selecting tenants based on shopper behavior, sales performance, and category success, maximizing profitability.  
+- This thoughtful approach guarantees sustained rental income and long-term returns for investors.
+
+---
+
+This is a unique opportunity to invest in a prime retail space in one of Greater Noida’s most prestigious commercial projects.
