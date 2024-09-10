@@ -37,4 +37,20 @@ ptz6: No extra PLC (Preferred Location Charges) would be charged for this shop e
 * **Floor:** This shop is on the Second floor of the Mall.
 * **Category:** This shop is a part of a cluster called, "Verv" which is dedicated to Women's and Kids brands only. Generally Women's and Kids brands has higher occupancy rates due to higher revenue potential of this category.
 * **Layout:** This shop is a L-shaped shop at the first intersection from gallary into the lobby.
-* **:**
+* **Facing:** This shop is an atrium facing corner shop on the second floor of the mall.
+* **Size:** Super area of this shop is 304 sq. ft. and an approximate carpet area of this mall is 143 sq. ft.
+
+### Additional Perks of Investing in this Retail Shop:
+* Major benefit of investing in this particular unit is that you won't have to pay any brokerage charges.
+* This unit is current being held by Ret. Collonel Amit Bhati, and he's willing to sell this unit at a price lower than the market rate.
+* On the purchase of the shop, an additional gold coin is given as a gift.
+
+### Benefit of Investing in a Retail Shop:
+* Investing in an Retail shop is one of the best way to generate passive income via rental income.
+* Trehan IRIS Broadway Noida, being the best commercial project of greater noida, will definitely offer a long term occupancy of the retail shops.
+* Retail shop might offer higher return on your investment, as this is also available at lower investment price.
+
+### Benefit of Investing in Trehan IRIS Broadway Greno West:
+* Trehan IRIS Leasing model is one of the best in the market.
+* They offer minimum rental guarantee of the retail shops since possession until 3 years.
+* Their strong brand network gives an assurance to the investor for a long term occupancy of the shop.
