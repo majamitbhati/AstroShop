@@ -38,25 +38,25 @@ ptz5: 5% extra PLC (Preferred Location Charges) would be charged for this shop a
 > _This is one of the best atrium facing retail shop on the second floor. This average sized retail shop is right beside the lobby facing the atrium offering great visibility. This shop is best suited to investor who are looking for an average sized atrium facing shop._
 
 ## Overview of this Shop
-* **Floor:** This Retial shop is on the Second floor of the Mall.
-* **Category:** Second floor of Trehan IRIS Broadway is dedicated for Womens and Kids Brands only.
-* **Layout:** This shop is in the next to the elevators facing the atrium of the mall
-* **Facing:** Atrium facing shop of the mall at the second floor.
-* **Size:** This is a 314 sq-ft carpet area shop.
-* **Resale Unit:** The best atrium facing, big size retail shop available at affordable price without any brokerage.
+<li><b> Floor:</b> This Retial shop is on the Second floor of the Mall.
+<li><b> Category:</b> Second floor of Trehan IRIS Broadway is dedicated for Womens and Kids Brands only.
+<li><b> Layout:</b> This shop is in the next to the elevators facing the atrium of the mall
+<li><b> Facing:</b> Atrium facing shop of the mall at the second floor.
+<li><b> Size:</b> This is a 314 sq-ft carpet area shop.
+<li><b> Resale Unit:</b> The best atrium facing, big size retail shop available at affordable price without any brokerage.
 
 ### Additional Perks
-* Win a gift worth 2,000/- for every visit to Trehan IRIS Broadway Noida.
-* Win a gold coin for making a purchase of this shop.
-* We're also offering an additional discount of 90,000/- for first 20 visitors to this shop.
+<li> Win a gift worth 2,000/- for every visit to Trehan IRIS Broadway Noida.
+<li> Win a gold coin for making a purchase of this shop.
+<li> We're also offering an additional discount of 90,000/- for first 20 visitors to this shop.
 
 ### Benefits of Investing in this Retail Shop:
-* Retail shops as an independent unit can be available at more affordable price than other investment options in commerical mall.
-* A Retail shop is better defined than a virtual space in an anchor store.
-* Corner Retail shops are generally rented at a higher price than other retail store.
-* A Retail shop with no coulumn in between offers better interior design and inventory placement, providing more aesthetic look to the shop.
+<li> Retail shops as an independent unit can be available at more affordable price than other investment options in commerical mall.
+<li> A Retail shop is better defined than a virtual space in an anchor store.
+<li> Corner Retail shops are generally rented at a higher price than other retail store.
+<li> A Retail shop with no coulumn in between offers better interior design and inventory placement, providing more aesthetic look to the shop.
 
 ### Benefits of Investing in Trehan IRIS Broadway Greno West:
-* Investors won’t have to go throught the hassle of finding brands to rent their shops to.
-* Trehan will take care of finding brands and renting them the stores as per the mall design.
-* Trehan will analyze shopper behaviour, tenant sales, category performance, and they’ll determine the best mix of stores and their location to boost their revenues. This will ensure profitability for shops and hence long term rental income for investors.
+<li> Investors won’t have to go throught the hassle of finding brands to rent their shops to.
+<li> Trehan will take care of finding brands and renting them the stores as per the mall design.
+<li> Trehan will analyze shopper behaviour, tenant sales, category performance, and they’ll determine the best mix of stores and their location to boost their revenues. This will ensure profitability for shops and hence long term rental income for investors.

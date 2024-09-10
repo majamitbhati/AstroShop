@@ -38,35 +38,35 @@ This exceptional retail shop is located in the largest upcoming commercial mall 
 ---
 
 ## **Shop Overview**
-- **Floor:** This retail shop is situated on the second floor of the mall.  
-- **Category:** The second floor of Trehan IRIS Broadway is dedicated exclusively to women's and kids brands.  
-- **Layout:** The shop features a rectangular layout with no columns, allowing for a spacious and unobstructed design.  
-- **Facing:** Positioned at the corner of the lobby intersection, it enjoys exposure from two directions.  
-- **Size:** The shop offers a super area of 183 sq. ft.
-- **Resale Unit:** As a resale unit from an investor, there are no additional brokerage fees involved in the purchase.  
-- **No-PLC:** Despite being a corner unit, a nominal Preferential Location Charge (PLC) is charged for this shop.
+<li> <b>Floor:</b> This retail shop is situated on the second floor of the mall.  
+<li> <b>Category:</b> The second floor of Trehan IRIS Broadway is dedicated exclusively to women's and kids brands.  
+<li> <b>Layout:</b> The shop features a rectangular layout with no columns, allowing for a spacious and unobstructed design.  
+<li> <b>Facing:</b> Positioned at the corner of the lobby intersection, it enjoys exposure from two directions.  
+<li> <b>Size:</b> The shop offers a super area of 183 sq. ft.
+<li> <b>Resale Unit:</b> As a resale unit from an investor, there are no additional brokerage fees involved in the purchase.  
+<li> <b>No-PLC:</b> Despite being a corner unit, a nominal Preferential Location Charge (PLC) is charged for this shop.
 
 ---
 
 ### **Exclusive Offers**
-- Receive a gift worth ₹2,000 for the first visit to Trehan IRIS Broadway Noida.  
-- Win a gold coin upon purchasing this shop.  
-- Enjoy an exclusive discount of ₹90,000.
+<li> Receive a gift worth ₹2,000 for the first visit to Trehan IRIS Broadway Noida.  
+<li> Win a gold coin upon purchasing this shop.  
+<li> Enjoy an exclusive discount of ₹90,000.
 
 ---
 
 ### **Key Advantages of Investing in This Retail Shop**
-- Retail shops are available at more competitive prices compared to other commercial mall investments.  
-- Owning a retail shop offers more tangible benefits than investing in virtual spaces within anchor stores.  
-- Corner retail shops generally command higher rental rates due to their premium location and increased visibility.  
-- A shop without interior columns allows for greater flexibility in interior design and inventory arrangement, enhancing the aesthetic appeal.
+<li> Retail shops are available at more competitive prices compared to other commercial mall investments.  
+<li> Owning a retail shop offers more tangible benefits than investing in virtual spaces within anchor stores.  
+<li> Corner retail shops generally command higher rental rates due to their premium location and increased visibility.  
+<li> A shop without interior columns allows for greater flexibility in interior design and inventory arrangement, enhancing the aesthetic appeal.
 
 ---
 
 ### **Benefits of Investing in Trehan IRIS Broadway Greno West**
-- Investors won’t need to worry about leasing their shops to tenants—Trehan manages the entire process.  
-- Trehan ensures a well-planned mix of brands, selecting tenants based on shopper behavior, sales performance, and category success, maximizing profitability.  
-- This thoughtful approach guarantees sustained rental income and long-term returns for investors.
+<li> Investors won’t need to worry about leasing their shops to tenants—Trehan manages the entire process.  
+<li> Trehan ensures a well-planned mix of brands, selecting tenants based on shopper behavior, sales performance, and category success, maximizing profitability.  
+<li> This thoughtful approach guarantees sustained rental income and long-term returns for investors.
 
 ---
 

@@ -35,23 +35,23 @@ ptz6: No extra PLC (Preferred Location Charges) would be charged for this shop e
 > _In case you're looking for a fresh retail shop in Trehan IRIS Broadway Noida, this is the best decent sized Corner facing Retail shop on the first floor of the shop. Even though this shop is a corner shop, only a noimminal amount of PLC would be charged on this shop. _
 
 ### Overview of this Shop:
-* **Floor:** This shop is on the first floor of the mall and belongs to a cluster which is dedicated only to serve Mens and Sports Section.
-* **Layout:** This is a Corner Facing Shop without any coulumns within the shop, which will help your tenants get a better design of the project.
-* **Category:** This shop is available on the first floor, dedicated only for Men's and Sports wear brands.
-* **Facing:** This is a Corner facing shop, available at the intersection of the main gallary and the lobby turning in. This provides a better visibility and footfall to the shop, enhancing the revenue of the shop and also benefiting the overall rent of the shop as well.
+<li> <b>Floor:</b> This shop is on the first floor of the mall and belongs to a cluster which is dedicated only to serve Mens and Sports Section.
+<li> <b>Layout:</b> This is a Corner Facing Shop without any coulumns within the shop, which will help your tenants get a better design of the project.
+<li> <b>Category:</b> This shop is available on the first floor, dedicated only for Men's and Sports wear brands.
+<li> <b>Facing:</b> This is a Corner facing shop, available at the intersection of the main gallary and the lobby turning in. This provides a better visibility and footfall to the shop, enhancing the revenue of the shop and also benefiting the overall rent of the shop as well.
 
 ### Exclusive Deal on this Particular Shop:
-* No Brokerage charges included in this fresh shop for sale.
-* A Nominal PLC would be charged for this shop inspite of this shop being a corner shop.
-* An additional gift worth 2,000/- would be given on the first visit to the shop.
-* Win a Free Gold Coin on the Purchase of the shop.
+<li> No Brokerage charges included in this fresh shop for sale.
+<li> A Nominal PLC would be charged for this shop inspite of this shop being a corner shop.
+<li> An additional gift worth 2,000/- would be given on the first visit to the shop.
+<li> Win a Free Gold Coin on the Purchase of the shop.
 
 ### Benefits of Investing in a Retail Shop:
-* Retail shops are better off as an investment option if you're looking to make a higher return against a lower investment amount.
-* Retail shops are very affordable than a Food Court.
-* Even though a Retail shop and anchor shop might have similar return on investment, Retail shop has difined boundaries.
+<li> Retail shops are better off as an investment option if you're looking to make a higher return against a lower investment amount.
+<li> Retail shops are very affordable than a Food Court.
+<li> Even though a Retail shop and anchor shop might have similar return on investment, Retail shop has difined boundaries.
 
 ### Benefits of Investing with IRIS Trehan Broadway Noida West
-* Investing in Trehan IRIS is most benefitial because they are working on lease-use model.
-* In Lease-use model the shops won't be available for personel use but only Trehan has the leasing rights of the shops in Trehan IRIS Broadway Noida.
-* Here the investor won't have to look out for the renters of their shop, The leasing team of Trehan IRIS will be responsible to look out for shops to rent their shops to, ensuring a consistent rental income for the investors for a long term.
+<li> Investing in Trehan IRIS is most benefitial because they are working on lease-use model.
+<li> In Lease-use model the shops won't be available for personel use but only Trehan has the leasing rights of the shops in Trehan IRIS Broadway Noida.
+<li> Here the investor won't have to look out for the renters of their shop, The leasing team of Trehan IRIS will be responsible to look out for shops to rent their shops to, ensuring a consistent rental income for the investors for a long term.

@@ -32,9 +32,19 @@ ptz6: No extra PLC (Preferred Location Charges) would be charged for this shop e
 
 ---
 
-> _This is one of the best Retail shops available in the biggest upcoming commercial mall of Greater Noida, Trehan IRIS Broadway Greno West. This is a corner retial store, offering visibility from both the sides of the walkway intersection. Corner shops are generally rented on a higher rent because it offers, higher revenue to the tenants._
+> _Among all the stores in Trehan IRIS Broadway Greno West, this retail shop has all the attriubutes to be called the best retail shop. This is an atrium facing, independent, corner, retail shop. It has high visibility from most of the mall, resulting in high visibility from the ground to third floor, generating highest footfall and hence maximizing the revenue of the shop._
 
+### Overview of the Shop
+<li><b>Floor: </b>This shop is on the second floor of the mall as a part of cluster dedicated only for women's and kids section.
+<li><b>Layout: </b>This is a L-shaped retail shop on the main gallary of the second floor.
+<li><b>Facing: </b>This is an atrium facing corner shop, strategically located on the intersection of the main gallary and the lobby at the second floor
+<li><b>Size: </b>Super size of this retail shop is 339 sq. ft. and an approximate carpet area of this shop is 160 sq. ft.
 
-##lorem ipsum
+### Best Available Deals on this shop:
+<li> Get an Exclusive discount of 3 lac and 13 thousand on this particular shop in Trehan IRIS Broadway Noida.
+<li> Win an exclusive gift worth 2,000/- on the first visit to the shop.
+<li> Get a Mimimum Lease Guarantee of this shop for a period of 3 years from possession.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente aliquam hic mollitia. Atque itaque, a neque provident ratione optio, aspernatur fuga animi explicabo quod repudiandae deleniti suscipit deserunt necessitatibus error quo? Ipsa natus fugiat blanditiis modi beatae quo dolorum reprehenderit sed, at voluptas incidunt odit voluptatibus molestias esse debitis laudantium animi cumque corporis ea? Reiciendis dolores veniam suscipit ipsam nam eligendi esse cumque reprehenderit? Illum consequatur deleniti est porro, optio libero dolores at natus! Veniam possimus aspernatur quo adipisci dignissimos excepturi accusamus aliquid quod cupiditate, voluptates ipsa voluptatem alias, deserunt quis magni minima ducimus explicabo veritatis velit ullam atque quaerat.
+### Benefits of Investing in Retail Shop:
+<li> One of the major benefits of investing in a retail shop of a mall over an ordinary shopping complex is that the malls invest in aesthetics to attract visitors, benefiting all the retail shops in the malls
+<li> 

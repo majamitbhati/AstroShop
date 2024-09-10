@@ -38,29 +38,29 @@ ptz5: Until possession, investor’s can also enjoy 12% annual assured return by
 > _This is one of the best large size atrium facing retail shop on the first floor. This average sized retail shop is right beside the lobby facing the atrium offering great visibility. This shop is best suited to investor who are looking for an average sized atrium facing shop._
 
 ## Overview of this Shop
-* **Floor:** This Retial shop is on the First floor of the Mall.
-* **Category:** First floor of Trehan IRIS Broadway is dedicated for Womens and Kids Brands only.
-* **Layout:** This shop is in line to the lobby facing the atrium of the mall
-* **Facing:** This is an Atrium facing shop of the mall at the first floor.
-* **Size:** This is a 430 sq-ft carpet area shop.
-* **Resale Unit:** The best atrium facing, big size retail shop available at affordable price without any brokerage.
+<li> <b>Floor:</b> This Retial shop is on the First floor of the Mall.
+<li> <b>Category:</b> First floor of Trehan IRIS Broadway is dedicated for Womens and Kids Brands only.
+<li> <b>Layout:</b> This shop is in line to the lobby facing the atrium of the mall
+<li> <b>Facing:</b> This is an Atrium facing shop of the mall at the first floor.
+<li> <b>Size:</b> This is a 430 sq-ft carpet area shop.
+<li> <b>Resale Unit:</b> The best atrium facing, big size retail shop available at affordable price without any brokerage.
 
 ### Additional Perks
-* This is lockable retail shop, available for resale by the investor.
-* No-PLC charges included
-* No-brokerage charges included
-* Addional Discout of 90,000/- for first 10 visitors
-* Gold coin as a gift after purchase
-* 2000/- worth of gift at every visit.
+<li> This is lockable retail shop, available for resale by the investor.
+<li> No-PLC charges included
+<li> No-brokerage charges included
+<li> Addional Discout of 90,000/- for first 10 visitors
+<li> Gold coin as a gift after purchase
+<li> 2000/- worth of gift at every visit.
 
 
 ### Benefits of Investing in this Retail Shop:
-* Retail shops in malls can generate conistent rental income from tenants.
-* A mall that can attract large crowd increases the likelyhood of long-term occupancy.
-* A mall in a prime location can ensure strong demand for retail space.
-* In a successfull mall, retail shops offers great capital appretiation.
+<li> Retail shops in malls can generate conistent rental income from tenants.
+<li> A mall that can attract large crowd increases the likelyhood of long-term occupancy.
+<li> A mall in a prime location can ensure strong demand for retail space.
+<li> In a successfull mall, retail shops offers great capital appretiation.
 
 ### Benefits of Investing in Trehan IRIS Broadway Greno West:
-* **Fully AC Mall:** Trehan IRIS Broadway is a fully AC-mall that tends to attract more crowd.
-* **100% Paid-up Land:** 100% price of the land is already paid by the builder in advance.
-* **3.5 Acres Commercial Land:** This project is being build on a 3.5 acres of 100% commercial land.
+<li> <b>Fully AC Mall:</b> Trehan IRIS Broadway is a fully AC-mall that tends to attract more crowd.
+<li> <b>100% Paid-up Land:</b> 100% price of the land is already paid by the builder in advance.
+<li> <b>3.5 Acres Commercial Land:</b> This project is being build on a 3.5 acres of 100% commercial land.

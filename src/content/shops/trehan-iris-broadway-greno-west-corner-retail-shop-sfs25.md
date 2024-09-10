@@ -35,23 +35,23 @@ ptz6: No extra PLC (Preferred Location Charges) would be charged for this shop e
 > _Are you looking for a lockable retail shop in Greater Noida? Trehan IRIS Broadway Noida offers retail shops at a prime location in greater noida, attracting major high networth crowd from the nerby residential and working population. The office spaces available in the mall itself can also offer as a traction for major working population._
 
 ### Overview of this shop
-* **Size:** The Super area of this shop is 203 sq. ft. and the carpet area of this shop is approximately 95 sq. ft.
-* **Layout:** This is a square shop, without any columns in between the store, offering better investory and staff management.
-* **Facing:** This is a corner shop on the second floor of the mall, at the intersection of the main gallary of second floor and the lobby.
-* **Floor:** This shop is on the second floor of the mall, which is part of a cluster called, "Verv" and is dedicated to women's and kids brands only.
+<li> <b>Size:</b> The Super area of this shop is 203 sq. ft. and the carpet area of this shop is approximately 95 sq. ft.
+<li> <b>Layout:</b> This is a square shop, without any columns in between the store, offering better investory and staff management.
+<li> <b>Facing:</b> This is a corner shop on the second floor of the mall, at the intersection of the main gallary of second floor and the lobby.
+<li> <b>Floor:</b> This shop is on the second floor of the mall, which is part of a cluster called, "Verv" and is dedicated to women's and kids brands only.
 
 ### Exclusive Deals
-* Get an exclusive discount of 8 lacs and 70 thousand on this particular retail shop
-* Win an exlusive gift worth 2,000/- on the first visit of this shop
-* Win an additional gold coin on the purchase of the property.
-* This is one of the few Fresh Units available in the retail shops of the mall.
+<li> Get an exclusive discount of 8 lacs and 70 thousand on this particular retail shop
+<li> Win an exlusive gift worth 2,000/- on the first visit of this shop
+<li> Win an additional gold coin on the purchase of the property.
+<li> This is one of the few Fresh Units available in the retail shops of the mall.
 
 ### Benefit of Investing in Retail Shop
-* Retail shop is one of the least risky investment in Commercial real estate.
-* If one shop in the mall faces challenge, the overall mall ecosystem can help absorb the impact.
-* Retail shop in a commercial mall is an investment vehicle to generate easy passive income from the rental yield.
+<li> Retail shop is one of the least risky investment in Commercial real estate.
+<li> If one shop in the mall faces challenge, the overall mall ecosystem can help absorb the impact.
+<li> Retail shop in a commercial mall is an investment vehicle to generate easy passive income from the rental yield.
 
 ### Beneftis of Investing in Trehan IRIS Broadway Noida Extension
-* Trehan IRIS Broadway being run on a very large scale, helps reduce the maintanence cost of each investor.
-* They have 24x7 security personnel, surveillance systems, and protocols in place, This adds as extra layer of safety for your investment.
-* Mall's management will handle all the common areas, maintenance, and utilities. You only have to pay your minimum maintenance fees.
+<li> Trehan IRIS Broadway being run on a very large scale, helps reduce the maintanence cost of each investor.
+<li> They have 24x7 security personnel, surveillance systems, and protocols in place, This adds as extra layer of safety for your investment.
+<li> Mall's management will handle all the common areas, maintenance, and utilities. You only have to pay your minimum maintenance fees.
