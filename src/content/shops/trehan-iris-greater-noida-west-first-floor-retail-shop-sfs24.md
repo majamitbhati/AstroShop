@@ -31,10 +31,25 @@ ptz6: No extra PLC (Preferred Location Charges) would be charged for this shop e
 
 
 ---
+> _This is one of the prime retail shops available in Trehan IRIS Broadway Greno West, the largest upcoming commercial mall in Greater Noida. Ideal for those seeking an affordable investment, this retail shop is located on the second floor, dedicated exclusively to women's and kids' wear brands._
 
-> _This is one of the best Retail shops available in the biggest upcoming commercial mall of Greater Noida, Trehan IRIS Broadway Greno West. This is a corner retial store, offering visibility from both the sides of the walkway intersection. Corner shops are generally rented on a higher rent because it offers, higher revenue to the tenants._
+### Shop Overview
+* **Floor:** Situated on the second floor of the mall, this shop is part of the "Verv" cluster, reserved for women's and kids' wear brands.
+* **Layout:** The shop features a trapezium-shaped design with no columns, allowing for efficient inventory and staff management.
+* **Size:** The super area of this shop is 203.44 sq. ft., with an approximate carpet area of 96 sq. ft.
+* **Facing:** This shop faces the main lobby of the mall, ensuring high visibility and increased foot traffic.
 
+### Exclusive Offers on This Retail Shop
+* Enjoy an exclusive discount of ₹8.74 lakhs on this shop.
+* Receive a **free gold coin** on every visit to the shop.
+* Get an additional **gift worth ₹2,000** on your first visit.
 
-##lorem ipsum
+### Benefits of Investing in a Retail Shop
+* Real estate, especially retail properties, tends to perform well during inflationary periods, with property values rising alongside prices.
+* Retail rents often include **built-in escalations**, which means rent increases periodically, helping to keep pace with inflation.
+* Investing in a retail shop in a thriving commercial area like Greno West can attract successful businesses, increasing both property value and rental income as the local economy grows.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente aliquam hic mollitia. Atque itaque, a neque provident ratione optio, aspernatur fuga animi explicabo quod repudiandae deleniti suscipit deserunt necessitatibus error quo? Ipsa natus fugiat blanditiis modi beatae quo dolorum reprehenderit sed, at voluptas incidunt odit voluptatibus molestias esse debitis laudantium animi cumque corporis ea? Reiciendis dolores veniam suscipit ipsam nam eligendi esse cumque reprehenderit? Illum consequatur deleniti est porro, optio libero dolores at natus! Veniam possimus aspernatur quo adipisci dignissimos excepturi accusamus aliquid quod cupiditate, voluptates ipsa voluptatem alias, deserunt quis magni minima ducimus explicabo veritatis velit ullam atque quaerat.
+### Advantages of Investing in Trehan IRIS Broadway Greno West
+* Trehan IRIS Broadway operates on a **leasing model** for retail shops, food courts, anchor shops, and entertainment zones.
+* This leasing model eliminates the hassle for investors by handling the process of finding brands to rent the shops, collecting rent, and maintaining the property.
+* Trehan Group’s leasing team will manage everything—from securing tenants to ensuring timely rent collection and distribution among investors.
