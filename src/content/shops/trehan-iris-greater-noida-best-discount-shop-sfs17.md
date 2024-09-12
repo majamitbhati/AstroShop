@@ -32,9 +32,25 @@ ptz6: No extra PLC (Preferred Location Charges) would be charged for this shop e
 
 ---
 
-> _This is one of the best Retail shops available in the biggest upcoming commercial mall of Greater Noida, Trehan IRIS Broadway Greno West. This is a corner retial store, offering visibility from both the sides of the walkway intersection. Corner shops are generally rented on a higher rent because it offers, higher revenue to the tenants._
+> _This is the most affordable retail shop on the first floor of Trehan IRIS Broadway Greno West. One of the best retail shop available for resale by an investor which is available without any brokerage charge or any PLC Charges._
 
+### Overview of this shop
+<li><b>Floor:</b> This shop is available on the first floor of the mall which is dedicated for mens and sports wear brands.
+<li><b>Layout:</b> This retail shop is a rectangular shop facing the lobby of the mall.
+<li><b>Facing:</b> This shop is facing the main lobby of the mall.
+<li><b>Size:</b> Super size of this retail shop is 183.95 sq. ft. and an approximate carpet area of this shop is 86.5 sq. ft.
 
-##lorem ipsum
+### Exclusive Benefits:
+<li> This shop is available without any brokerage charges.
+<li> This shop is available for sale without any additional PLC charges.
+<li> Win an additional gift worth 2,000/- on first visit to the store.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente aliquam hic mollitia. Atque itaque, a neque provident ratione optio, aspernatur fuga animi explicabo quod repudiandae deleniti suscipit deserunt necessitatibus error quo? Ipsa natus fugiat blanditiis modi beatae quo dolorum reprehenderit sed, at voluptas incidunt odit voluptatibus molestias esse debitis laudantium animi cumque corporis ea? Reiciendis dolores veniam suscipit ipsam nam eligendi esse cumque reprehenderit? Illum consequatur deleniti est porro, optio libero dolores at natus! Veniam possimus aspernatur quo adipisci dignissimos excepturi accusamus aliquid quod cupiditate, voluptates ipsa voluptatem alias, deserunt quis magni minima ducimus explicabo veritatis velit ullam atque quaerat.
+### Beneftis of Investing in a Retail Shop:
+<li> Retail Shop allow investors to start investing with smaller capital compared to larger real estate properties. You don't need to commit substantial funds upfront. 
+<li> Investing in a retail shop is a good way to diversify your investment and mitigate risk.
+<li> Real Estate can act as a hedge against stock market volatility. Diversification helps spread risk and potentially enhances overall returns.
+
+### Benefits of Investing in Trehan IRIS Broadway Noida
+<li> Strategic Location of Trehan IRIS Broadway at a 130 m wide road allows easy access of major crowd working and living in the nearby areas.
+<li> Upcoming metro line with Ecotech-12 Metro station next to the mall allows easy accessibillity of crowd into the mall.
+<li> Upcoming Airport, Jewar International Airport with annual capacity of 40 million passangers, will benefit the mall as well.

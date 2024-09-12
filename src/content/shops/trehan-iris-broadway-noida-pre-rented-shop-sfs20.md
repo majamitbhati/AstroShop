@@ -47,4 +47,10 @@ ptz6: No extra PLC (Preferred Location Charges) would be charged for this shop e
 
 ### Benefits of Investing in Retail Shop:
 <li> One of the major benefits of investing in a retail shop of a mall over an ordinary shopping complex is that the malls invest in aesthetics to attract visitors, benefiting all the retail shops in the malls
-<li> 
+<li> Being part of a mall community allows you to network with other business owners. Building relationships with neighboring shops can lead to mutual benefits.
+<li> Retail shops allow investors to start with smaller capital compared to larger real estate properties. Investors don't need to commit substantial funds upfront. 
+
+### Benefits of Investing in Trehan IRIS Broadway Greno West:
+<li> Trehan IRIS is best commercial mall in Greater Noida West.
+<li> This is a fully air-conditioned mall, which helps to attract major crowd to hangout.
+<li> 24x7 security and CCTV ensures safety of all the physical assets of the investors within the mall.
